@@ -11,8 +11,7 @@
     * [Prerequisites]
     * [Installation]
         * [Configuration]
-        * [Run with docker compose]
-        * [Run on IntelliJ IDEA (2023.1.1)]
+        * [Run with Visual Studio Code]
 
 ## About The Application
 
