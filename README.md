@@ -28,7 +28,7 @@
 #### Cấu hình
 Cài đặt các thư viện, plugin cần thiết cho mô tả và trực quan dữ liệu, khởi chạy file `.ipynb`
 
-#### Run with Visual Studio Code
+#### Khởi chạy chương trình
 
 1. Clone the repo
    ```sh
