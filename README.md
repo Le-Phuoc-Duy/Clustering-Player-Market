@@ -1,33 +1,32 @@
 <span id="readme-top"></span>
 <div style="text-align: center;">
-   <h1 style="text-align: center;">Player Clustering Web</h1>
-   <p style="text-align: center;">Web application for Clustering the football player market</p>
+   <h1 style="text-align: center;">Phân cụm thị trường cầu thủ bóng đá</h1>
+   <p style="text-align: center;">Chương trình phân cụm thị trường cầu thủ bóng đá dựa vào các tiêu chí đánh giá</p>
 </div>
 
-## Table of Contents
+## Mục lục
 
-1. [About The Application]
-2. [Getting Started]
-    * [Prerequisites]
-    * [Installation]
-        * [Configuration]
-        * [Run with Visual Studio Code]
+1. [Giới thiệu ứng dụng]
+2. [Bắt đầu]
+    * [Đầu tiên]
+    * [Cài đặt]
+        * [Cấu hình]
+        * [Khởi chạy chương trình]
 
-## About The Application
+## Giới thiệu ứng dụng
 
-This is a web application for clustering the football player market, you need to run the application to scrape data, clean and transform the data
+Đây là một chương trình để thu thập, làm sạch và trực quan hóa dữ liệu cầu thủ bóng đá
 
-## Getting Started
+## Bắt đầu
 
-### Prerequisites
+### Đầu tiên
 
-* Make sure that you have installed python on your machine
+* Đảm bảo đã cài đặt các thư viện cần thiết vị trí đầu của các file `.ipynb`
 
-### Installation
+### Cài đặt
 
-#### Configuration
-1. Go to "requirements.txt"
-2. Install all required libraries and plugins
+#### Cấu hình
+Cài đặt các thư viện, plugin cần thiết cho mô tả và trực quan dữ liệu, khởi chạy file `.ipynb`
 
 #### Run with Visual Studio Code
 
@@ -35,5 +34,7 @@ This is a web application for clustering the football player market, you need to
    ```sh
    git clone https://github.com/tiennhat306/Clustering-Player-Market.git
     ```
-2. Run `raw_data.ipynb` and `raw_detail.ipynb` file in `raw data` directory
-3. ...
+2. Chạy các file `crawl_data.ipynb` sau đó `craw_detail.ipynb` trong thư mục gốc để thu thập dữ liệu.
+3. Chạy file `clean_data.ipynb` để tiến hành làm sạch dữ liệu: sửa lỗi định dạng, xóa dữ liệu bị thiếu. Xem cách xử lý và trực quan hoá sự thay đổi của phân bố dữ liệu trước và sau xử lý.
+3. Tại file `univariate_data_visualization.ipynb`, chạy tất cả chương trình để xem các thống kê mô tả trực quan về dữ liệu đơn biến đối với một vài biến quan trọng.
+4. Tại file `variate_data_visualization.ipynb`, chạy tất cả chương trình để xem các mối quan hệ tiềm ẩn giữa các biến trong tập dữ liệu. Hay xem biểu đồ trực quan hoá không gian dữ liệu nhiều chiều để quan sát được tính chất cụm của tập dữ liệu đầu vào.
