@@ -1,0 +1,211 @@
+rank,name,name_code,points,tournament_name
+1,Argentina,ARG,1858.0,Copa de la Liga Profesional
+2,France,FRA,1840.59,Ligue 2
+3,Belgium,BEL,1795.23,Challenger Pro League
+4,England,ENG,1794.9,Championship
+5,Brazil,BRA,1788.65,Brasileirão Série B
+6,Portugal,POR,1748.11,Liga Portugal 2
+7,Netherlands,NED,1742.29,Eerste Divisie
+8,Spain,ESP,1727.5,LaLiga 2
+9,Italy,ITA,1724.6,Serie B
+10,Croatia,CRO,1721.07,Croatian Cup
+11,USA,USA,1681.13,MLS All Star Game
+12,Colombia,COL,1664.28,"Primera A, Clausura"
+13,Morocco,MAR,1661.42,Botola Pro 2
+14,Mexico,MEX,1661.11,"Liga MX, Clausura"
+15,Uruguay,URU,1659.39,Segunda División
+16,Germany,GER,1644.21,2. Bundesliga
+17,Senegal,SEN,1624.73,
+18,Japan,JPN,1621.88,J2 League
+19,Switzerland,SUI,1616.41,Challenge League
+20,Iran,IRI,1613.96,Azadegan League
+21,Denmark,DEN,1602.72,1st Division
+22,Ukraine,UKR,1568.86,
+23,South Korea,KOR,1563.99,K League 2
+24,Australia,AUS,1563.93,A-League Women
+25,Austria,AUT,1554.86,ÖFB Cup
+26,Hungary,HUN,1532.2,NB II
+27,Sweden,SWE,1531.68,Superettan
+28,Poland,POL,1531.49,I Liga
+29,Wales,WAL,1531.38,Cymru North
+30,Nigeria,NGR,1520.27,
+31,Ecuador,ECU,1518.22,LigaPro Serie B
+32,Peru,PER,1515.82,Liga 2
+33,Serbia,SRB,1514.2,Mozzart Bet Prva Liga
+34,Qatar,QAT,1507.94,
+35,Russia,RUS,1504.02,Russian Cup
+36,Czech Republic,CZE,1501.47,FNL
+37,Egypt,EGY,1499.72,Egypt Cup
+38,Côte d'Ivoire,CIV,1498.8,
+39,Scotland,SCO,1497.46,Championship
+40,Turkey,TUR,1495.94,Trendyol 1.Lig
+41,Tunisia,TUN,1493.12,
+42,Chile,CHI,1491.71,Primera B
+43,Algeria,DZA,1482.71,Ligue 2
+44,Mali,MLI,1477.9,
+45,Panama,PAN,1475.62,"Liga Panameña de Fútbol, Clausura"
+46,Romania,ROU,1468.17,Liga II
+47,Norway,NOR,1467.51,1st Division
+48,Slovakia,SVK,1461.55,
+49,Canada,CAN,1461.16,
+50,Greece,GRE,1457.89,Super League 2
+51,Cameroon,CMR,1452.59,
+52,Costa Rica,CRC,1445.38,"Primera División, Clausura"
+53,Saudi Arabia,KSA,1443.53,Division 1
+54,Venezuela,VEN,1442.29,
+55,Jamaica,JAM,1435.33,
+56,Paraguay,PAR,1430.73,"Primera División, Clausura"
+57,Slovenia,SLO,1427.84,
+58,Iraq,IRQ,1420.47,
+59,South Africa,RSA,1407.67,Motsepe Foundation Championship
+60,Ireland,IRL,1399.74,First Division
+61,Finland,FIN,1394.44,Ykkösliiga
+62,Burkina Faso,BUR,1390.38,
+63,DR Congo,COD,1388.25,
+64,Uzbekistan,UZB,1386.58,
+65,Cape Verde,CPV,1383.44,
+66,Albania,ALB,1375.1,Kategoria e Pare
+67,United Arab Emirates,UAE,1366.45,
+68,Ghana,GHA,1358.77,Access Bank Division One
+69,North Macedonia,MKD,1354.19,
+70,Montenegro,MNE,1351.72,
+71,Jordan,JOR,1350.21,Jordan 1st Division
+72,Iceland,ISL,1346.82,1. deild
+73,Northern Ireland,NIR,1341.05,
+74,Bosnia & Herzegovina,BIH,1335.6,
+75,Georgia,GEO,1333.76,Erovnuli Liga 2
+76,Guinea,GUI,1324.65,
+77,Oman,OMN,1323.23,Sultan Cup
+78,Israel,ISR,1311.39,National League
+79,Equatorial Guinea,GEQ,1308.03,
+80,Bahrain,BHR,1307.53,2nd Division
+81,El Salvador,ESA,1305.02,"Primera División, Clausura"
+82,Honduras,HON,1301.92,"Liga Betcris de Honduras, Clausura"
+83,Bulgaria,BUL,1292.59,Vtora Liga
+84,Gabon,GAB,1287.33,
+85,Bolivia,BOL,1283.88,
+86,Zambia,ZAM,1278.26,
+87,Luxembourg,LUX,1277.94,
+88,China,CHN,1275.22,CFA China League
+89,Syria,SYR,1266.52,
+90,Haiti,HAI,1262.5,
+91,Curaçao,CUR,1262.48,
+92,Uganda,UGA,1242.15,Big League
+93,Palestine,PSE,1238.66,West Bank League
+94,Angola,ANG,1235.76,
+95,Armenia,ARM,1229.18,First League
+96,Belarus,BLR,1226.54,
+97,Benin,BEN,1225.68,
+98,Trinidad and Tobago,TTO,1220.65,
+99,Tajikistan,TJK,1216.76,
+100,Kyrgyzstan,KGZ,1213.6,
+101,Thailand,THA,1208.93,Thai League 2
+102,Kosovo,KOS,1205.85,
+103,Kazakhstan,KAZ,1203.64,First Division
+104,New Zealand,NZL,1197.68,
+105,Mauritania,MRT,1195.5,
+106,Namibia,NAM,1192.13,
+107,Kenya,KEN,1191.24,
+108,Guatemala,GUA,1188.28,"Liga Guate Banrural, Clausura"
+109,Madagascar,MAD,1185.86,
+110,Mozambique,MOZ,1184.49,
+111,Congo Republic,COG,1179.8,
+112,Azerbaijan,AZE,1177.83,Birinci Liqa
+113,Togo,TOG,1170.34,
+114,Libya,LBA,1166.71,First Division
+115,Vietnam,VIE,1164.54,
+116,Guinea-Bissau,GBS,1163.44,
+117,Comoros,COM,1163.02,
+118,North Korea,DPR,1160.57,
+119,Tanzania,TAN,1159.81,Championship
+120,Lebanon,LBN,1158.96,Lebanon Cup
+121,India,IND,1145.94,I-League
+122,Zimbabwe,ZIM,1143.66,
+123,Estonia,EST,1141.13,Esiliiga
+124,Cyprus,CYP,1141.03,
+125,Malawi,MAW,1140.93,
+126,Sierra Leone,SLE,1137.36,
+127,Sudan,SDN,1129.32,
+128,Central African Republic,CAF,1128.17,
+129,Niger,NIG,1125.5,
+130,Gambia,GAM,1114.8,GFF Second Division
+131,Rwanda,RWA,1112.44,
+132,Solomon Islands,SOL,1111.02,
+133,Faroe Islands,FRO,1103.43,1. deild
+134,Indonesia,INA,1102.7,
+135,Nicaragua,NCA,1102.54,
+136,Latvia,LAT,1095.91,
+137,Lithuania,LTU,1095.23,Pirma Lyga
+138,Malaysia,MAS,1094.54,
+139,Kuwait,KUW,1085.46,
+140,Burundi,BDI,1081.63,Ligue B Nationale
+141,Philippines,PHI,1075.14,
+142,Antigua and Barbuda,ANT,1072.66,
+143,Turkmenistan,TKM,1072.52,
+144,Suriname,SUR,1071.85,
+145,Ethiopia,ETH,1068.48,
+146,Botswana,BOT,1065.07,
+147,Saint Kitts and Nevis,KNA,1056.61,Division 1
+148,Eswatini,ESW,1048.89,
+149,Lesotho,LES,1047.58,
+150,Dominican Republic,DOM,1042.86,
+151,Afghanistan,AFG,1036.92,
+152,Liberia,LBR,1029.58,
+153,Moldova,MDA,1028.85,
+154,Guyana,GUY,1020.31,
+155,Singapore,SIN,1019.06,
+156,Yemen,YEM,1017.05,
+157,Hong Kong,HKG,1012.83,Division 1
+158,New Caledonia,NCL,1008.92,
+159,Chinese Taipei,TPE,1007.3,
+160,Puerto Rico,PUR,1006.35,
+161,Maldives,MDV,1003.48,
+162,Tahiti,TAH,999.48,
+163,Myanmar,MYA,999.46,
+164,Andorra,AND,998.75,
+165,Saint Lucia,LCA,988.67,
+166,Papua New Guinea,PNG,985.32,
+167,South Sudan,SSD,984.65,
+168,Fiji,FIJ,983.81,
+169,Cuba,CUB,980.65,
+170,Bermuda,BER,974.3,
+171,Malta,MLT,973.14,Challenge League
+172,Vanuatu,VAN,972.14,
+173,Saint Vincent and the Grenadines,VCT,953.47,
+174,Grenada,GRN,950.99,
+175,Montserrat,MSR,946.08,
+176,Chad,CHA,945.92,
+177,Barbados,BAR,943.8,
+178,Nepal,NEP,937.84,
+179,Cambodia,CAM,925.4,Hun Sen Cup
+180,Dominica,DMA,922.25,
+181,Samoa,SAM,920.54,
+182,Belize,BIZ,919.52,
+183,Mauritius,MRI,919.4,
+184,Bangladesh,BAN,905.3,Championship League
+185,Bhutan,BHU,904.1,
+186,Macau,MAC,896.62,
+187,Cook Islands,COK,896.59,
+188,São Tomé and Príncipe,STP,893.58,
+189,American Samoa,ASA,890.97,
+190,Laos,LAO,889.62,
+191,Mongolia,MGL,884.04,
+192,Djibouti,DJI,877.28,
+193,Aruba,ARU,875.82,
+194,Brunei Darussalam,BRU,872.65,
+195,Pakistan,PAK,849.94,
+196,Cayman Islands,CAY,847.81,
+197,Seychelles,SEY,845.53,
+198,East Timor,TLS,843.4,
+199,Somalia,SOM,842.64,
+200,Bahamas,BAH,835.81,
+201,Tonga,TGA,833.12,
+202,Liechtenstein,LIE,832.75,
+203,Gibraltar,GIB,832.5,
+204,Sri Lanka,SRI,829.41,
+205,Guam,GUM,821.91,
+206,Turks and Caicos Islands,TCA,817.03,
+207,British Virgin Islands,IVB,813.31,
+208,US Virgin Islands,VIR,797.29,
+209,Anguilla,AIA,793.48,
+210,San Marino,SMR,742.05,

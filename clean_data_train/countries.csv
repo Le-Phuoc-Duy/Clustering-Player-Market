@@ -1,0 +1,211 @@
+rank,name,name_code,points,tournament_name
+1,Argentina,ARG,1858.0,Liga Profesional de Fútbol
+2,France,FRA,1840.59,Ligue 1
+3,Belgium,BEL,1795.23,Pro League
+4,England,ENG,1794.9,Premier League
+5,Brazil,BRA,1788.65,Brasileirão Série A
+6,Portugal,POR,1748.11,Liga Portugal Betclic
+7,Netherlands,NED,1742.29,Eredivisie
+8,Spain,ESP,1727.5,LaLiga
+9,Italy,ITA,1724.6,Serie A
+10,Croatia,CRO,1721.07,HNL
+11,USA,USA,1681.13,MLS
+12,Colombia,COL,1664.28,"Primera A, Apertura"
+13,Morocco,MAR,1661.42,Botola Pro
+14,Mexico,MEX,1661.11,"Liga MX, Apertura"
+15,Uruguay,URU,1659.39,Primera División
+16,Germany,GER,1644.21,Bundesliga
+17,Senegal,SEN,1624.73,Ligue 1
+18,Japan,JPN,1621.88,J1 League
+19,Switzerland,SUI,1616.41,Super League
+20,Iran,IRI,1613.96,Persian Gulf Pro League
+21,Denmark,DEN,1602.72,Superliga
+22,Ukraine,UKR,1568.86,Premier League
+23,South Korea,KOR,1563.99,K League 1
+24,Australia,AUS,1563.93,A-League Men
+25,Austria,AUT,1554.86,Bundesliga
+26,Hungary,HUN,1532.2,NB I
+27,Sweden,SWE,1531.68,Allsvenskan
+28,Poland,POL,1531.49,Ekstraklasa
+29,Wales,WAL,1531.38,Cymru Premier
+30,Nigeria,NGR,1520.27,Professional League
+31,Ecuador,ECU,1518.22,LigaPro Serie A
+32,Peru,PER,1515.82,Liga 1
+33,Serbia,SRB,1514.2,Mozzart Bet Superliga
+34,Qatar,QAT,1507.94,Stars League
+35,Russia,RUS,1504.02,Premier Liga
+36,Czech Republic,CZE,1501.47,1. Liga
+37,Egypt,EGY,1499.72,Premier League
+38,Côte d'Ivoire,CIV,1498.8,
+39,Scotland,SCO,1497.46,Premiership
+40,Turkey,TUR,1495.94,Trendyol Süper Lig
+41,Tunisia,TUN,1493.12,Ligue 1
+42,Chile,CHI,1491.71,Primera División
+43,Algeria,DZA,1482.71,Ligue 1
+44,Mali,MLI,1477.9,
+45,Panama,PAN,1475.62,"Liga Panameña de Fútbol, Apertura"
+46,Romania,ROU,1468.17,Superliga
+47,Norway,NOR,1467.51,Eliteserien
+48,Slovakia,SVK,1461.55,Niké Liga
+49,Canada,CAN,1461.16,Canadian Premier League
+50,Greece,GRE,1457.89,Stoiximan Super League
+51,Cameroon,CMR,1452.59,Elite One
+52,Costa Rica,CRC,1445.38,"Primera División, Apertura"
+53,Saudi Arabia,KSA,1443.53,Saudi Pro League
+54,Venezuela,VEN,1442.29,Primera División
+55,Jamaica,JAM,1435.33,Premier League
+56,Paraguay,PAR,1430.73,"Primera División, Apertura"
+57,Slovenia,SLO,1427.84,PrvaLiga
+58,Iraq,IRQ,1420.47,
+59,South Africa,RSA,1407.67,Premiership
+60,Ireland,IRL,1399.74,Premier Division
+61,Finland,FIN,1394.44,Veikkausliiga
+62,Burkina Faso,BUR,1390.38,
+63,DR Congo,COD,1388.25,Linafoot Ligue 1
+64,Uzbekistan,UZB,1386.58,Super League
+65,Cape Verde,CPV,1383.44,Campeonato Nacional
+66,Albania,ALB,1375.1,Abissnet Superiore
+67,United Arab Emirates,UAE,1366.45,UAE Pro League
+68,Ghana,GHA,1358.77,Ghana Premier League
+69,North Macedonia,MKD,1354.19,1. MFL
+70,Montenegro,MNE,1351.72,Meridianbet 1. CFL
+71,Jordan,JOR,1350.21,Jordan League
+72,Iceland,ISL,1346.82,Besta deild karla
+73,Northern Ireland,NIR,1341.05,Premiership
+74,Bosnia & Herzegovina,BIH,1335.6,WWIN Premijer Liga
+75,Georgia,GEO,1333.76,Erovnuli Liga
+76,Guinea,GUI,1324.65,Ligue 1
+77,Oman,OMN,1323.23,Omani League
+78,Israel,ISR,1311.39,Israeli Premier League
+79,Equatorial Guinea,GEQ,1308.03,
+80,Bahrain,BHR,1307.53,Premier League
+81,El Salvador,ESA,1305.02,"Primera División, Apertura"
+82,Honduras,HON,1301.92,"Liga Betcris de Honduras, Apertura"
+83,Bulgaria,BUL,1292.59,Parva Liga
+84,Gabon,GAB,1287.33,National Foot 1
+85,Bolivia,BOL,1283.88,División Profesional
+86,Zambia,ZAM,1278.26,Super League
+87,Luxembourg,LUX,1277.94,Division Nationale
+88,China,CHN,1275.22,CFA Super League
+89,Syria,SYR,1266.52,Premier League
+90,Haiti,HAI,1262.5,
+91,Curaçao,CUR,1262.48,
+92,Uganda,UGA,1242.15,Premier League
+93,Palestine,PSE,1238.66,Gaza Strip Premier League
+94,Angola,ANG,1235.76,Girabola
+95,Armenia,ARM,1229.18,IDBank Premier League
+96,Belarus,BLR,1226.54,Vysshaya Liga
+97,Benin,BEN,1225.68,
+98,Trinidad and Tobago,TTO,1220.65,Premier Football League
+99,Tajikistan,TJK,1216.76,Vysshaya Liga
+100,Kyrgyzstan,KGZ,1213.6,
+101,Thailand,THA,1208.93,Thai League 1
+102,Kosovo,KOS,1205.85,AlbiMall Superliga
+103,Kazakhstan,KAZ,1203.64,Premier League
+104,New Zealand,NZL,1197.68,National League
+105,Mauritania,MRT,1195.5,
+106,Namibia,NAM,1192.13,Debmarine Namibia Premiership
+107,Kenya,KEN,1191.24,Premier League
+108,Guatemala,GUA,1188.28,"Liga Guate Banrural, Apertura"
+109,Madagascar,MAD,1185.86,Pure Play Football League
+110,Mozambique,MOZ,1184.49,Moçambola
+111,Congo Republic,COG,1179.8,Premier League
+112,Azerbaijan,AZE,1177.83,Misli Premier League
+113,Togo,TOG,1170.34,
+114,Libya,LBA,1166.71,Premier League
+115,Vietnam,VIE,1164.54,V-League 1
+116,Guinea-Bissau,GBS,1163.44,
+117,Comoros,COM,1163.02,Comoros Premier League
+118,North Korea,DPR,1160.57,
+119,Tanzania,TAN,1159.81,Premier League
+120,Lebanon,LBN,1158.96,Premier League 
+121,India,IND,1145.94,Indian Super League
+122,Zimbabwe,ZIM,1143.66,Premier Soccer League
+123,Estonia,EST,1141.13,Premium Liiga
+124,Cyprus,CYP,1141.03,1. Division
+125,Malawi,MAW,1140.93,
+126,Sierra Leone,SLE,1137.36,Premier League
+127,Sudan,SDN,1129.32,
+128,Central African Republic,CAF,1128.17,
+129,Niger,NIG,1125.5,
+130,Gambia,GAM,1114.8,GFF First Division
+131,Rwanda,RWA,1112.44,National League
+132,Solomon Islands,SOL,1111.02,Telekom S-League
+133,Faroe Islands,FRO,1103.43,Premier League
+134,Indonesia,INA,1102.7,Liga 1
+135,Nicaragua,NCA,1102.54,Liga Primera
+136,Latvia,LAT,1095.91,Virsliga
+137,Lithuania,LTU,1095.23,A Lyga
+138,Malaysia,MAS,1094.54,Malaysia Super League
+139,Kuwait,KUW,1085.46,Zain Premier League
+140,Burundi,BDI,1081.63,Primus League
+141,Philippines,PHI,1075.14,Philippines Football League
+142,Antigua and Barbuda,ANT,1072.66,ABFA Premier League
+143,Turkmenistan,TKM,1072.52,Ýokary Liga
+144,Suriname,SUR,1071.85,SVB Eerste Divisie
+145,Ethiopia,ETH,1068.48,Premier League
+146,Botswana,BOT,1065.07,Premier League
+147,Saint Kitts and Nevis,KNA,1056.61,SKNFA Premier League
+148,Eswatini,ESW,1048.89,
+149,Lesotho,LES,1047.58,
+150,Dominican Republic,DOM,1042.86,Liga Dominicana de Fútbol
+151,Afghanistan,AFG,1036.92,
+152,Liberia,LBR,1029.58,LFA First Division
+153,Moldova,MDA,1028.85,Super Liga
+154,Guyana,GUY,1020.31,
+155,Singapore,SIN,1019.06,Premier League
+156,Yemen,YEM,1017.05,
+157,Hong Kong,HKG,1012.83,Premier League
+158,New Caledonia,NCL,1008.92,
+159,Chinese Taipei,TPE,1007.3,
+160,Puerto Rico,PUR,1006.35,
+161,Maldives,MDV,1003.48,
+162,Tahiti,TAH,999.48,Ligue 1 Vini
+163,Myanmar,MYA,999.46,National League
+164,Andorra,AND,998.75,Primera Divisió
+165,Saint Lucia,LCA,988.67,
+166,Papua New Guinea,PNG,985.32,National Soccer League
+167,South Sudan,SSD,984.65,
+168,Fiji,FIJ,983.81,Digicel Premier League 
+169,Cuba,CUB,980.65,
+170,Bermuda,BER,974.3,
+171,Malta,MLT,973.14,Premier League
+172,Vanuatu,VAN,972.14,PVFA Premier League
+173,Saint Vincent and the Grenadines,VCT,953.47,SVGFF Premier Division
+174,Grenada,GRN,950.99,Premier League
+175,Montserrat,MSR,946.08,
+176,Chad,CHA,945.92,
+177,Barbados,BAR,943.8,BFA Premier League
+178,Nepal,NEP,937.84,A-Division League
+179,Cambodia,CAM,925.4,Cambodian Premier League
+180,Dominica,DMA,922.25,
+181,Samoa,SAM,920.54,Upolu National League
+182,Belize,BIZ,919.52,Premier League of Belize
+183,Mauritius,MRI,919.4,National Super League
+184,Bangladesh,BAN,905.3,Premier League
+185,Bhutan,BHU,904.1,
+186,Macau,MAC,896.62,
+187,Cook Islands,COK,896.59,Round Cup
+188,São Tomé and Príncipe,STP,893.58,
+189,American Samoa,ASA,890.97,FFAS Senior League
+190,Laos,LAO,889.62,Lao League
+191,Mongolia,MGL,884.04,Premier League
+192,Djibouti,DJI,877.28,
+193,Aruba,ARU,875.82,Division di Honor
+194,Brunei Darussalam,BRU,872.65,
+195,Pakistan,PAK,849.94,Premier League
+196,Cayman Islands,CAY,847.81,CIFA Premier League
+197,Seychelles,SEY,845.53,
+198,East Timor,TLS,843.4,
+199,Somalia,SOM,842.64,
+200,Bahamas,BAH,835.81,BFA Senior League
+201,Tonga,TGA,833.12,
+202,Liechtenstein,LIE,832.75,FL1 Aktiv - Cup
+203,Gibraltar,GIB,832.5,Football League
+204,Sri Lanka,SRI,829.41,
+205,Guam,GUM,821.91,Budweiser G-League
+206,Turks and Caicos Islands,TCA,817.03,TCIFA Premier League
+207,British Virgin Islands,IVB,813.31,BVIFA National League
+208,US Virgin Islands,VIR,797.29,President's Cup
+209,Anguilla,AIA,793.48,AFA Senior Male League
+210,San Marino,SMR,742.05,Campionato Sammarinese

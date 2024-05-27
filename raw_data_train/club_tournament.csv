@@ -1,0 +1,2090 @@
+country,tournament,name,short_name,name_code,position,slug,id
+Argentina,Liga Profesional de Fútbol,Argentinos Juniors,Argentinos Jrs.,ARG,1,argentinos-juniors,3216
+Argentina,Liga Profesional de Fútbol,Atlético Tucumán,Atlético Tucumán,CAT,2,atletico-tucuman,36833
+Argentina,Liga Profesional de Fútbol,Boca Juniors,Boca Juniors,BOC,3,boca-juniors,3202
+Argentina,Liga Profesional de Fútbol,Banfield,Banfield,BAN,4,banfield,3219
+Argentina,Liga Profesional de Fútbol,Barracas Central,Barracas,BAR,5,barracas-central,65668
+Argentina,Liga Profesional de Fútbol,Belgrano,Belgrano,BEL,6,belgrano,3203
+Argentina,Liga Profesional de Fútbol,Central Córdoba,Central Córdoba,CC,7,central-cordoba,65676
+Argentina,Liga Profesional de Fútbol,Huracán,Huracán,HUR,8,huracan,7629
+Argentina,Liga Profesional de Fútbol,Independiente,Independiente,CAI,9,independiente,3209
+Argentina,Liga Profesional de Fútbol,Lanús,Lanús,LAN,10,lanus,3218
+Argentina,Liga Profesional de Fútbol,Platense,Platense,PLA,11,platense,36837
+Argentina,Liga Profesional de Fútbol,River Plate,River,RIV,12,river-plate,3211
+Argentina,Liga Profesional de Fútbol,Rosario Central,Rosario Central,ROS,13,rosario-central,3217
+Argentina,Liga Profesional de Fútbol,San Lorenzo,San Lorenzo,SLO,14,san-lorenzo,3201
+Argentina,Liga Profesional de Fútbol,Sarmiento,Sarmiento,CAS,15,sarmiento,42338
+Argentina,Liga Profesional de Fútbol,Talleres,Talleres,CAT,16,talleres,3210
+Argentina,Liga Profesional de Fútbol,Tigre,Tigre,TIG,17,tigre,7628
+Argentina,Liga Profesional de Fútbol,Godoy Cruz,Godoy Cruz,GOD,18,godoy-cruz,6074
+Argentina,Liga Profesional de Fútbol,Defensa y Justicia,Def y Justicia,DYJ,19,defensa-y-justicia,36839
+Argentina,Liga Profesional de Fútbol,Deportivo Riestra,Dep. Riestra,RIE,20,deportivo-riestra,189723
+Argentina,Liga Profesional de Fútbol,Estudiantes de La Plata,Estudiantes,ELP,21,estudiantes-de-la-plata,3206
+Argentina,Liga Profesional de Fútbol,Gimnasia y Esgrima,Gimnasia,GLP,22,gimnasia-y-esgrima,3205
+Argentina,Liga Profesional de Fútbol,Independiente Rivadavia,Ind. Rivadavia,IRM,23,independiente-rivadavia,36842
+Argentina,Liga Profesional de Fútbol,Instituto Córdoba,Instituto,IAC,24,instituto-cordoba,4937
+Argentina,Liga Profesional de Fútbol,Newell's Old Boys,Newell's,NOB,25,newells-old-boys,3212
+Argentina,Liga Profesional de Fútbol,Racing Club,Racing,RAC,26,racing-club,3215
+Argentina,Liga Profesional de Fútbol,Club Atlético Unión,Unión,UNI,27,club-atletico-union,3204
+Argentina,Liga Profesional de Fútbol,Vélez Sarsfield,Vélez Sarsfield,VEL,28,velez-sarsfield,3208
+France,Ligue 1,Paris Saint-Germain,PSG,PSG,1,paris-saint-germain,1644
+France,Ligue 1,Stade Brestois,Brest,SB29,2,stade-brestois,1715
+France,Ligue 1,Lille,Lille,LOSC,3,lille,1643
+France,Ligue 1,AS Monaco,AS Monaco,ASM,4,as-monaco,1653
+France,Ligue 1,Nice,Nice,OGCN,5,nice,1661
+France,Ligue 1,RC Lens,Lens,RCL,6,rc-lens,1648
+France,Ligue 1,Olympique de Marseille,Marseille,OM,7,olympique-de-marseille,1641
+France,Ligue 1,Stade Rennais,Rennes,SRFC,8,stade-rennais,1658
+France,Ligue 1,Stade de Reims,Reims,SDR,9,stade-de-reims,1682
+France,Ligue 1,Olympique Lyonnais,Lyon,OL,10,olympique-lyonnais,1649
+France,Ligue 1,Toulouse,Toulouse,TFC,11,toulouse,1681
+France,Ligue 1,RC Strasbourg,Strasbourg,RCS,12,rc-strasbourg,1659
+France,Ligue 1,Montpellier,Montpellier,MHS,13,montpellier,1642
+France,Ligue 1,Nantes,Nantes,FCN,14,nantes,1647
+France,Ligue 1,Le Havre,Le Havre,HAC,15,le-havre,1662
+France,Ligue 1,Lorient,Lorient,FCL,16,lorient,1656
+France,Ligue 1,Metz,Metz,FCM,17,metz,1651
+France,Ligue 1,Clermont Foot,Clermont,CF63,18,clermont-foot,1680
+Belgium,Pro League,Royale Union Saint-Gilloise,USG,USG,1,royale-union-saint-gilloise,4860
+Belgium,Pro League,Anderlecht,Anderlecht,AND,2,anderlecht,2900
+Belgium,Pro League,Club Brugge KV,Club Brugge,BRU,3,club-brugge-kv,2888
+Belgium,Pro League,KRC Genk,Genk,GNK,4,krc-genk,2890
+Belgium,Pro League,Royal Antwerp FC,Royal Antwerp,RAFC,5,royal-antwerp-fc,2889
+Belgium,Pro League,Cercle Brugge,Cercle Brugge,CER,6,cercle-brugge,2929
+England,Premier League,Liverpool,Liverpool,LIV,1,liverpool,44
+England,Premier League,Arsenal,Arsenal,ARS,2,arsenal,42
+England,Premier League,Manchester City,Man City,MCI,3,manchester-city,17
+England,Premier League,Aston Villa,Aston Villa,AVL,4,aston-villa,40
+England,Premier League,Tottenham Hotspur,Tottenham ,TOT,5,tottenham-hotspur,33
+England,Premier League,Manchester United,Man Utd,MUN,6,manchester-united,35
+England,Premier League,West Ham United,West Ham,WHU,7,west-ham-united,37
+England,Premier League,Newcastle United,Newcastle,NEW,8,newcastle-united,39
+England,Premier League,Brighton & Hove Albion,Brighton,BHA,9,brighton-and-hove-albion,30
+England,Premier League,Chelsea,Chelsea,CHE,10,chelsea,38
+England,Premier League,Wolverhampton,Wolves,WOL,11,wolverhampton,3
+England,Premier League,Bournemouth,Bournemouth,BOU,12,bournemouth,60
+England,Premier League,Fulham,Fulham,FUL,13,fulham,43
+England,Premier League,Crystal Palace,Crystal Palace,CRY,14,crystal-palace,7
+England,Premier League,Brentford,Brentford,BRE,15,brentford,50
+England,Premier League,Everton,Everton,EVE,16,everton,48
+England,Premier League,Nottingham Forest,Forest,NFO,17,nottingham-forest,14
+England,Premier League,Luton Town,Luton,LUT,18,luton-town,72
+England,Premier League,Burnley,Burnley,BUR,19,burnley,6
+England,Premier League,Sheffield United,Sheffield Utd,SHU,20,sheffield-united,15
+Brazil,Brasileirão Série A,Atlético Goianiense,Atlético-GO,GOI,1,atletico-goianiense,7314
+Brazil,Brasileirão Série A,Atlético Mineiro,Atlético-MG,ATL,2,atletico-mineiro,1977
+Brazil,Brasileirão Série A,Botafogo,Botafogo,BOT,3,botafogo,1958
+Brazil,Brasileirão Série A,Athletico,Athletico,CAP,4,athletico,1967
+Brazil,Brasileirão Série A,Flamengo,Flamengo,FLA,5,flamengo,5981
+Brazil,Brasileirão Série A,Vasco da Gama,Vasco,VAS,6,vasco-da-gama,1974
+Brazil,Brasileirão Série A,Criciúma,Criciúma,CRI,7,criciuma,1984
+Brazil,Brasileirão Série A,Cruzeiro,Cruzeiro,CRU,8,cruzeiro,1954
+Brazil,Brasileirão Série A,Cuiabá,Cuiabá,CUI,9,cuiaba,49202
+Brazil,Brasileirão Série A,Bahia,Bahia,BAH,10,bahia,1955
+Brazil,Brasileirão Série A,Juventude,Juventude,JUV,11,juventude,1980
+Brazil,Brasileirão Série A,Vitória,Vitória,VIT,12,vitoria,1962
+Brazil,Brasileirão Série A,Fluminense,Fluminense,FLU,13,fluminense,1961
+Brazil,Brasileirão Série A,Fortaleza,Fortaleza,FOR,14,fortaleza,2020
+Brazil,Brasileirão Série A,Grêmio,Grêmio,GPA,15,gremio,5926
+Brazil,Brasileirão Série A,Red Bull Bragantino,RB Bragantino,BRA,16,red-bull-bragantino,1999
+Brazil,Brasileirão Série A,São Paulo,São Paulo,SPA,17,sao-paulo,1981
+Brazil,Brasileirão Série A,Corinthians,Corinthians,COR,18,corinthians,1957
+Brazil,Brasileirão Série A,Internacional,Internacional,INT,19,internacional,1966
+Brazil,Brasileirão Série A,Palmeiras,Palmeiras,PAL,20,palmeiras,1963
+Portugal,Liga Portugal Betclic,Sporting,Sporting,SCP,1,sporting,3001
+Portugal,Liga Portugal Betclic,Benfica,Benfica,SLB,2,benfica,3006
+Portugal,Liga Portugal Betclic,FC Porto,Porto,FCP,3,fc-porto,3002
+Portugal,Liga Portugal Betclic,Sporting Braga,Braga,SCB,4,sporting-braga,2999
+Portugal,Liga Portugal Betclic,Vitória SC,Vitória,VIT,5,vitoria-sc,3009
+Portugal,Liga Portugal Betclic,Moreirense,Moreirense,MOR,6,moreirense,3014
+Portugal,Liga Portugal Betclic,Arouca,Arouca,ARO,7,arouca,25777
+Portugal,Liga Portugal Betclic,Famalicão,Famalicão,FAM,8,famalicao,49531
+Portugal,Liga Portugal Betclic,Casa Pia,Casa Pia,CAS,10,casa-pia,36365
+Portugal,Liga Portugal Betclic,SC Farense,Farense,FAR,10,sc-farense,2998
+Portugal,Liga Portugal Betclic,Boavista,Boavista,BFC,11,boavista,2995
+Portugal,Liga Portugal Betclic,Gil Vicente,Gil Vicente,GIL,12,gil-vicente,3010
+Portugal,Liga Portugal Betclic,Estoril Praia,Estoril,EST,13,estoril-praia,4500
+Portugal,Liga Portugal Betclic,Rio Ave,Rio Ave,RAV,14,rio-ave,3036
+Portugal,Liga Portugal Betclic,CF Estrela Amadora,Estrela Amadora,EST,15,cf-estrela-amadora,3035
+Portugal,Liga Portugal Betclic,Portimonense,Portimonense,POR,16,portimonense,3026
+Portugal,Liga Portugal Betclic,Vizela,Vizela,VIZ,17,vizela,5136
+Portugal,Liga Portugal Betclic,Chaves,Chaves,CHA,18,chaves,3025
+Netherlands,Eredivisie,PSV Eindhoven,PSV,PSV,1,psv-eindhoven,2952
+Netherlands,Eredivisie,Feyenoord,Feyenoord,FEY,2,feyenoord,2959
+Netherlands,Eredivisie,FC Twente,Twente,TWE,3,fc-twente,2955
+Netherlands,Eredivisie,AZ Alkmaar,AZ,AZA,4,az-alkmaar,2950
+Netherlands,Eredivisie,Ajax,Ajax,AJA,5,ajax,2953
+Netherlands,Eredivisie,NEC Nijmegen,NEC,NIJ,6,nec-nijmegen,2962
+Netherlands,Eredivisie,Go Ahead Eagles,GA Eagles,GAE,7,go-ahead-eagles,2979
+Netherlands,Eredivisie,FC Utrecht,Utrecht,FCU,8,fc-utrecht,2948
+Netherlands,Eredivisie,Sparta Rotterdam,Sparta,SPA,9,sparta-rotterdam,2960
+Netherlands,Eredivisie,Fortuna Sittard,Fortuna,FOR,10,fortuna-sittard,2957
+Netherlands,Eredivisie,SC Heerenveen,Heerenveen,HEE,11,sc-heerenveen,2964
+Netherlands,Eredivisie,Almere City FC,Almere City,ALM,12,almere-city-fc,2990
+Netherlands,Eredivisie,Heracles Almelo,Heracles,HER,13,heracles-almelo,2977
+Netherlands,Eredivisie,PEC Zwolle,Zwolle,ZWO,14,pec-zwolle,2971
+Netherlands,Eredivisie,RKC Waalwijk,Waalwijk,WAA,15,rkc-waalwijk,2956
+Netherlands,Eredivisie,Excelsior,Excelsior,EXC,16,excelsior,2967
+Netherlands,Eredivisie,Vitesse,Vitesse,VIT,17,vitesse,2958
+Netherlands,Eredivisie,FC Volendam,Volendam,VOL,18,fc-volendam,2968
+Spain,LaLiga,Real Madrid,Real Madrid,RMA,1,real-madrid,2829
+Spain,LaLiga,Barcelona,Barcelona,FCB,2,barcelona,2817
+Spain,LaLiga,Girona FC,Girona,GIR,3,girona-fc,24264
+Spain,LaLiga,Atlético Madrid,Atl. Madrid,ATM,4,atletico-madrid,2836
+Spain,LaLiga,Athletic Club,Athletic Club,ATH,5,athletic-club,2825
+Spain,LaLiga,Real Sociedad,Real Sociedad,RSO,6,real-sociedad,2824
+Spain,LaLiga,Valencia,Valencia,VCF,7,valencia,2828
+Spain,LaLiga,Real Betis,Betis,RBB,8,real-betis,2816
+Spain,LaLiga,Osasuna,Osasuna,OSA,9,osasuna,2820
+Spain,LaLiga,Villarreal,Villarreal,VIL,10,villarreal,2819
+Spain,LaLiga,Getafe,Getafe,GET,11,getafe,2859
+Spain,LaLiga,Las Palmas,Las Palmas,LPA,12,las-palmas,6577
+Spain,LaLiga,Deportivo Alavés,Alavés,ALA,13,deportivo-alaves,2885
+Spain,LaLiga,Sevilla,Sevilla,SEV,14,sevilla,2833
+Spain,LaLiga,Mallorca,Mallorca,MLL,15,mallorca,2826
+Spain,LaLiga,Rayo Vallecano,Rayo Vallecano,RVM,16,rayo-vallecano,2818
+Spain,LaLiga,Celta Vigo,Celta,RCC,17,celta-vigo,2821
+Spain,LaLiga,Cádiz,Cádiz,CAD,18,cadiz,4488
+Spain,LaLiga,Granada,Granada,GCF,19,granada,33779
+Spain,LaLiga,Almería,Almería,ALM,20,almeria,2858
+Italy,Serie A,Inter,Inter,INT,1,inter,2697
+Italy,Serie A,Milan,Milan,ACM,2,milan,2692
+Italy,Serie A,Juventus,Juventus,JUV,3,juventus,2687
+Italy,Serie A,Bologna,Bologna,BFC,4,bologna,2685
+Italy,Serie A,Roma,Roma,ASR,5,roma,2702
+Italy,Serie A,Atalanta,Atalanta,ATA,6,atalanta,2686
+Italy,Serie A,Lazio,Lazio,LAZ,7,lazio,2699
+Italy,Serie A,Napoli,Napoli,NAP,8,napoli,2714
+Italy,Serie A,Torino,Torino,TOR,9,torino,2696
+Italy,Serie A,Fiorentina,Fiorentina,ACF,10,fiorentina,2693
+Italy,Serie A,Monza,Monza,MON,11,monza,2729
+Italy,Serie A,Genoa,Genoa,GEN,12,genoa,2713
+Italy,Serie A,Lecce,Lecce,LEC,13,lecce,2689
+Italy,Serie A,Udinese,Udinese,UDI,14,udinese,2695
+Italy,Serie A,Hellas Verona,Verona,VER,15,hellas-verona,2701
+Italy,Serie A,Cagliari,Cagliari,CAG,16,cagliari,2719
+Italy,Serie A,Frosinone,Frosinone,FRO,17,frosinone,2801
+Italy,Serie A,Sassuolo,Sassuolo,SAS,18,sassuolo,2793
+Italy,Serie A,Empoli,Empoli,EMP,19,empoli,2705
+Italy,Serie A,Salernitana,Salernitana,SAL,20,salernitana,2710
+Croatia,HNL,HNK Rijeka,Rijeka,RIJ,1,hnk-rijeka,2039
+Croatia,HNL,GNK Dinamo Zagreb,Dinamo,DIN,2,gnk-dinamo-zagreb,2032
+Croatia,HNL,HNK Hajduk Split,Hajduk,HAJ,3,hnk-hajduk-split,2036
+Croatia,HNL,NK Osijek,Osijek,OSI,4,nk-osijek,2040
+Croatia,HNL,NK Lokomotiva Zagreb,Lokomotiva,LOK,5,nk-lokomotiva-zagreb,36246
+Croatia,HNL,HNK Gorica,Gorica,GOR,6,hnk-gorica,43917
+Croatia,HNL,NK Varaždin,Varaždin,VAR,7,nk-varazdin,231380
+Croatia,HNL,NK Istra 1961,Istra,IST,8,nk-istra-1961,25529
+Croatia,HNL,NK Slaven Belupo,Slaven,SLA,9,nk-slaven-belupo,2042
+Croatia,HNL,NK Rudeš,Rudeš,RUD,10,nk-rudes,35226
+USA,MLS,LA Galaxy,LA Galaxy,LAG,1,la-galaxy,2513
+USA,MLS,FC Cincinnati,Cincinnati,CIN,2,fc-cincinnati,215167
+USA,MLS,Inter Miami CF,Inter Miami,MIA,3,inter-miami-cf,337602
+USA,MLS,Columbus Crew,Columbus,CLB,4,columbus-crew,2504
+USA,MLS,New York Red Bulls,NY Red Bulls,NY,5,new-york-red-bulls,2506
+USA,MLS,Vancouver Whitecaps,Vancouver,VAN,6,vancouver-whitecaps,22010
+USA,MLS,Real Salt Lake,Salt Lake,RSL,7,real-salt-lake,5133
+USA,MLS,Minnesota United,Minnesota,MIN,8,minnesota-united,41618
+USA,MLS,Houston Dynamo,Houston,HOU,9,houston-dynamo,2508
+USA,MLS,Toronto FC,Toronto,TOR,10,toronto-fc,7080
+USA,MLS,Atlanta United,Atlanta,ATL,11,atlanta-united,243211
+USA,MLS,Philadelphia Union,Philadelphia,PHI,12,philadelphia-union,39833
+USA,MLS,Sporting Kansas City,Kansas City,SKC,13,sporting-kansas-city,2509
+USA,MLS,DC United,DC United,DC,14,dc-united,2502
+USA,MLS,Charlotte FC,Charlotte,CHA,15,charlotte-fc,404108
+USA,MLS,Colorado Rapids,Colorado,COL,16,colorado-rapids,2510
+USA,MLS,Portland Timbers,Portland,POR,17,portland-timbers,22007
+USA,MLS,Los Angeles FC,Los Angeles,LAN,18,los-angeles-fc,274650
+USA,MLS,CF Montreal,Montréal,MON,19,cf-montreal,22006
+USA,MLS,St.Louis City,St. Louis,SAI,20,stlouis-city,407803
+USA,MLS,Nashville SC,Nashville,NSC,21,nashville-sc,337612
+USA,MLS,Austin FC,Austin,ATX,22,austin-fc,377973
+USA,MLS,Chicago Fire,Chicago,CHI,23,chicago-fire,2505
+USA,MLS,Orlando City SC,Orlando,ORL,24,orlando-city-sc,52237
+USA,MLS,New York City FC,NY City,NYC,25,new-york-city-fc,187643
+USA,MLS,FC Dallas,Dallas,DAL,26,fc-dallas,2512
+USA,MLS,San Jose Earthquakes,San Jose,SJ,27,san-jose-earthquakes,21825
+USA,MLS,Seattle Sounders FC,Seattle,SEA,28,seattle-sounders-fc,22009
+USA,MLS,New England Revolution,New England,NE,29,new-england-revolution,2511
+Colombia,"Primera A, Apertura",Atlético Bucaramanga,Bucaramanga,BUC,1,atletico-bucaramanga,6103
+Colombia,"Primera A, Apertura",Deportes Tolima,Tolima,TOL,2,deportes-tolima,6111
+Colombia,"Primera A, Apertura",Once Caldas,Once Caldas,OC,3,once-caldas,6118
+Colombia,"Primera A, Apertura",Independiente Santa Fe,Santa Fe,SFE,4,independiente-santa-fe,6116
+Colombia,"Primera A, Apertura",Deportivo Pereira,Deportivo Pereira,PER,5,deportivo-pereira,6109
+Colombia,"Primera A, Apertura",Junior Barranquilla,Junior Barranquilla,JUN,6,junior-barranquilla,6105
+Colombia,"Primera A, Apertura",Deportivo La Equidad,La Equidad,EQU,7,deportivo-la-equidad,6975
+Colombia,"Primera A, Apertura",América de Cali,América Cali,AME,8,america-de-cali,6102
+Colombia,"Primera A, Apertura",Millonarios,Millonarios,MIL,9,millonarios,6117
+Colombia,"Primera A, Apertura",Atlético Nacional,Atl. Nacional,CAN,10,atletico-nacional,6106
+Colombia,"Primera A, Apertura",Fortaleza CEIF,Fortaleza,FOR,11,fortaleza-ceif,89368
+Colombia,"Primera A, Apertura",Rionegro Águilas Doradas,Águilas Doradas,ADR,12,rionegro-aguilas-doradas,48244
+Colombia,"Primera A, Apertura",Independiente Medellín,Ind. Medellín,DIM,13,independiente-medellin,6115
+Colombia,"Primera A, Apertura",Jaguares de Córdoba,Jaguares,JAG,14,jaguares-de-cordoba,89370
+Colombia,"Primera A, Apertura",Deportivo Cali,Dep. Cali,CAL,15,deportivo-cali,6112
+Colombia,"Primera A, Apertura",Boyacá Chicó FC,Boyacá Chicó,CHI,16,boyaca-chico-fc,6107
+Colombia,"Primera A, Apertura",Envigado FC,Envigado,ENV,17,envigado-fc,6114
+Colombia,"Primera A, Apertura",Alianza FC Valledupar,Alianza,ALI,18,alianza-fc-valledupar,504899
+Colombia,"Primera A, Apertura",Deportivo Pasto,Dep. Pasto,PAS,19,deportivo-pasto,6113
+Colombia,"Primera A, Apertura",Patriotas Boyacá,Patriotas,BOY,20,patriotas-boyaca,61504
+Morocco,Botola Pro,AS FAR Rabat,AS FAR,FAR,1,as-far-rabat,24394
+Morocco,Botola Pro,Raja Club Athletic,Raja CA,RCA,2,raja-club-athletic,41757
+Morocco,Botola Pro,RS Berkane,RS Berkane,RSB,3,rs-berkane,80395
+Morocco,Botola Pro,Fath Union Sport,FUS Rabat,FUS,4,fath-union-sport,55027
+Morocco,Botola Pro,Wydad Casablanca,WAC,WAC,5,wydad-casablanca,36268
+Morocco,Botola Pro,Olympic Safi,OC Safi,OLY,6,olympic-safi,55037
+Morocco,Botola Pro,Union Touarga Sport,Union Touarga,TOU,7,union-touarga-sport,118834
+Morocco,Botola Pro,Moghreb Tétouan,MA Tétouan,MOT,8,moghreb-tetouan,55049
+Morocco,Botola Pro,Renaissance Zemamra,Renaissance Zemamra,ZEM,9,renaissance-zemamra,263373
+Morocco,Botola Pro,MAS de Fès,MAS,MAG,10,mas-de-fes,55035
+Morocco,Botola Pro,Hassania d'Agadir,HUSA,HAS,11,hassania-dagadir,55039
+Morocco,Botola Pro,Ittihad Tanger,Ittihad Tanger,ITT,12,ittihad-tanger,87180
+Morocco,Botola Pro,SC Chabab Mohammédia,SCCM,SCC,13,sc-chabab-mohammedia,327830
+Morocco,Botola Pro,Jeunesse Sportive Soualem,JS Soualem,SOU,14,jeunesse-sportive-soualem,297607
+Morocco,Botola Pro,MC Oujda,Oujda,MOO,15,mc-oujda,170588
+Morocco,Botola Pro,CA Youssoufia Berrechid,Youssoufia Berrechid,YOB,16,ca-youssoufia-berrechid,118830
+Mexico,"Liga MX, Apertura",Club América,América,AME,1,club-america,1939
+Mexico,"Liga MX, Apertura",CF Monterrey,Monterrey,MTY,2,cf-monterrey,1932
+Mexico,"Liga MX, Apertura",Tigres UANL,UANL,UANL,3,tigres-uanl,1940
+Mexico,"Liga MX, Apertura",Pumas UNAM,Pumas,UNAM,4,pumas-unam,1933
+Mexico,"Liga MX, Apertura",CD Guadalajara,Guadalajara,GDL,5,cd-guadalajara,1938
+Mexico,"Liga MX, Apertura",Club Puebla,Puebla,PUE,6,club-puebla,1941
+Mexico,"Liga MX, Apertura",Atlético San Luis,Atlético San Luis,SNL,7,atletico-san-luis,1950
+Mexico,"Liga MX, Apertura",Club León,León,LEO,8,club-leon,36534
+Mexico,"Liga MX, Apertura",Santos Laguna,Santos,SLA,9,santos-laguna,1948
+Mexico,"Liga MX, Apertura",Mazatlán FC,Mazatlán ,MAZ,10,mazatlan-fc,1946
+Mexico,"Liga MX, Apertura",CF Pachuca,Pachuca,PAC,11,cf-pachuca,1936
+Mexico,"Liga MX, Apertura",Deportivo Toluca FC,Toluca,TOL,12,deportivo-toluca-fc,1931
+Mexico,"Liga MX, Apertura",Club Tijuana,Tijuana,TIJ,13,club-tijuana,36525
+Mexico,"Liga MX, Apertura",Querétaro FC,Querétaro,QRO,14,queretaro-fc,1951
+Mexico,"Liga MX, Apertura",FC Juárez,Juárez,JUA,15,fc-juarez,201624
+Mexico,"Liga MX, Apertura",Cruz Azul,Cruz Azul,CRZ,16,cruz-azul,1947
+Mexico,"Liga MX, Apertura",Atlas FC,Atlas ,ATS,17,atlas-fc,1949
+Mexico,"Liga MX, Apertura",Club Necaxa,Necaxa,NEC,18,club-necaxa,1944
+Uruguay,Primera División,Peñarol,Peñarol,PEN,1,penarol,3227
+Uruguay,Primera División,Progreso,Progreso,PRO,2,progreso,3238
+Uruguay,Primera División,Boston River,Boston River,BRI,3,boston-river,174970
+Uruguay,Primera División,Defensor Sporting,Defensor,DEF,4,defensor-sporting,3229
+Uruguay,Primera División,Club Nacional de Football,Nacional,NAC,5,club-nacional-de-football,3230
+Uruguay,Primera División,River Plate UY,River,RIV,6,river-plate-uy,3237
+Uruguay,Primera División,Cerro Largo,Cerro Largo,CLA,7,cerro-largo,25009
+Uruguay,Primera División,Racing de Montevideo,Racing,RCM,8,racing-de-montevideo,25010
+Uruguay,Primera División,Danubio,Danubio,DAN,9,danubio,3228
+Uruguay,Primera División,Deportivo Maldonado,Dep. Maldonado,MAL,10,deportivo-maldonado,3234
+Uruguay,Primera División,Montevideo Wanderers,Wanderers,WAN,11,montevideo-wanderers,3240
+Uruguay,Primera División,Liverpool UY,Liverpool,LIV,12,liverpool-uy,6879
+Uruguay,Primera División,Rampla Juniors,Rampla,RAM,13,rampla-juniors,6881
+Uruguay,Primera División,Fénix,Fénix,FEN,14,fenix,3223
+Uruguay,Primera División,Miramar Misiones,Miramar,MIM,15,miramar-misiones,6880
+Uruguay,Primera División,Cerro,Cerro,CER,16,cerro,22011
+Germany,Bundesliga,Bayer 04 Leverkusen,Leverkusen,B04,1,bayer-04-leverkusen,2681
+Germany,Bundesliga,FC Bayern München,Bayern,BAY,2,fc-bayern-munchen,2672
+Germany,Bundesliga,VfB Stuttgart,Stuttgart,VFB,3,vfb-stuttgart,2677
+Germany,Bundesliga,Borussia Dortmund,Dortmund,BVB,4,borussia-dortmund,2673
+Germany,Bundesliga,RB Leipzig,Leipzig,RBL,5,rb-leipzig,36360
+Germany,Bundesliga,Eintracht Frankfurt,Frankfurt,SGE,6,eintracht-frankfurt,2674
+Germany,Bundesliga,FC Augsburg,Augsburg,FCA,7,fc-augsburg,2600
+Germany,Bundesliga,SC Freiburg,Freiburg,SCF,8,sc-freiburg,2538
+Germany,Bundesliga,TSG Hoffenheim,Hoffenheim,TSG,9,tsg-hoffenheim,2569
+Germany,Bundesliga,SV Werder Bremen,Bremen,SVW,10,sv-werder-bremen,2534
+Germany,Bundesliga,1. FC Heidenheim,Heidenheim,FCH,11,1-fc-heidenheim,5885
+Germany,Bundesliga,1. FC Union Berlin,Union Berlin,FCU,12,1-fc-union-berlin,2547
+Germany,Bundesliga,Borussia M'gladbach,M'gladbach,BMG,13,borussia-mgladbach,2527
+Germany,Bundesliga,VfL Wolfsburg,Wolfsburg,WOB,14,vfl-wolfsburg,2524
+Germany,Bundesliga,VfL Bochum 1848,Bochum,BOC,15,vfl-bochum-1848,2542
+Germany,Bundesliga,1. FSV Mainz 05,Mainz 05,M05,16,1-fsv-mainz-05,2556
+Germany,Bundesliga,1. FC Köln,Köln,KOE,17,1-fc-koln,2671
+Germany,Bundesliga,Darmstadt 98,Darmstadt,D98,18,darmstadt-98,2576
+Senegal,Ligue 1,Teungueth,TFC,TEU,1,teungueth,236723
+Senegal,Ligue 1,ASC Jaraaf,Jaraaf,JAR,2,asc-jaraaf,87306
+Senegal,Ligue 1,Guediawaye FC,Guediawaye,GUE,3,guediawaye-fc,87318
+Senegal,Ligue 1,US Goree,Goree,GOR,4,us-goree,87326
+Senegal,Ligue 1,AS Pikine,Pikine,PIK,5,as-pikine,87300
+Senegal,Ligue 1,Suneor,Suneor,SON,6,suneor,124520
+Senegal,Ligue 1,Dakar Sacre Cœur,Dakar Sacre Cœur,DSC,7,dakar-sacre-coeur,225157
+Senegal,Ligue 1,US Ouakam,Ouakam,OUA,8,us-ouakam,87328
+Senegal,Ligue 1,ASC Linguere,Linguere,LIN,9,asc-linguere,87308
+Senegal,Ligue 1,Casa Sport,Casa,CAS,10,casa-sport,87314
+Senegal,Ligue 1,Académie Génération Foot,Académie Génération Foot,GFO,11,academie-generation-foot,236722
+Senegal,Ligue 1,Stade de Mbour,Mbour,SMB,12,stade-de-mbour,124518
+Senegal,Ligue 1,Jamono Fatick,Jamono Fatick,JFA,13,jamono-fatick,250989
+Senegal,Ligue 1,ASC Diambars,Diambars,DIA,14,asc-diambars,87304
+Japan,J1 League,Machida Zelvia,Machida Z,MAC,1,machida-zelvia,44409
+Japan,J1 League,Sanfrecce Hiroshima,Hiroshima,SAN,2,sanfrecce-hiroshima,3135
+Japan,J1 League,Cerezo Osaka,Cerezo Osaka,CER,3,cerezo-osaka,3141
+Japan,J1 League,Vissel Kobe,Vissel Kobe,VIK,4,vissel-kobe,3146
+Japan,J1 League,Kashima Antlers,Kashima,KAS,5,kashima-antlers,3134
+Japan,J1 League,Gamba Osaka,Gamba Osaka,GAM,6,gamba-osaka,3138
+Japan,J1 League,Kashiwa Reysol,Kashiwa,REY,7,kashiwa-reysol,3140
+Japan,J1 League,Nagoya Grampus,Nagoya,NGE,8,nagoya-grampus,3136
+Japan,J1 League,FC Tokyo,Tokyo,TOK,9,fc-tokyo,3147
+Japan,J1 League,Urawa Red Diamonds,Urawa Reds,URD,10,urawa-red-diamonds,3145
+Japan,J1 League,Albirex Niigata,Albirex Niigata,ALB,11,albirex-niigata,5128
+Japan,J1 League,Avispa Fukuoka,Fukuoka,AVI,12,avispa-fukuoka,3143
+Japan,J1 League,Kawasaki Frontale,Kawasaki,KAW,13,kawasaki-frontale,5127
+Japan,J1 League,Yokohama F. Marinos,Yokohama FM,MAR,14,yokohama-f-marinos,3137
+Japan,J1 League,Tokyo Verdy,Tokyo Verdy,VER,15,tokyo-verdy,3139
+Japan,J1 League,Kyoto Sanga FC,Kyoto Sanga,KYO,16,kyoto-sanga-fc,3149
+Japan,J1 League,Jubilo Iwata,Jubilo Iwata,JUB,17,jubilo-iwata,3132
+Japan,J1 League,Shonan Bellmare,Shonan,SHO,18,shonan-bellmare,21905
+Japan,J1 League,Sagan Tosu,S. Tosu,TOS,19,sagan-tosu,21904
+Japan,J1 League,Hokkaido Consadole Sapporo,Sapporo,HCS,20,hokkaido-consadole-sapporo,3142
+Switzerland,Super League,Young Boys,Young Boys,YB,1,young-boys,2445
+Switzerland,Super League,Servette FC,Servette,SER,2,servette-fc,2448
+Switzerland,Super League,FC Lugano,Lugano,LUG,3,fc-lugano,2443
+Switzerland,Super League,FC Zürich,Zürich,FCZ,4,fc-zurich,2450
+Switzerland,Super League,FC Winterthur,Winterthur,WIN,5,fc-winterthur,2458
+Switzerland,Super League,FC St. Gallen 1879,St. Gallen,STG,6,fc-st-gallen-1879,2442
+Switzerland,Super League,FC Luzern,Luzern,LUZ,7,fc-luzern,2453
+Switzerland,Super League,FC Lausanne-Sport,Lausanne,LAU,8,fc-lausanne-sport,2446
+Switzerland,Super League,Yverdon-Sport FC,Yverdon-Sport,YVS,9,yverdon-sport-fc,2460
+Switzerland,Super League,Basel,Basel,FCB,10,basel,2501
+Switzerland,Super League,Grasshopper Club Zürich,Grasshoppers,GCZ,11,grasshopper-club-zurich,2449
+Switzerland,Super League,FC Stade-Lausanne-Ouchy,Stade Ls Ouchy,SLO,12,fc-stade-lausanne-ouchy,35162
+Iran,Persian Gulf Pro League,Esteghlal FC,Esteghlal FC,EST,1,esteghlal-fc,34316
+Iran,Persian Gulf Pro League,Persepolis FC,Persepolis,PFC,2,persepolis-fc,34314
+Iran,Persian Gulf Pro League,Tractor FC,Tractor,TRA,3,tractor-fc,53715
+Iran,Persian Gulf Pro League,Sepahan S.C.,Sepahan,FMS,4,sepahan-sc,8018
+Iran,Persian Gulf Pro League,Malavan Bandar Anzali FC,Malavan,MBA,5,malavan-bandar-anzali-fc,53709
+Iran,Persian Gulf Pro League,Gol Gohar Sirjan,Gol Gohar,GGS,6,gol-gohar-sirjan,275525
+Iran,Persian Gulf Pro League,Aluminium Arak,Aluminium Arak,ALA,7,aluminium-arak,270969
+Iran,Persian Gulf Pro League,Zob Ahan,Zob Ahan,ZAI,8,zob-ahan,39328
+Iran,Persian Gulf Pro League,Shams Azar Qazvin,Shams Azar Qazvin,SHA,9,shams-azar-qazvin,375661
+Iran,Persian Gulf Pro League,Mes Rafsanjan FC,Mes Rafsanjan FC,RAF,10,mes-rafsanjan-fc,245405
+Iran,Persian Gulf Pro League,Havadar Tehran,Havadar,HAV,11,havadar-tehran,294915
+Iran,Persian Gulf Pro League,Paykan,Paykan,PEY,12,paykan,73668
+Iran,Persian Gulf Pro League,Foolad Khuzestan,Foolad,FOO,13,foolad-khuzestan,53703
+Iran,Persian Gulf Pro League,Esteghlal Khuzestan,Esteghlal Khouzestan,ETK,14,esteghlal-khuzestan,109573
+Iran,Persian Gulf Pro League,Nassaji Mazandaran FC,Nassaji Mazandaran,NAM,15,nassaji-mazandaran-fc,271892
+Iran,Persian Gulf Pro League,Sanat Naft Abadan,Sanat Naft,SNA,16,sanat-naft-abadan,53701
+Denmark,Superliga,Brøndby IF,Brøndby,BRO,1,brondby-if,1281
+Denmark,Superliga,FC Midtjylland,Midtjylland,FCM,2,fc-midtjylland,1289
+Denmark,Superliga,FC København,København,FCK,3,fc-kobenhavn,1284
+Denmark,Superliga,FC Nordsjælland,Nordsjælland,FCN,4,fc-nordsjaelland,1292
+Denmark,Superliga,AGF,AGF,AGF,5,agf,1291
+Denmark,Superliga,Silkeborg IF,Silkeborg,SIL,6,silkeborg-if,1285
+Ukraine,Premier League,Shakhtar Donetsk,Shakhtar,SHA,1,shakhtar-donetsk,3313
+Ukraine,Premier League,FC Kryvbas Kryvyi Rih,Kryvbas,KRY,2,fc-kryvbas-kryvyi-rih,294048
+Ukraine,Premier League,Dynamo Kyiv,Dynamo Kyiv,DYK,3,dynamo-kyiv,3305
+Ukraine,Premier League,SC Dnipro-1,Dnipro-1,SCD,4,sc-dnipro-1,258537
+Ukraine,Premier League,Rukh Lviv,Rukh Lviv,RUL,5,rukh-lviv,229644
+Ukraine,Premier League,Polissya Zhytomyr,Polissya,POL,6,polissya-zhytomyr,258536
+Ukraine,Premier League,Vorskla Poltava,Vorskla,POL,7,vorskla-poltava,3309
+Ukraine,Premier League,Chornomorets Odesa,Chornomorets,CHO,8,chornomorets-odesa,3310
+Ukraine,Premier League,LNZ Cherkasy,LNZ Cherkasy,LNZ,9,lnz-cherkasy,284427
+Ukraine,Premier League,Kolos Kovalivka,Kolos Kovalivka,KKO,10,kolos-kovalivka,200776
+Ukraine,Premier League,Oleksandria,Oleksandria,OLE,11,oleksandria,25479
+Ukraine,Premier League,Zorya Luhansk,Zorya Luhansk,ZOR,12,zorya-luhansk,5987
+Ukraine,Premier League,Obolon Kyiv,Obolon,OBO,13,obolon-kyiv,138564
+Ukraine,Premier League,Veres Rivne,Veres Rivne,VRI,14,veres-rivne,200773
+Ukraine,Premier League,Metalist 1925,Metalist 1925,MET,15,metalist-1925,266889
+Ukraine,Premier League,FC Minaj,FC Minaj,MIN,16,fc-minaj,291318
+South Korea,K League 1,Gimcheon Sangmu FC,Gimcheon,GIS,1,gimcheon-sangmu-fc,7647
+South Korea,K League 1,Ulsan HD,Ulsan,UHD,2,ulsan-hd,7653
+South Korea,K League 1,Pohang Steelers,Pohang Steelers,POH,3,pohang-steelers,7650
+South Korea,K League 1,Jeju United,Jeju United,JEJ,4,jeju-united,7649
+South Korea,K League 1,FC Seoul,FC Seoul,SEO,5,fc-seoul,7646
+South Korea,K League 1,Incheon United,Incheon Utd,INC,6,incheon-united,7648
+South Korea,K League 1,Daegu FC,Daegu FC,DAG,7,daegu-fc,7644
+South Korea,K League 1,Gwangju FC,Gwangju,GWA,8,gwangju-fc,48912
+South Korea,K League 1,Gangwon FC,Gangwon,GAW,9,gangwon-fc,34220
+South Korea,K League 1,Suwon FC,Suwon FC,SFC,10,suwon-fc,41261
+South Korea,K League 1,Daejeon Hana Citizen,Daejeon Hana,DAJ,11,daejeon-hana-citizen,7645
+South Korea,K League 1,Jeonbuk Hyundai Motors,Jeonbuk,JEO,12,jeonbuk-hyundai-motors,6908
+Australia,A-League Men,Central Coast Mariners,Central Coast,CCM,1,central-coast-mariners,5966
+Australia,A-League Men,Wellington Phoenix,Wellington,WPH,2,wellington-phoenix,7568
+Australia,A-League Men,Melbourne Victory,Melbourne Victory,MEL,3,melbourne-victory,5970
+Australia,A-League Men,Sydney FC,Sydney FC,SFC,4,sydney-fc,5971
+Australia,A-League Men,Macarthur FC,Macarthur,MAC,5,macarthur-fc,371682
+Australia,A-League Men,Western Sydney Wanderers,Western Sydney,WSY,6,western-sydney-wanderers,72926
+Australia,A-League Men,Melbourne City,Melbourne City,MBC,7,melbourne-city,42210
+Australia,A-League Men,Brisbane Roar,Brisbane Roar,BRR,8,brisbane-roar,5968
+Australia,A-League Men,Adelaide United,Adelaide United,ADU,9,adelaide-united,2946
+Australia,A-League Men,Perth Glory,Perth Glory,PGL,10,perth-glory,2945
+Australia,A-League Men,Western United,Western United,WEU,11,western-united,193723
+Australia,A-League Men,Newcastle Jets,Newcastle Jets,NUJ,12,newcastle-jets,2934
+Austria,Bundesliga,Red Bull Salzburg,RB Salzburg,RBS,1,red-bull-salzburg,2046
+Austria,Bundesliga,SK Sturm Graz,Sturm,STU,2,sk-sturm-graz,2051
+Austria,Bundesliga,LASK,LASK,LASK,3,lask,2058
+Austria,Bundesliga,SK Rapid Wien,Rapid,SCR,4,sk-rapid-wien,2055
+Austria,Bundesliga,Austria Klagenfurt,A. Klagenfurt,SKA,5,austria-klagenfurt,43254
+Austria,Bundesliga,TSV Hartberg,Hartberg,HTB,6,tsv-hartberg,2075
+Hungary,NB I,Ferencváros TC,Ferencváros,FTC,1,ferencvaros-tc,1925
+Hungary,NB I,Paksi FC,Paksi,PAK,2,paksi-fc,6059
+Hungary,NB I,Fehérvár FC,Fehérvár,FEH,3,fehervar-fc,1926
+Hungary,NB I,Debreceni VSC,Debreceni VSC,DEB,4,debreceni-vsc,1921
+Hungary,NB I,Puskás Akadémia,Puskás,PUS,5,puskas-akademia,25596
+Hungary,NB I,MTK Budapest,MTK Budapest,MTK,6,mtk-budapest,1915
+Hungary,NB I,Diósgyőri VTK,DVTK,DIO,7,diosgyori-vtk,5121
+Hungary,NB I,Zalaegerszegi TE,ZTE,ZAL,8,zalaegerszegi-te,1922
+Hungary,NB I,Kecskemét TE,Kecskemét,KEC,9,kecskemet-te,23956
+Hungary,NB I,Újpest,Újpest,UJP,10,ujpest,1924
+Hungary,NB I,Kisvárda FC,Kisvárda,KIS,11,kisvarda-fc,25397
+Hungary,NB I,Mezőkövesd Zsóry,Mezőkövesd,MEZ,12,mezokovesd-zsory,25608
+Sweden,Allsvenskan,Malmö FF,Malmö,MFF,1,malmo-ff,1892
+Sweden,Allsvenskan,IF Brommapojkarna,Brommapojkarna,BP,2,if-brommapojkarna,1787
+Sweden,Allsvenskan,Djurgårdens IF,Djurgården,DIF,3,djurgardens-if,1759
+Sweden,Allsvenskan,IK Sirius,Sirius,IKS,4,ik-sirius,1793
+Sweden,Allsvenskan,Hammarby IF,Hammarby,HAM,5,hammarby-if,1758
+Sweden,Allsvenskan,AIK,AIK,AIK,6,aik,1764
+Sweden,Allsvenskan,Mjällby AIF,Mjällby,MAIF,7,mjallby-aif,1783
+Sweden,Allsvenskan,IF Elfsborg,Elfsborg,IFE,8,if-elfsborg,1762
+Sweden,Allsvenskan,IFK Värnamo,Värnamo,VMO,9,ifk-varnamo,1842
+Sweden,Allsvenskan,BK Häcken,Häcken,BKH,10,bk-hacken,1760
+Sweden,Allsvenskan,Västerås SK,Västerås,VSK,11,vasteras-sk,1775
+Sweden,Allsvenskan,Kalmar FF,Kalmar,KFF,12,kalmar-ff,1891
+Sweden,Allsvenskan,IFK Göteborg,Göteborg,GBG,13,ifk-goteborg,1761
+Sweden,Allsvenskan,Halmstads BK,Halmstad,HBK,14,halmstads-bk,1767
+Sweden,Allsvenskan,IFK Norrköping,Norrköping,NKPG,15,ifk-norrkoping,1769
+Sweden,Allsvenskan,GAIS Göteborg,GAIS,GAIS,16,gais-goteborg,1786
+Poland,Ekstraklasa,Jagiellonia Białystok,Jagiellonia,JAG,1,jagiellonia-bialystok,7691
+Poland,Ekstraklasa,Śląsk Wrocław,Śląsk,SLA,2,slask-wroclaw,3108
+Poland,Ekstraklasa,Raków Częstochowa,Raków,CZE,3,rakow-czestochowa,35268
+Poland,Ekstraklasa,Lech Poznań,Lech,LPO,4,lech-poznan,3121
+Poland,Ekstraklasa,Pogoń Szczecin,Pogoń,PSZ,5,pogon-szczecin,3117
+Poland,Ekstraklasa,Legia Warszawa,Legia,LEG,6,legia-warszawa,3106
+Poland,Ekstraklasa,Górnik Zabrze,Górnik,GOR,7,gornik-zabrze,3110
+Poland,Ekstraklasa,Stal Mielec,Stal Mielec,FKS,8,stal-mielec,38732
+Poland,Ekstraklasa,Widzew Łódź,Widzew Łódź,WLO,9,widzew-lodz,3115
+Poland,Ekstraklasa,Radomiak Radom,Radomiak ,RAD,10,radomiak-radom,7295
+Poland,Ekstraklasa,Zagłębie Lubin,Zagłębie L.,ZAG,11,zaglebie-lubin,3113
+Poland,Ekstraklasa,Cracovia,Cracovia,CRA,12,cracovia,4901
+Poland,Ekstraklasa,Piast Gliwice,Piast,PGL,13,piast-gliwice,7918
+Poland,Ekstraklasa,Warta Poznań,Warta Poznań,WAR,14,warta-poznan,7922
+Poland,Ekstraklasa,Puszcza Niepołomice,Puszcza,PUS,15,puszcza-niepolomice,38729
+Poland,Ekstraklasa,MKS Korona Kielce,Korona,KOR,16,mks-korona-kielce,5065
+Poland,Ekstraklasa,Ruch Chorzów,Ruch Chorzów,CHO,17,ruch-chorzow,3105
+Poland,Ekstraklasa,ŁKS Łódź,ŁKS Łódź,LKS,18,lks-lodz,3123
+Wales,Cymru Premier,The New Saints,TNS,TNS,1,the-new-saints,4921
+Wales,Cymru Premier,Connah's Quay Nomads,Connah's Quay,CQN,2,connahs-quay-nomads,4912
+Wales,Cymru Premier,Bala Town,Bala Town,BAT,3,bala-town,36255
+Wales,Cymru Premier,Caernarfon Town,Caernarfon,CAT,4,caernarfon-town,4909
+Wales,Cymru Premier,Cardiff Met FC,Cardiff Met,CMU,5,cardiff-met-fc,167106
+Wales,Cymru Premier,Newtown AFC,Newtown,NEW,6,newtown-afc,4918
+Nigeria,Professional League,Enugu Rangers International,Enugu Rangers,ENR,1,enugu-rangers-international,42370
+Nigeria,Professional League,Enyimba,Enyimba,ENY,2,enyimba,42371
+Nigeria,Professional League,Lobi Stars,Lobi Stars,LOB,3,lobi-stars,190731
+Nigeria,Professional League,Remo Stars,Remo Stars,REM,4,remo-stars,239062
+Nigeria,Professional League,Plateau United,Plateau Utd,PLA,5,plateau-united,214301
+Nigeria,Professional League,Shooting Stars,Shooting Stars,SHS,6,shooting-stars,190739
+Nigeria,Professional League,Katsina United,Katsina Utd,KUN,7,katsina-united,243647
+Nigeria,Professional League,Kano Pillars,Kano Pillars,KPI,8,kano-pillars,134276
+Nigeria,Professional League,Abia Warriors,Abia Warriors,AWA,9,abia-warriors,190742
+Nigeria,Professional League,Bendel Insurance FC,Bendel Insurance,BEN,10,bendel-insurance-fc,307998
+Nigeria,Professional League,Doma United FC,Doma United FC,DOM,11,doma-united-fc,460054
+Nigeria,Professional League,Niger Tornadoes,Niger Tornadoes,NIT,12,niger-tornadoes,214302
+Nigeria,Professional League,Sporting Lagos FC,Sporting Lagos FC,SPO,13,sporting-lagos-fc,493441
+Nigeria,Professional League,Sunshine Stars,Sunshine Stars,SUN,14,sunshine-stars,42584
+Nigeria,Professional League,Bayelsa United FC,Bayelsa Utd,BAY,15,bayelsa-united-fc,42369
+Nigeria,Professional League,Kwara United,Kwara Utd,KWA,16,kwara-united,190737
+Nigeria,Professional League,Rivers United,Rivers Utd,RIV,17,rivers-united,215270
+Nigeria,Professional League,Akwa United,Akwa Utd,AUN,18,akwa-united,190735
+Nigeria,Professional League,Gombe United FC,Gombe United FC,GOM,19,gombe-united-fc,242096
+Nigeria,Professional League,Heartland Owerri,Heartland Owerri,HOW,20,heartland-owerri,190734
+Ecuador,LigaPro Serie A,Barcelona SC,Barcelona SC,BSC,1,barcelona-sc,5250
+Ecuador,LigaPro Serie A,Deportivo Cuenca,Cuenca,CUE,2,deportivo-cuenca,5251
+Ecuador,LigaPro Serie A,El Nacional,El Nacional,ELN,3,el-nacional,5254
+Ecuador,LigaPro Serie A,Técnico Universitario,Técnico,TEC,4,tecnico-universitario,21941
+Ecuador,LigaPro Serie A,Universidad Católica del Ecuador,Universidad Católica,UNI,5,universidad-catolica-del-ecuador,21942
+Ecuador,LigaPro Serie A,Emelec,Emelec,CSE,6,emelec,5255
+Ecuador,LigaPro Serie A,Independiente del Valle,Independiente del Valle,IND,7,independiente-del-valle,39723
+Ecuador,LigaPro Serie A,Macará,Macará,MAC,8,macara,6001
+Ecuador,LigaPro Serie A,Cumbayá FC,Cumbayá FC,CUM,9,cumbaya-fc,377757
+Ecuador,LigaPro Serie A,Delfín,Delfín,DSC,10,delfin,213638
+Ecuador,LigaPro Serie A,Imbabura Sporting Club,Imbabura,ISC,11,imbabura-sporting-club,7049
+Ecuador,LigaPro Serie A,LDU,LDU,LDU,12,ldu,5257
+Ecuador,LigaPro Serie A,Libertad,Libertad,LIB,13,libertad,394127
+Ecuador,LigaPro Serie A,Mushuc Runa,Mushuc Runa,MUR,14,mushuc-runa,134976
+Ecuador,LigaPro Serie A,Orense SC,Orense,ORE,15,orense-sc,277525
+Ecuador,LigaPro Serie A,Aucas,Aucas,SDA,16,aucas,5249
+Peru,Liga 1,Universitario De Deportes,Universitario,UNI,1,universitario-de-deportes,2305
+Peru,Liga 1,Club Sporting Cristal,Sporting Cristal,CRI,2,club-sporting-cristal,2302
+Peru,Liga 1,Comerciantes Unidos,Comerciantes Unidos,COM,3,comerciantes-unidos,213609
+Peru,Liga 1,Melgar,Melgar,MEL,4,melgar,2308
+Peru,Liga 1,Cienciano,Cienciano,CIE,5,cienciano,2301
+Peru,Liga 1,Alianza Lima,Alianza Lima,ALI,6,alianza-lima,2311
+Peru,Liga 1,Sport Huancayo,Sport Huancayo,HUA,7,sport-huancayo,33895
+Peru,Liga 1,Club Atlético Grau,Atlético Grau,CAG,8,club-atletico-grau,282538
+Peru,Liga 1,Asociación Deportiva Tarma,ADT,ASO,9,asociacion-deportiva-tarma,335557
+Peru,Liga 1,Cusco FC,Cusco,CUS,10,cusco-fc,63760
+Peru,Liga 1,Sport Boys,Sport Boys,SBA,11,sport-boys,2312
+Peru,Liga 1,Los Chankas CYC,Los Chankas,CHA,12,los-chankas-cyc,252254
+Peru,Liga 1,Alianza Atlético de Sullana,Alianza Atlético,AAT,13,alianza-atletico-de-sullana,2307
+Peru,Liga 1,Universidad Técnica de Cajamarca,UTC,CAJ,14,universidad-tecnica-de-cajamarca,87854
+Peru,Liga 1,Carlos A. Mannucci,Carlos Mannucci,MAN,15,carlos-a-mannucci,252245
+Peru,Liga 1,Deportivo Garcilaso,Deportivo Garcilaso,DEP,16,deportivo-garcilaso,458584
+Peru,Liga 1,Universidad César Vallejo,César Vallejo,UCV,17,universidad-cesar-vallejo,5281
+Peru,Liga 1,Unión Comercio,Comercio,UNI,18,union-comercio,48431
+Serbia,Mozzart Bet Superliga,FK Crvena zvezda,Crvena zvezda,CRZ,1,fk-crvena-zvezda,5149
+Serbia,Mozzart Bet Superliga,FK Partizan,Partizan,PAR,2,fk-partizan,5152
+Serbia,Mozzart Bet Superliga,FK TSC Bačka Topola,TSC,TSC,3,fk-tsc-backa-topola,263360
+Serbia,Mozzart Bet Superliga,FK Čukarički,Čukarički,FKC,4,fk-cukaricki,5148
+Serbia,Mozzart Bet Superliga,FK Vojvodina,Vojvodina,VOJ,5,fk-vojvodina,5150
+Serbia,Mozzart Bet Superliga,FK Radnički 1923,Radnički 1923,RAD,6,fk-radnicki-1923,43981
+Serbia,Mozzart Bet Superliga,FK Mladost Lučani,Mladost,MLL,7,fk-mladost-lucani,7771
+Serbia,Mozzart Bet Superliga,FK Napredak Kruševac,Napredak,NAP,8,fk-napredak-krusevac,7674
+Serbia,Mozzart Bet Superliga,FK Novi Pazar,Novi Pazar,NPA,9,fk-novi-pazar,25736
+Serbia,Mozzart Bet Superliga,FK Spartak Subotica,Spartak,SSU,10,fk-spartak-subotica,36967
+Serbia,Mozzart Bet Superliga,FK Voždovac,Voždovac,VOZ,11,fk-vozdovac,5159
+Serbia,Mozzart Bet Superliga,FK Radnički Niš,Radnički N.,RNI,12,fk-radnicki-nis,25737
+Serbia,Mozzart Bet Superliga,FK IMT Beograd,IMT,IMT,13,fk-imt-beograd,308176
+Serbia,Mozzart Bet Superliga,FK Javor Ivanjica,Javor,JAV,14,fk-javor-ivanjica,5144
+Serbia,Mozzart Bet Superliga,FK Železničar Pančevo,Železničar,ZEL,15,fk-zeleznicar-pancevo,282203
+Serbia,Mozzart Bet Superliga,FK Radnik Surdulica,Radnik,RSU,16,fk-radnik-surdulica,111127
+Qatar,Stars League,Al-Sadd,Al-Sadd,SAD,1,al-sadd,39733
+Qatar,Stars League,Al-Gharafa,Al-Gharafa,ALG,2,al-gharafa,34312
+Qatar,Stars League,Al-Wakrah,Al-Wakrah,ALW,3,al-wakrah,44440
+Qatar,Stars League,Al-Rayyan,Al-Rayyan,ALR,4,al-rayyan,40660
+Qatar,Stars League,Al-Arabi SC,Al-Arabi,ARA,5,al-arabi-sc,44444
+Qatar,Stars League,Al Duhail,Al Duhail,DUH,6,al-duhail,44441
+Qatar,Stars League,Al Shamal SC,Al Shamal SC,SHM,7,al-shamal-sc,170366
+Qatar,Stars League,Al-Ahli Doha,Al-Ahli Doha,AHL,8,al-ahli-doha,44443
+Qatar,Stars League,Umm-Salal SC,Umm-Salal,UMM,9,umm-salal-sc,32490
+Qatar,Stars League,Qatar SC,Qatar SC,QAT,10,qatar-sc,25914
+Qatar,Stars League,Mu'aidar,Mu'aidar,MUA,11,muaidar,68804
+Qatar,Stars League,Al Markhiya,Al Markhiya,MAR,12,al-markhiya,264822
+Russia,Premier Liga,Zenit St. Petersburg,Zenit,ZEN,1,zenit-st-petersburg,2321
+Russia,Premier Liga,FC Krasnodar,Krasnodar,KRA,2,fc-krasnodar,34425
+Russia,Premier Liga,Dynamo Moscow,Dynamo,DMO,3,dynamo-moscow,2315
+Russia,Premier Liga,CSKA Moscow,CSKA,CSKA,4,cska-moscow,2325
+Russia,Premier Liga,Lokomotiv Moscow,Lokomotiv,LOK,5,lokomotiv-moscow,2320
+Russia,Premier Liga,Spartak Moscow,Spartak ,SPA,6,spartak-moscow,2323
+Russia,Premier Liga,Rubin Kazan,Rubin Kazan,RUK,7,rubin-kazan,2333
+Russia,Premier Liga,Krylya Sovetov Samara,Krylya Sovetov,KSS,8,krylya-sovetov-samara,2322
+Russia,Premier Liga,FC Rostov,Rostov,ROS,9,fc-rostov,2326
+Russia,Premier Liga,Pari Nizhny Novgorod,Pari NN,NNO,10,pari-nizhny-novgorod,201654
+Russia,Premier Liga,Fakel Voronezh,Fakel,FAK,11,fakel-voronezh,2317
+Russia,Premier Liga,Akhmat Grozny,Akhmat,AKH,12,akhmat-grozny,5131
+Russia,Premier Liga,Orenburg,Orenburg,ORE,13,orenburg,24118
+Russia,Premier Liga,Ural Yekaterinburg,Ural,URA,14,ural-yekaterinburg,7529
+Russia,Premier Liga,Baltika Kaliningrad,Baltika,KAL,15,baltika-kaliningrad,7517
+Russia,Premier Liga,FC Sochi,Sochi,SOC,16,fc-sochi,2334
+Czech Republic,1. Liga,Sparta Praha,Sparta Praha,SPA,1,sparta-praha,2218
+Czech Republic,1. Liga,Slavia Praha,Slavia Praha,SLA,2,slavia-praha,2216
+Czech Republic,1. Liga,Viktoria Plzeň,Viktoria Plzeň,VIK,3,viktoria-plzen,4502
+Czech Republic,1. Liga,Baník Ostrava,Baník,BAN,4,banik-ostrava,2204
+Czech Republic,1. Liga,Mladá Boleslav,Mladá Boleslav,MLA,5,mlada-boleslav,2224
+Czech Republic,1. Liga,1. FC Slovácko,Slovácko,FCS,6,1-fc-slovacko,4871
+Czech Republic,1. Liga,FC Slovan Liberec,Slovan Liberec,SLO,7,fc-slovan-liberec,2219
+Czech Republic,1. Liga,SK Sigma Olomouc,Sigma Olomouc,SIG,8,sk-sigma-olomouc,2207
+Czech Republic,1. Liga,FK Teplice,Teplice,TEP,9,fk-teplice,2208
+Czech Republic,1. Liga,Bohemians Praha 1905,Bohemians,BOH,10,bohemians-praha-1905,6064
+Czech Republic,1. Liga,FC Hradec Králové,Hradec Králové,HRK,11,fc-hradec-kralove,2217
+Czech Republic,1. Liga,FK Jablonec,Jablonec,FKJ,12,fk-jablonec,2205
+Czech Republic,1. Liga,FK Pardubice,Pardubice,PAR,13,fk-pardubice,2230
+Czech Republic,1. Liga,FC Zlín,Zlín,FCZ,14,fc-zlin,2220
+Czech Republic,1. Liga,MFK Karviná,Karviná,KAR,15,mfk-karvina,23951
+Czech Republic,1. Liga,SK Dynamo České Budějovice,Dynamo Č.B.,BUD,16,sk-dynamo-ceske-budejovice,2221
+Egypt,Premier League,Al-Ittihad Alexandria,Al-Ittihad,ITT,1,al-ittihad-alexandria,35187
+Egypt,Premier League,ENPPI,ENPPI,ENP,2,enppi,43564
+Egypt,Premier League,Al-Masry,Al-Masry,MAS,3,al-masry,43560
+Egypt,Premier League,Pyramids FC,Pyramids,PYR,4,pyramids-fc,175002
+Egypt,Premier League,ZED FC,ZED FC,ZED,5,zed-fc,373168
+Egypt,Premier League,Ceramica Cleopatra,Ceramica Cleopatra,CER,6,ceramica-cleopatra,371622
+Egypt,Premier League,El Gouna FC,El Gouna,GOU,7,el-gouna-fc,43565
+Egypt,Premier League,Smouha,Smouha,SMO,8,smouha,43563
+Egypt,Premier League,Tala'ea El-Gaish,El-Gaish,GAI,9,talaea-el-gaish,43561
+Egypt,Premier League,National Bank of Egypt,National Bank,NBE,10,national-bank-of-egypt,266626
+Egypt,Premier League,Al Ahly FC,Al Ahly,AHL,11,al-ahly-fc,6910
+Egypt,Premier League,Modern Future FC,Future,FUT,12,modern-future-fc,265830
+Egypt,Premier League,Ismaily,Ismaily,ISM,13,ismaily,42366
+Egypt,Premier League,Baladiyet El Mahallah,Baladiyet El Mahallah,MEH,14,baladiyet-el-mahallah,187866
+Egypt,Premier League,Zamalek SC,Zamalek,ZAM,15,zamalek-sc,42368
+Egypt,Premier League,Pharco FC,Pharco,PHA,16,pharco-fc,241703
+Egypt,Premier League,Al-Mokawloon,Al-Mokawloon,MOK,17,al-mokawloon,42365
+Egypt,Premier League,El Dakhlya,El Dakhlya,DAK,18,el-dakhlya,58317
+Scotland,Premiership,Celtic,Celtic,CEL,1,celtic,2352
+Scotland,Premiership,Rangers,Rangers,RFC,2,rangers,2351
+Scotland,Premiership,Heart of Midlothian,Hearts,HOM,3,heart-of-midlothian,2353
+Scotland,Premiership,Kilmarnock,Kilmarnock,KIL,4,kilmarnock,2347
+Scotland,Premiership,St. Mirren,St Mirren,MIR,5,st-mirren,2359
+Scotland,Premiership,Dundee FC,Dundee,DUN,6,dundee-fc,2357
+Scotland,Premiership,Hibernian,Hibernian,HIB,7,hibernian,2354
+Scotland,Premiership,Motherwell,Motherwell,MOT,8,motherwell,2346
+Scotland,Premiership,Aberdeen,Aberdeen,ABE,9,aberdeen,2355
+Scotland,Premiership,St. Johnstone,St. Johnstone,JOH,10,st-johnstone,2348
+Scotland,Premiership,Ross County,Ross County,ROS,11,ross-county,2365
+Scotland,Premiership,Livingston,Livingston,LIV,12,livingston,2356
+Turkey,Trendyol Süper Lig,Galatasaray,Galatasaray,GAL,1,galatasaray,3061
+Turkey,Trendyol Süper Lig,Fenerbahçe,Fenerbahçe,FEN,2,fenerbahce,3052
+Turkey,Trendyol Süper Lig,Trabzonspor,Trabzonspor,TRA,3,trabzonspor,3051
+Turkey,Trendyol Süper Lig,Beşiktaş,Beşiktaş,BES,4,besiktas,3050
+Turkey,Trendyol Süper Lig,Kasımpaşa,Kasımpaşa,KAS,5,kasimpasa,6063
+Turkey,Trendyol Süper Lig,Çaykur Rizespor,Rizespor,RIZ,6,caykur-rizespor,3064
+Turkey,Trendyol Süper Lig,Başakşehir FK,Başakşehir,BAS,7,basaksehir-fk,3086
+Turkey,Trendyol Süper Lig,Antalyaspor,Antalyaspor,ANT,8,antalyaspor,3056
+Turkey,Trendyol Süper Lig,Alanyaspor,Alanyaspor,ALA,9,alanyaspor,6362
+Turkey,Trendyol Süper Lig,Sivasspor,Sivasspor,SIV,10,sivasspor,3076
+Turkey,Trendyol Süper Lig,Adana Demirspor,Adana DS,ADE,11,adana-demirspor,3101
+Turkey,Trendyol Süper Lig,Yılport Samsunspor,Samsunspor,SAM,12,yilport-samsunspor,3053
+Turkey,Trendyol Süper Lig,Kayserispor,Kayserispor,KAY,13,kayserispor,3072
+Turkey,Trendyol Süper Lig,MKE Ankaragücü,Ankaragücü,ANK,14,mke-ankaragucu,3103
+Turkey,Trendyol Süper Lig,Hatayspor,Hatayspor,HAT,15,hatayspor,3091
+Turkey,Trendyol Süper Lig,Konyaspor,Konyaspor,KON,16,konyaspor,3085
+Turkey,Trendyol Süper Lig,Gaziantep FK,Gaziantep,GAZ,17,gaziantep-fk,5138
+Turkey,Trendyol Süper Lig,Fatih Karagümrük,Karagümrük,KAR,18,fatih-karagumruk,4954
+Turkey,Trendyol Süper Lig,Pendikspor,Pendikspor,PEN,19,pendikspor,7032
+Turkey,Trendyol Süper Lig,İstanbulspor,İstanbulspor,IAS,20,istanbulspor,3066
+Tunisia,Ligue 1,Espérance Tunis,Espérance,EST,1,esperance-tunis,59628
+Tunisia,Ligue 1,US Monastir,Monastir,MON,2,us-monastir,59638
+Tunisia,Ligue 1,Club Africain,Club Africain,CA,3,club-africain,39618
+Tunisia,Ligue 1,Etoile Sportive Du Sahel,Étoile,ESA,4,etoile-sportive-du-sahel,35188
+Tunisia,Ligue 1,Stade Tunisien,S. Tunisien,TUN,5,stade-tunisien,59636
+Tunisia,Ligue 1,CS Sfaxien,Sfaxien,CSS,6,cs-sfaxien,44463
+Chile,Primera División,Deportes Iquique,Iquique,IQU,1,deportes-iquique,33596
+Chile,Primera División,Universidad de Chile,Universidad de Chile,UCH,2,universidad-de-chile,3161
+Chile,Primera División,Palestino,Palestino,PAL,3,palestino,3157
+Chile,Primera División,Colo Colo,Colo-Colo,CC,4,colo-colo,3155
+Chile,Primera División,Unión Española,Unión Española,ESP,5,union-espanola,3153
+Chile,Primera División,Cobreloa,Cobreloa,COC,6,cobreloa,3159
+Chile,Primera División,O'Higgins,O'Higgins,OHF,7,ohiggins,3163
+Chile,Primera División,Coquimbo Unido,Coquimbo Unido,COQ,8,coquimbo-unido,3165
+Chile,Primera División,Everton de Viña del Mar,Everton,EVT,9,everton-de-vina-del-mar,5032
+Chile,Primera División,Huachipato,Huachipato,HUA,10,huachipato,3164
+Chile,Primera División,Ñublense,Ñublense,NUB,11,nublense,7029
+Chile,Primera División,Universidad Católica,Universidad Católica,UC,12,universidad-catolica,3151
+Chile,Primera División,Unión La Calera,Unión La Calera,ULC,13,union-la-calera,48242
+Chile,Primera División,Audax Italiano,Audax Italiano,AUD,14,audax-italiano,3162
+Chile,Primera División,Deportes Copiapó,Deportes Copiapó,COP,15,deportes-copiapo,89506
+Chile,Primera División,Cobresal,Cobresal,COB,16,cobresal,3167
+Algeria,Ligue 1,MC Alger,MC Alger,ALG,1,mc-alger,42204
+Algeria,Ligue 1,CR Belouizdad,Belouizdad,CRB,2,cr-belouizdad,42207
+Algeria,Ligue 1,CS Constantine,Constantine,CSC,3,cs-constantine,55393
+Algeria,Ligue 1,USM Alger,USM Alger,UAL,4,usm-alger,42206
+Algeria,Ligue 1,ES Sétif,ES Sétif,ESS,5,es-setif,41756
+Algeria,Ligue 1,Paradou AC,Paradou,PAR,6,paradou-ac,212197
+Algeria,Ligue 1,US Biskra,Biskra,BIS,7,us-biskra,212229
+Algeria,Ligue 1,JS Saoura,Saoura,SAO,8,js-saoura,79565
+Algeria,Ligue 1,USM Khenchela,USM Khenchela,KHE,9,usm-khenchela,238384
+Algeria,Ligue 1,MC El Bayadh,El Bayadh,MEB,10,mc-el-bayadh,133466
+Algeria,Ligue 1,JS Kabylie,Kabylie,JSK,11,js-kabylie,42202
+Algeria,Ligue 1,NC Magra,Magra,MGR,12,nc-magra,133488
+Algeria,Ligue 1,ASO Chlef,Chlef,ASO,13,aso-chlef,42201
+Algeria,Ligue 1,ES Ben Aknoun,Aknoun,BAK,14,es-ben-aknoun,133444
+Algeria,Ligue 1,MC Oran,Oran,MCO,15,mc-oran,45001
+Algeria,Ligue 1,US Souf,US Souf,SOU,16,us-souf,337539
+Panama,"Liga Panameña de Fútbol, Apertura",Costa del Este FC,Costa del Este,CDE,1,costa-del-este-fc,245429
+Panama,"Liga Panameña de Fútbol, Apertura",Plaza Amador,Plaza,PLA,2,plaza-amador,168806
+Panama,"Liga Panameña de Fútbol, Apertura",Tauro FC,Tauro,TAU,3,tauro-fc,24064
+Panama,"Liga Panameña de Fútbol, Apertura",Alianza FC,Alianza,PAN,4,alianza-fc,168798
+Panama,"Liga Panameña de Fútbol, Apertura",Árabe Unido,Árabe Unido,AUN,5,arabe-unido,36406
+Panama,"Liga Panameña de Fútbol, Apertura",Sporting San Miguelito,San Miguelito,SSM,6,sporting-san-miguelito,108211
+Romania,Superliga,FCSB,FCSB,FCSB,1,fcsb,3301
+Romania,Superliga,CS Universitatea Craiova,U. Craiova,CSU,2,cs-universitatea-craiova,116223
+Romania,Superliga,CFR 1907 Cluj,CFR Cluj,CFR,3,cfr-1907-cluj,5287
+Romania,Superliga,FC Rapid București,Rapid București,RAP,4,fc-rapid-bucuresti,295403
+Romania,Superliga,FCV Farul Constanța,Farul Constanța,FAR,5,fcv-farul-constanta,3294
+Romania,Superliga,Sepsi OSK,Sepsi OSK,SSG,6,sepsi-osk,189789
+Norway,Eliteserien,Molde FK,Molde,MFK,1,molde-fk,661
+Norway,Eliteserien,SK Brann,Brann,BRA,2,sk-brann,1159
+Norway,Eliteserien,Bodø/Glimt,Bodø/Glimt,BOG,3,bodoglimt,656
+Norway,Eliteserien,Rosenborg BK,Rosenborg,RBK,4,rosenborg-bk,1161
+Norway,Eliteserien,Kristiansund BK,Kristiansund,KBK,5,kristiansund-bk,957
+Norway,Eliteserien,Haugesund,Haugesund,HAU,6,haugesund,673
+Norway,Eliteserien,Viking FK,Viking,VIK,7,viking-fk,1164
+Norway,Eliteserien,HamKam,HamKam,HAK,8,hamkam,666
+Norway,Eliteserien,KFUM Oslo,KFUM Oslo,KFU,9,kfum-oslo,786
+Norway,Eliteserien,Lillestrøm SK,Lillestrøm,LSK,10,lillestrom-sk,664
+Norway,Eliteserien,Odds BK,Odd,ODD,11,odds-bk,659
+Norway,Eliteserien,Sarpsborg 08,Sarpsborg 08,SAR,12,sarpsborg-08,822
+Norway,Eliteserien,Tromsø IL,Tromsø,TIL,13,tromso-il,660
+Norway,Eliteserien,Fredrikstad FK,Fredrikstad,FFK,14,fredrikstad-fk,687
+Norway,Eliteserien,Sandefjord Fotball,Sandefjord,SAN,15,sandefjord-fotball,676
+Norway,Eliteserien,Strømsgodset,Strømsgodset,SIF,16,stromsgodset,1163
+Slovakia,Niké Liga,ŠK Slovan Bratislava,Slovan,SLO,1,sk-slovan-bratislava,2404
+Slovakia,Niké Liga,FC Spartak Trnava,FC Spartak Trnava,TRN,2,fc-spartak-trnava,2406
+Slovakia,Niké Liga,MŠK Žilina,Žilina,ZIL,3,msk-zilina,2402
+Slovakia,Niké Liga,DAC 1904,DAC 1904,DDS,4,dac-1904,23833
+Slovakia,Niké Liga,MFK Ružomberok,Ružomberok,RUZ,5,mfk-ruzomberok,2397
+Slovakia,Niké Liga,FK Železiarne Podbrezová,Podbrezová,ZEP,6,fk-zeleziarne-podbrezova,7887
+Canada,Canadian Premier League,Atlético Ottawa,Atl. Ottawa,OTT,1,atletico-ottawa,342076
+Canada,Canadian Premier League,Cavalry FC,Cavalry,CAV,2,cavalry-fc,309889
+Canada,Canadian Premier League,Forge FC,Forge,FOR,3,forge-fc,313716
+Canada,Canadian Premier League,HFX Wanderers FC,HFX Wanderers,HFX,4,hfx-wanderers-fc,309892
+Canada,Canadian Premier League,Pacific FC,Pacific,PAC,5,pacific-fc,309888
+Canada,Canadian Premier League,Valour FC,Valour,VAL,6,valour-fc,313717
+Canada,Canadian Premier League,Vancouver FC,Vancouver,VAN,7,vancouver-fc,463097
+Canada,Canadian Premier League,York United FC,York United,YORK,8,york-united-fc,309890
+Greece,Stoiximan Super League,PAOK,PAOK,PAOK,1,paok,3251
+Greece,Stoiximan Super League,AEK Athens,AEK,AEK,2,aek-athens,3250
+Greece,Stoiximan Super League,Olympiacos FC,Olympiacos,OLY,3,olympiacos-fc,3245
+Greece,Stoiximan Super League,Panathinaikos,Panathinaikos,PAN,4,panathinaikos,3248
+Greece,Stoiximan Super League,Aris Thessaloniki,Aris,ARIS,5,aris-thessaloniki,3252
+Greece,Stoiximan Super League,PAS Lamia 1964,Lamia,LAM,6,pas-lamia-1964,120154
+Greece,Stoiximan Super League,Asteras Tripolis,Asteras,AST,7,asteras-tripolis,6342
+Greece,Stoiximan Super League,Atromitos Athens,Atromitos,ATR,8,atromitos-athens,5062
+Greece,Stoiximan Super League,Panserraikos,Panserraikos,PAN,9,panserraikos,6347
+Greece,Stoiximan Super League,OFI Crete,OFI,OFI,10,ofi-crete,3241
+Greece,Stoiximan Super League,A.E. Kifisia FC,Kifisia,AEK,11,ae-kifisia-fc,120224
+Greece,Stoiximan Super League,Panetolikos,Panetolikos,PAN,12,panetolikos,7004
+Greece,Stoiximan Super League,Volos NFC,Volos,VOL,13,volos-nfc,267459
+Greece,Stoiximan Super League,PAS Giannina,PAS Giannina,GIA,14,pas-giannina,6349
+Cameroon,Elite One,Yong Sports Academy,Y. S. Academy,YSA,1,yong-sports-academy,62234
+Cameroon,Elite One,Coton Sport de Garoua,Coton Sport,CSG,2,coton-sport-de-garoua,42575
+Cameroon,Elite One,Stade Renard,Stade Renard,REN,3,stade-renard,247069
+Cameroon,Elite One,Victoria United Limbe,Victoria United Limbe,VUL,4,victoria-united-limbe,294293
+Cameroon,Elite One,Colombe FC,Colombe FC,COL,5,colombe-fc,247067
+Cameroon,Elite One,Gazelle FA de Garoua,Gazelle FA de Garoua,GAZ,6,gazelle-fa-de-garoua,317671
+Cameroon,Elite One,Dynamo de Douala,Dynamo de Douala,DDD,7,dynamo-de-douala,310804
+Cameroon,Elite One,Canon Yaoundé,Canon Yaoundé,CSY,8,canon-yaounde,42577
+Costa Rica,"Primera División, Apertura",Deportivo Saprissa,Saprissa,SAP,1,deportivo-saprissa,6574
+Costa Rica,"Primera División, Apertura",LD Alajuelense,Alajuelense,ALA,2,ld-alajuelense,6572
+Costa Rica,"Primera División, Apertura",Herediano,Herediano,HER,3,herediano,7045
+Costa Rica,"Primera División, Apertura",CS Cartaginés,Cartaginés,CAR,4,cs-cartagines,7044
+Costa Rica,"Primera División, Apertura",AD Guanacasteca,AD Guanacasteca,GUA,5,ad-guanacasteca,226871
+Costa Rica,"Primera División, Apertura",San Carlos,San Carlos,SCA,6,san-carlos,7047
+Costa Rica,"Primera División, Apertura",Sporting San José,Sporting San José,SPO,7,sporting-san-jose,262906
+Costa Rica,"Primera División, Apertura",Santos de Guápiles,Santos,SDG,8,santos-de-guapiles,7048
+Costa Rica,"Primera División, Apertura",Municipal Liberia,Liberia,LIB,9,municipal-liberia,6575
+Costa Rica,"Primera División, Apertura",Puntarenas FC,Puntarenas FC,PUN,10,puntarenas-fc,7046
+Costa Rica,"Primera División, Apertura",Municipal Pérez Zeledón,Pérez Zeledón,ZEL,11,municipal-perez-zeledon,6576
+Costa Rica,"Primera División, Apertura",Municipal Grecia,Grecia,GRE,12,municipal-grecia,261677
+Saudi Arabia,Saudi Pro League,Al-Hilal,Al-Hilal,HIL,1,al-hilal,21895
+Saudi Arabia,Saudi Pro League,Al-Nassr,Al-Nassr,ALN,2,al-nassr,23400
+Saudi Arabia,Saudi Pro League,Al-Ahli,Al-Ahli,AAS,3,al-ahli,34469
+Saudi Arabia,Saudi Pro League,Al-Ittihad,Al-Ittihad,ITJ,4,al-ittihad,34315
+Saudi Arabia,Saudi Pro League,Al-Taawoun,Al-Taawoun,ALT,5,al-taawoun,56021
+Saudi Arabia,Saudi Pro League,Al-Fateh,Al-Fateh,FAT,6,al-fateh,56023
+Saudi Arabia,Saudi Pro League,Al-Ettifaq,Al-Ettifaq,ITT,7,al-ettifaq,34318
+Saudi Arabia,Saudi Pro League,Damac FC,Damac,DAM,8,damac-fc,204126
+Saudi Arabia,Saudi Pro League,Al-Khaleej,Al-Khaleej,KHA,9,al-khaleej,167228
+Saudi Arabia,Saudi Pro League,Al-Fayha,Al-Fayha,FAY,10,al-fayha,168094
+Saudi Arabia,Saudi Pro League,Al-Shabab,Al-Shabab,SHA,11,al-shabab,34313
+Saudi Arabia,Saudi Pro League,Al-Wehda,Al-Wehda,ALW,12,al-wehda,32994
+Saudi Arabia,Saudi Pro League,Al-Raed,Al-Raed,RAE,13,al-raed,56031
+Saudi Arabia,Saudi Pro League,Al Riyadh,Al Riyadh,RIY,14,al-riyadh,168088
+Saudi Arabia,Saudi Pro League,Al Akhdood,Al Akhdood,AKH,15,al-akhdood,336456
+Saudi Arabia,Saudi Pro League,Al Tai,Al Tai,TAI,16,al-tai,168072
+Saudi Arabia,Saudi Pro League,Abha,Abha,ABH,17,abha,168090
+Saudi Arabia,Saudi Pro League,Al Hazem,Al Hazem,HAZ,18,al-hazem,168086
+Venezuela,Primera División,UCV FC,UCV FC,UCV,1,ucv-fc,249952
+Venezuela,Primera División,Angostura FC,Angostura FC,ANG,2,angostura-fc,263715
+Venezuela,Primera División,Academia Puerto Cabello,Puerto Cabello,APC,3,academia-puerto-cabello,230725
+Venezuela,Primera División,Inter de Barinas,Inter de Barinas,IBA,4,inter-de-barinas,281675
+Venezuela,Primera División,Carabobo,Carabobo,CFC,5,carabobo,6229
+Venezuela,Primera División,Deportivo Táchira,Dep. Táchira,TAC,6,deportivo-tachira,6231
+Venezuela,Primera División,Deportivo La Guaira,La Guaira,DLG,7,deportivo-la-guaira,36437
+Venezuela,Primera División,Metropolitanos,Metropolitanos,MET,8,metropolitanos,162480
+Venezuela,Primera División,Monagas,Monagas,MSC,9,monagas,6233
+Venezuela,Primera División,Portuguesa FC,Portuguesa,POR,10,portuguesa-fc,6234
+Venezuela,Primera División,Caracas F.C.,Caracas,CAR,11,caracas-fc,6230
+Venezuela,Primera División,Rayo Zuliano,Rayo Zuliano,RAY,12,rayo-zuliano,386310
+Venezuela,Primera División,Zamora,Zamora,ZAM,13,zamora,6237
+Venezuela,Primera División,Estudiantes de Mérida,Estudiantes de Mérida,EDM,14,estudiantes-de-merida,7745
+Jamaica,Premier League,Mount Pleasant FA,Mount Pleasant,MOU,1,mount-pleasant-fa,298573
+Jamaica,Premier League,Tivoli Gardens,Tivoli Gardens,TIG,2,tivoli-gardens,173734
+Jamaica,Premier League,Cavalier FC,Cavalier,CAV,3,cavalier-fc,173720
+Jamaica,Premier League,Portmore United FC,Portmore Utd,PTU,4,portmore-united-fc,124528
+Jamaica,Premier League,Arnett Gardens,Arnett Gardens,ARG,5,arnett-gardens,173716
+Jamaica,Premier League,Waterhouse FC,Waterhouse FC,WAT,6,waterhouse-fc,173736
+Jamaica,Premier League,Montego Bay United,Montego Bay,MBU,7,montego-bay-united,173724
+Jamaica,Premier League,Dunbeholden FC,Dunbeholden FC,DUN,8,dunbeholden-fc,298574
+Jamaica,Premier League,Vere United FC,Vere,VER,9,vere-united-fc,231602
+Jamaica,Premier League,Humble Lions FC,Humble Lions FC,HUL,10,humble-lions-fc,173722
+Jamaica,Premier League,Molynes United FC,Molynes United FC,MOL,11,molynes-united-fc,327921
+Jamaica,Premier League,Harbour View FC,Harbour View,HAV,12,harbour-view-fc,22050
+Jamaica,Premier League,Treasure Beach FC,Treasure Beach FC,TRE,13,treasure-beach-fc,496048
+Jamaica,Premier League,Lime Hall Academy FC,Lime Hall Academy FC,LIM,14,lime-hall-academy-fc,496047
+Paraguay,"Primera División, Apertura",Libertad,Libertad,LIB,1,libertad,5996
+Paraguay,"Primera División, Apertura",Sportivo Luqueño,Sportivo Luqueño,LUQ,2,sportivo-luqueno,5998
+Paraguay,"Primera División, Apertura",Olimpia,Olimpia,OLI,3,olimpia,5997
+Paraguay,"Primera División, Apertura",CS 2 de Mayo,2 de Mayo,MAY,4,cs-2-de-mayo,5992
+Paraguay,"Primera División, Apertura",Cerro Porteño,Cerro Porteño,CPO,5,cerro-porteno,5991
+Paraguay,"Primera División, Apertura",Sportivo Ameliano,Sportivo Ameliano,SPO,6,sportivo-ameliano,323510
+Paraguay,"Primera División, Apertura",Guaraní,Guaraní,GUA,7,guarani,5994
+Paraguay,"Primera División, Apertura",General Caballero,General Caballero,CAB,8,general-caballero,387619
+Paraguay,"Primera División, Apertura",Tacuary,Tacuary,TAC,9,tacuary,5999
+Paraguay,"Primera División, Apertura",Sol de América,Sol de América,SOL,10,sol-de-america,36439
+Paraguay,"Primera División, Apertura",Sportivo Trinidense,Trinidense,TRI,11,sportivo-trinidense,39722
+Paraguay,"Primera División, Apertura",Nacional Asunción,Nacional,NAC,12,nacional-asuncion,33001
+Slovenia,PrvaLiga,NK Celje,Celje,CEL,1,nk-celje,2413
+Slovenia,PrvaLiga,NK Olimpija Ljubljana,Olimpija,OLI,2,nk-olimpija-ljubljana,2416
+Slovenia,PrvaLiga,NK Maribor,Maribor,MAR,3,nk-maribor,2420
+Slovenia,PrvaLiga,NK Bravo,Bravo,BRA,4,nk-bravo,261800
+Slovenia,PrvaLiga,FC Koper,Koper,KOP,5,fc-koper,2417
+Slovenia,PrvaLiga,NŠ Mura,Mura,MUR,6,ns-mura,213357
+Slovenia,PrvaLiga,NK Domžale,Domžale,DOM,7,nk-domzale,2418
+Slovenia,PrvaLiga,NK Rogaška,Rogaška,ROG,8,nk-rogaska,199943
+Slovenia,PrvaLiga,NK Aluminij Kidričevo,Aluminij,ALU,9,nk-aluminij-kidricevo,2424
+Slovenia,PrvaLiga,Kalcer Radomlje,Kalcer Radomlje,RAD,10,kalcer-radomlje,37737
+South Africa,Premiership,Mamelodi Sundowns,Sundowns,MAM,1,mamelodi-sundowns,7665
+South Africa,Premiership,Stellenbosch,Stellenbosch,STB,2,stellenbosch,43555
+South Africa,Premiership,Sekhukhune United,Sekhukhune United,SEK,3,sekhukhune-united,371341
+South Africa,Premiership,Orlando Pirates,Orlando Pirates,ORL,4,orlando-pirates,7668
+South Africa,Premiership,Supersport United,Supersport United,SUP,5,supersport-united,7671
+South Africa,Premiership,Cape Town City FC,Cape Town City,CTC,6,cape-town-city-fc,229679
+South Africa,Premiership,TS Galaxy,TS Galaxy,GAL,7,ts-galaxy,295408
+South Africa,Premiership,Kaizer Chiefs,Kaizer Chiefs,KAC,8,kaizer-chiefs,7663
+South Africa,Premiership,Lamontville Golden Arrows,Golden Arrows,GAR,9,lamontville-golden-arrows,7664
+South Africa,Premiership,Polokwane City,Polokwane,POL,10,polokwane-city,25002
+South Africa,Premiership,Chippa United,Chippa Utd,CHI,11,chippa-united,70946
+South Africa,Premiership,AmaZulu FC,AmaZulu,AMA,12,amazulu-fc,7655
+South Africa,Premiership,Moroka Swallows,Moroka Swallows,SWA,13,moroka-swallows,7667
+South Africa,Premiership,Royal AM,Royal AM,ROY,14,royal-am,7659
+South Africa,Premiership,Richards Bay FC,Richards Bay FC,RIC,15,richards-bay-fc,263079
+South Africa,Premiership,Cape Town Spurs Football Club,Cape Town Spurs,CTS,16,cape-town-spurs-football-club,7654
+Ireland,Premier Division,Shelbourne,Shelbourne,SHE,1,shelbourne,3174
+Ireland,Premier Division,Derry City,Derry City,DER,2,derry-city,3170
+Ireland,Premier Division,St. Patrick's Athletic,St. Patrick’s,STP,3,st-patricks-athletic,3169
+Ireland,Premier Division,Sligo Rovers,Sligo Rovers,SLR,4,sligo-rovers,3190
+Ireland,Premier Division,Shamrock Rovers,Shamrock Rovers,SHA,5,shamrock-rovers,3177
+Ireland,Premier Division,Waterford FC,Waterford,WAT,6,waterford-fc,3194
+Ireland,Premier Division,Galway United,Galway Utd,GAL,7,galway-united,137382
+Ireland,Premier Division,Bohemian,Bohemian,BOH,8,bohemian,3173
+Ireland,Premier Division,Drogheda United,Drogheda Utd,DRO,9,drogheda-united,3180
+Ireland,Premier Division,Dundalk FC,Dundalk ,DUN,10,dundalk-fc,3179
+Finland,Veikkausliiga,AC Oulu,Oulu,ACO,1,ac-oulu,5114
+Finland,Veikkausliiga,EIF,EIF,EIF,2,eif,22372
+Finland,Veikkausliiga,FC Haka,Haka,VAL,3,fc-haka,2240
+Finland,Veikkausliiga,Inter Turku,Inter,INT,4,inter-turku,2247
+Finland,Veikkausliiga,FC Lahti,Lahti,LAH,5,fc-lahti,2249
+Finland,Veikkausliiga,HJK,HJK,HJK,6,hjk,2242
+Finland,Veikkausliiga,Gnistan,Gnistan,GNI,7,gnistan,2271
+Finland,Veikkausliiga,IFK Mariehamn,Mariehamn,MAR,8,ifk-mariehamn,5058
+Finland,Veikkausliiga,KuPS,KuPS,KUPS,9,kups,2244
+Finland,Veikkausliiga,SJK,SJK,SEI,10,sjk,22395
+Finland,Veikkausliiga,Ilves,Ilves,ILV,11,ilves,22386
+Finland,Veikkausliiga,VPS,VPS,VPS,12,vps,2246
+DR Congo,Linafoot Ligue 1,FC Saint Eloi Lupopo,FC Saint Eloi Lupopo,SAI,1,fc-saint-eloi-lupopo,371343
+DR Congo,Linafoot Ligue 1,Toutes Puissant Mazembe,TP Mazembe,MAZ,2,toutes-puissant-mazembe,38873
+DR Congo,Linafoot Ligue 1,Lubumbashi Sport,Lubumbashi ,LSP,3,lubumbashi-sport,380668
+DR Congo,Linafoot Ligue 1,CS Don Bosco,CS Don Bosco,CDB,4,cs-don-bosco,371619
+DR Congo,Linafoot Ligue 1,AS Simba,AS Simba,ASI,5,as-simba,371664
+DR Congo,Linafoot Ligue 1,Blessing FC,Blessing FC,BFC,6,blessing-fc,378134
+DR Congo,Linafoot Ligue 1,SM Sanga Balende,SM Sanga Balende,SBA,7,sm-sanga-balende,191186
+DR Congo,Linafoot Ligue 1,US Panda B52,Panda B52,PAN,8,us-panda-b52,393647
+DR Congo,Linafoot Ligue 1,Groupe Bazano,Groupe Bazano,GBA,9,groupe-bazano,380399
+DR Congo,Linafoot Ligue 1,Union Sportive Tshinkunku,US Tshinkunku,TSH,10,union-sportive-tshinkunku,393650
+Uzbekistan,Super League,PFK Andijon,Andijon,AND,1,pfk-andijon,40267
+Uzbekistan,Super League,Neftchi Fargona,Neftchi,NEF,2,neftchi-fargona,36256
+Uzbekistan,Super League,Lokomotiv Tashkent,Lokomotiv,LOK,3,lokomotiv-tashkent,40261
+Uzbekistan,Super League,FC AGMK,AGMK,AGM,4,fc-agmk,40268
+Uzbekistan,Super League,Nasaf Qarshi,Nasaf,NAS,5,nasaf-qarshi,34017
+Uzbekistan,Super League,FC Sogdiana Jizzakh,Sogdiana,SOG,6,fc-sogdiana-jizzakh,48614
+Uzbekistan,Super League,PFK Qizilqum,Qizilqum,QIZ,7,pfk-qizilqum,40265
+Uzbekistan,Super League,Navbahor Namangan,Navbahor,NAV,8,navbahor-namangan,40263
+Uzbekistan,Super League,Pakhtakor Tashkent,Pakhtakor,PAK,9,pakhtakor-tashkent,34310
+Uzbekistan,Super League,FC Olimpik,FC Olimpik,OLI,10,fc-olimpik,378477
+Uzbekistan,Super League,Dinamo Samarqand,Dinamo,DIN,11,dinamo-samarqand,40259
+Uzbekistan,Super League,Metallurg Bekabad,Metalurg,MET,12,metallurg-bekabad,40266
+Uzbekistan,Super League,FC Bunyodkor,Bunyodkor,BUN,13,fc-bunyodkor,23481
+Uzbekistan,Super League,Surkhon Termez,Surkhon Termez,FKT,14,surkhon-termez,287019
+Cape Verde,Campeonato Nacional,CS Mindelense,Mindelense,CMI,1,cs-mindelense,414737
+Cape Verde,Campeonato Nacional,CD Travadores,Travadores,CTR,2,cd-travadores,468921
+Cape Verde,Campeonato Nacional,UD Santo Crucifixo,Santo Crucifixo,USC,3,ud-santo-crucifixo,468922
+Cape Verde,Campeonato Nacional,Juventude Clube do Norte,Juventude Clube do Norte,JCD,4,juventude-clube-do-norte,468923
+Albania,Abissnet Superiore,KS Egnatia,Egnatia,EGR,1,ks-egnatia,264619
+Albania,Abissnet Superiore,KF Vllaznia,Vllaznia,KFV,2,kf-vllaznia,5418
+Albania,Abissnet Superiore,FK Partizani,Partizani,PTI,3,fk-partizani,5222
+Albania,Abissnet Superiore,Dinamo City,Dinamo City,DIC,4,dinamo-city,5217
+Albania,Abissnet Superiore,KF Skënderbeu,Skënderbeu,SKE,5,kf-skenderbeu,5224
+Albania,Abissnet Superiore,KF Tirana,Tirana,KFT,6,kf-tirana,5195
+Albania,Abissnet Superiore,KF Teuta Durrës,Teuta,TEU,7,kf-teuta-durres,5417
+Albania,Abissnet Superiore,KF Laçi,Laçi,KFL,8,kf-laci,37121
+Albania,Abissnet Superiore,KF Erzeni,Erzeni,SHJ,9,kf-erzeni,196778
+Albania,Abissnet Superiore,FK Kukësi,Kukësi,KUK,10,fk-kukesi,53064
+United Arab Emirates,UAE Pro League,Al Wasl,Al-Wasl,ALW,1,al-wasl,47674
+United Arab Emirates,UAE Pro League,Al-Ain,Al-Ain,AIN,2,al-ain,37082
+United Arab Emirates,UAE Pro League,Shabab Al-Ahli Dubai,Shabab Al-Ahli,SAH,3,shabab-al-ahli-dubai,264111
+United Arab Emirates,UAE Pro League,Al-Wahda FC,Al-Wahda,ALW,4,al-wahda-fc,264115
+United Arab Emirates,UAE Pro League,Al-Sharjah,Al-Sharjah,SHJ,5,al-sharjah,34060
+United Arab Emirates,UAE Pro League,Al-Nasr Dubai,Al-Nasr Dubai,AND,6,al-nasr-dubai,46332
+United Arab Emirates,UAE Pro League,Al Bataeh,Al Bataeh,BAT,7,al-bataeh,331952
+United Arab Emirates,UAE Pro League,Al-Jazira,Al-Jazira,JAZ,8,al-jazira,8090
+United Arab Emirates,UAE Pro League,Baniyas,Baniyas,BNY,9,baniyas,58689
+United Arab Emirates,UAE Pro League,Khor Fakkan,Khor Fakkan,KHF,10,khor-fakkan,234227
+United Arab Emirates,UAE Pro League,Ajman,Ajman,AJM,11,ajman,58687
+United Arab Emirates,UAE Pro League,Al-Ittihad Kalba,Kalba,ITT,12,al-ittihad-kalba,55705
+United Arab Emirates,UAE Pro League,Emirates Club,Emirates,EMR,13,emirates-club,47466
+United Arab Emirates,UAE Pro League,Hatta,Hatta,HAT,14,hatta,227791
+Ghana,Ghana Premier League,Nations FC,Nations FC,NAT,1,nations-fc,486320
+Ghana,Ghana Premier League,Samartex,Samartex,SAM,2,samartex,196369
+Ghana,Ghana Premier League,Aduana Stars,Aduana Stars,ADU,3,aduana-stars,42610
+Ghana,Ghana Premier League,Berekum Chelsea,Berekum Chelsea,BEC,4,berekum-chelsea,42611
+Ghana,Ghana Premier League,Bechem United,Bechem Utd,BEU,5,bechem-united,115787
+Ghana,Ghana Premier League,Medeama,Medeama,MSC,6,medeama,81951
+Ghana,Ghana Premier League,Nsoatreman FC,Nsoatreman FC,NSO,7,nsoatreman-fc,404788
+Ghana,Ghana Premier League,Accra Lions FC,Accra Lions FC,ACC,8,accra-lions-fc,396191
+Ghana,Ghana Premier League,Accra Hearts of Oak,Hearts of Oak,HOO,9,accra-hearts-of-oak,42614
+Ghana,Ghana Premier League,Asante Kotoko SC,Kotoko,ASA,10,asante-kotoko-sc,41755
+Ghana,Ghana Premier League,Accra Great Olympics,Great Olympics,AGO,11,accra-great-olympics,187198
+Ghana,Ghana Premier League,Legon Cities,LCFC,LEG,12,legon-cities,81943
+Ghana,Ghana Premier League,Bibiani Gold Stars FC,Gold Stars,BIB,13,bibiani-gold-stars-fc,396192
+Ghana,Ghana Premier League,Dreams,Dreams,DRE,14,dreams,213969
+Ghana,Ghana Premier League,Karela United,Karela Utd,KAR,15,karela-united,274973
+Ghana,Ghana Premier League,Bofoakwa Tano,Bofoakwa Tano,BOF,16,bofoakwa-tano,486321
+Ghana,Ghana Premier League,Heart of Lions,Heart of Lions,HOL,17,heart-of-lions,42613
+Ghana,Ghana Premier League,Real Tamale United,Real Tamale,RTU,18,real-tamale-united,81955
+North Macedonia,1. MFL,FC Struga Trim & Lum,Struga T&L,STL,1,fc-struga-trim-and-lum,259121
+North Macedonia,1. MFL,KF Shkupi,Shkupi,SHK,2,kf-shkupi,136548
+North Macedonia,1. MFL,KF Shkëndija,Shkëndija,SHK,3,kf-shkendija,5413
+North Macedonia,1. MFL,FK Sileks Kratovo,Sileks,SIK,4,fk-sileks-kratovo,5407
+North Macedonia,1. MFL,Tikveš Kavadarci,Tikveš,GFK,5,tikves-kavadarci,43576
+North Macedonia,1. MFL,KF Gostivar,Gostivar,GOS,6,kf-gostivar,43575
+North Macedonia,1. MFL,AP Brera Strumica,AP Brera Strumica,AKP,7,ap-brera-strumica,226868
+North Macedonia,1. MFL,FK Rabotnički Skopje,Rabotnički,RBS,8,fk-rabotnicki-skopje,5212
+North Macedonia,1. MFL,Voska Sport,Voska Sport,VOS,9,voska-sport,388950
+North Macedonia,1. MFL,FK Vardar Skopje,Vardar,VAR,10,fk-vardar-skopje,5403
+North Macedonia,1. MFL,Makedonija Gjorce Petrov,Makedonija GjP,MGP,11,makedonija-gjorce-petrov,53841
+North Macedonia,1. MFL,Bregalnica Štip,Bregalnica,BRE,12,bregalnica-stip,5969
+Montenegro,Meridianbet 1. CFL,FK Dečić Tuzi,FK Dečić,TUZ,1,fk-decic-tuzi,6226
+Montenegro,Meridianbet 1. CFL,FK Budućnost Podgorica,Budućnost,BUD,2,fk-buducnost-podgorica,5143
+Montenegro,Meridianbet 1. CFL,FK Sutjeska Nikšić,Sutjeska,SUN,3,fk-sutjeska-niksic,6224
+Montenegro,Meridianbet 1. CFL,FK Mornar Bar,FK Mornar,MBA,4,fk-mornar-bar,36019
+Montenegro,Meridianbet 1. CFL,FK Jezero,Jezero,JEZ,5,fk-jezero,24312
+Montenegro,Meridianbet 1. CFL,OFK Petrovac,Petrovac,PET,6,ofk-petrovac,6216
+Montenegro,Meridianbet 1. CFL,FK Arsenal Tivat,FK Arsenal,ATI,7,fk-arsenal-tivat,37956
+Montenegro,Meridianbet 1. CFL,FK Jedinstvo Bijelo Polje,FK Jedinstvo,JBP,8,fk-jedinstvo-bijelo-polje,6219
+Montenegro,Meridianbet 1. CFL,Mladost DG,Mladost DG,MLA,9,mladost-dg,327162
+Montenegro,Meridianbet 1. CFL,FK Rudar Pljevlja,Rudar,RPJ,10,fk-rudar-pljevlja,6223
+Jordan,Jordan League,Al Hussein Irbid,Al-Hussein,HUI,1,al-hussein-irbid,117204
+Jordan,Jordan League,Al Faisaly SC,Al-Faisaly,AFA,2,al-faisaly-sc,47482
+Jordan,Jordan League,Al-Wehdat,Al-Wehdat,ALW,3,al-wehdat,40650
+Jordan,Jordan League,Ramtha SC,Ramtha,RSC,4,ramtha-sc,54595
+Jordan,Jordan League,Al Aqaba,Al-Aqaba,AQA,5,al-aqaba,251875
+Jordan,Jordan League,FC Maan,FC Maan,MAN,6,fc-maan,310311
+Jordan,Jordan League,Al Salt,Al Salt,SAL,7,al-salt,250534
+Jordan,Jordan League,Shabab Al Ordun,Shabab Al-Ordon,SAO,8,shabab-al-ordun,40646
+Jordan,Jordan League,Moghayer Al Sarhan,Moghayer Al Sarhan,MOG,9,moghayer-al-sarhan,369474
+Jordan,Jordan League,Al Ahli Jordan,Al-Ahli,AAA,10,al-ahli-jordan,167130
+Jordan,Jordan League,Al-Jalil,Al-Jalil,AJA,11,al-jalil,54585
+Jordan,Jordan League,Sahab SC,Sahab SC,SAH,12,sahab-sc,235553
+Iceland,Besta deild karla,Breidablik Kópavogur,Breiðablik,KOP,1,breidablik-kopavogur,1901
+Iceland,Besta deild karla,FH Hafnarfjörður,Hafnarfjörður,HAF,2,fh-hafnarfjordur,1894
+Iceland,Besta deild karla,Fram Reykjavík,Fram,FRR,3,fram-reykjavik,1893
+Iceland,Besta deild karla,Fylkir Reykjavík,Fylkir,FYL,4,fylkir-reykjavik,1896
+Iceland,Besta deild karla,HK Kópavogur,Kópavogur,KOP,5,hk-kopavogur,7121
+Iceland,Besta deild karla,ÍA Akranes,ÍA,AKR,6,ia-akranes,1898
+Iceland,Besta deild karla,IF Vestri,IF Vestri,VES,7,if-vestri,221305
+Iceland,Besta deild karla,KA Akureyri,KA Akureyri,AKU,8,ka-akureyri,1904
+Iceland,Besta deild karla,KR Reykjavík,KR Reykjavík,KRR,9,kr-reykjavik,1902
+Iceland,Besta deild karla,Stjarnan Garðabær,Stjarnan,STJ,10,stjarnan-gardabaer,1912
+Iceland,Besta deild karla,Valur Reykjavík,Valur,VAL,11,valur-reykjavik,1899
+Iceland,Besta deild karla,Víkingur Reykjavík,Víkingur,VIK,12,vikingur-reykjavik,1908
+Northern Ireland,Premiership,Larne FC,Larne FC,LAM,1,larne-fc,5184
+Northern Ireland,Premiership,Linfield FC,Linfield,LIN,2,linfield-fc,5272
+Northern Ireland,Premiership,Cliftonville FC,Cliftonville FC,CLI,3,cliftonville-fc,5181
+Northern Ireland,Premiership,Glentoran FC,Glentoran,GLE,4,glentoran-fc,5179
+Northern Ireland,Premiership,Crusaders FC,Crusaders ,CRU,5,crusaders-fc,5180
+Northern Ireland,Premiership,Coleraine FC,Coleraine FC,COL,6,coleraine-fc,5270
+Northern Ireland,Premiership,Loughgall,Loughgall,LOU,7,loughgall,5276
+Northern Ireland,Premiership,Carrick Rangers,Carrick Rangers,CAR,8,carrick-rangers,36783
+Northern Ireland,Premiership,Glenavon,Glenavon,GLE,9,glenavon,5183
+Northern Ireland,Premiership,Dungannon Swifts,Dungannon Swifts,DUS,10,dungannon-swifts,5271
+Northern Ireland,Premiership,Ballymena United,Ballymena United,BAL,11,ballymena-united,5269
+Northern Ireland,Premiership,Newry City AFC,Newry City,NCA,12,newry-city-afc,131580
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Borac Banja Luka,Borac,BBL,1,fk-borac-banja-luka,5235
+Bosnia & Herzegovina,WWIN Premijer Liga,HŠK Zrinjski Mostar,Zrinjski,ZRI,2,hsk-zrinjski-mostar,5178
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Velež Mostar,FK Velež,VEL,3,fk-velez-mostar,6151
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Sloga Meridian,Sloga,SLD,4,fk-sloga-meridian,37064
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Sarajevo,Sarajevo,FKS,5,fk-sarajevo,5237
+Bosnia & Herzegovina,WWIN Premijer Liga,HŠK Posušje,Posušje,POS,6,hsk-posusje,6147
+Bosnia & Herzegovina,WWIN Premijer Liga,NK Široki Brijeg,Široki Brijeg,SB,7,nk-siroki-brijeg,5239
+Bosnia & Herzegovina,WWIN Premijer Liga,Igman Konjic,Igman,IGK,8,igman-konjic,37250
+Bosnia & Herzegovina,WWIN Premijer Liga,GOŠK Gabela,GOŠK,GGA,9,gosk-gabela,25837
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Tuzla City,Tuzla,TUZ,10,fk-tuzla-city,227012
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Željezničar,Željezničar,ZES,11,fk-zeljeznicar,5240
+Bosnia & Herzegovina,WWIN Premijer Liga,FK Zvijezda 09,Zvijezda 09,Z09,12,fk-zvijezda-09,202066
+Georgia,Erovnuli Liga,Dinamo Batumi,Dinamo Batumi,BAT,1,dinamo-batumi,37297
+Georgia,Erovnuli Liga,FC Dila Gori,FC Dila,GOR,2,fc-dila-gori,33819
+Georgia,Erovnuli Liga,FC Iberia 1999,FC Saburtalo,SAT,3,fc-iberia-1999,116312
+Georgia,Erovnuli Liga,FC Torpedo Kutaisi,Torpedo Kutaisi,TKU,4,fc-torpedo-kutaisi,5419
+Georgia,Erovnuli Liga,FC Kolkheti-1913 Poti,Kolkheti-1913,KPO,5,fc-kolkheti-1913-poti,37302
+Georgia,Erovnuli Liga,Dinamo Tbilisi,Dinamo Tbilisi,TBI,6,dinamo-tbilisi,5171
+Georgia,Erovnuli Liga,FC Telavi,FC Telavi,TEL,7,fc-telavi,254627
+Georgia,Erovnuli Liga,FC Samtredia,Samtredia,SAM,8,fc-samtredia,36866
+Georgia,Erovnuli Liga,FC Gagra,FC Gagra,GAG,9,fc-gagra,36865
+Georgia,Erovnuli Liga,FC Samgurali Tskhaltubo,Samgurali Tskhaltubo,SAM,10,fc-samgurali-tskhaltubo,44217
+Guinea,Ligue 1,Hafia FC,Hafia,HAF,1,hafia-fc,325644
+Guinea,Ligue 1,CI Kamsar,CI Kamsar,KAM,2,ci-kamsar,325652
+Guinea,Ligue 1,Milo FC,Milo,MIL,3,milo-fc,405282
+Guinea,Ligue 1,ASM Sangarédi,Sangarédi,SAN,4,asm-sangaredi,462031
+Guinea,Ligue 1,Wakriya AC,Wakriya AC,WAK,5,wakriya-ac,305255
+Guinea,Ligue 1,Renaissance FC Conakry,Renaissance ,RFC,6,renaissance-fc-conakry,462030
+Guinea,Ligue 1,Ashanti Golden Boys,Ashanti GB,AGB,7,ashanti-golden-boys,405279
+Guinea,Ligue 1,Académie SOAR,SOAR,SOA,8,academie-soar,405280
+Guinea,Ligue 1,AS Kaloum,AS Kaloum,ASK,9,as-kaloum,191185
+Guinea,Ligue 1,Loubha FC,Loubha ,LFC,10,loubha-fc,405276
+Guinea,Ligue 1,Horoya,Horoya,HOR,11,horoya,134322
+Guinea,Ligue 1,Gangan FC,Gangan,GFC,12,gangan-fc,500089
+Guinea,Ligue 1,Flamme Olympique de Guinée,Flamme Olympique,FOG,13,flamme-olympique-de-guinee,405281
+Guinea,Ligue 1,FC Séquence,Séquence ,FCS,14,fc-sequence,405274
+Oman,Omani League,Al Seeb,Al Seeb,ALS,1,al-seeb,71044
+Oman,Omani League,Al-Nahda,Al-Nahda,ALN,2,al-nahda,40648
+Oman,Omani League,Oman Club,Oman,OMA,3,oman-club,57443
+Oman,Omani League,Sohar,Sohar,SOH,4,sohar,99993
+Oman,Omani League,Al-Nasr S.C.S.C.,Al-Nasr,NAS,5,al-nasr-scsc,82259
+Oman,Omani League,Dhofar,Dhofar,DHO,6,dhofar,57455
+Oman,Omani League,Ibri Club,Ibri Club,IBR,7,ibri-club,333327
+Oman,Omani League,Al-Shabab Oman,Al-Shabab,ALS,8,al-shabab-oman,57449
+Oman,Omani League,Al-Rustaq,Al-Rustaq,RUS,9,al-rustaq,185570
+Oman,Omani League,Sur,Sur,SUR,10,sur,57439
+Oman,Omani League,Al-Wehda,Al-Wehda,WED,11,al-wehda,185584
+Oman,Omani League,Bahla,Bahla,BAH,12,bahla,185578
+Israel,Israeli Premier League,Maccabi Tel Aviv,M. Tel-Aviv,MTA,1,maccabi-tel-aviv,5198
+Israel,Israeli Premier League,Maccabi Haifa,M. Haifa,MAH,2,maccabi-haifa,5197
+Israel,Israeli Premier League,Hapoel Be'er Sheva,H. Be'er Sheva,HBS,3,hapoel-beer-sheva,5202
+Israel,Israeli Premier League,Hapoel Haifa,H. Haifa,HAP,4,hapoel-haifa,5201
+Israel,Israeli Premier League,Maccabi Bney Reine,M. Bney Reine,MAC,5,maccabi-bney-reine,274894
+Israel,Israeli Premier League,Bnei Sakhnin,Sakhnin,BNS,6,bnei-sakhnin,5392
+Bahrain,Premier League,Al Riffa,Al Riffa,RIF,1,al-riffa,40659
+Bahrain,Premier League,Al Khalidiyah,Al Khalidiyah,KHA,2,al-khalidiyah,371631
+Bahrain,Premier League,Al-Muharraq,Al-Muharraq,AMS,3,al-muharraq,45474
+Bahrain,Premier League,Al-Ahli Club,Al Ahli,AL-,4,al-ahli-club,45471
+Bahrain,Premier League,Manama Club,Manama,MAN,5,manama-club,45478
+Bahrain,Premier League,Al Hala Muharraq,Al-Hala,HAL,6,al-hala-muharraq,45473
+Bahrain,Premier League,Sitra Club,Sitra Club,SIC,7,sitra-club,117220
+Bahrain,Premier League,Al Najma Manama,Al-Najma,ANM,8,al-najma-manama,45475
+Bahrain,Premier League,Busaiteen,Busaiteen,BUS,9,busaiteen,35890
+Bahrain,Premier League,East Riffa,East Riffa,EAR,10,east-riffa,60430
+Bahrain,Premier League,Al-Shabab Manama,Al-Shabab,ALS,11,al-shabab-manama,45476
+Bahrain,Premier League,Al-Hidd,Al-Hidd,ALH,12,al-hidd,45472
+El Salvador,"Primera División, Apertura",CD Águila,Águila,CDA,1,cd-aguila,24385
+El Salvador,"Primera División, Apertura",CD FAS,FAS,FAS,2,cd-fas,24386
+El Salvador,"Primera División, Apertura",C D Luis Ángel Firpo,L.A. Firpo,LAF,3,c-d-luis-angel-firpo,24388
+El Salvador,"Primera División, Apertura",Fuerte San Francisco,Fuerte San Francisco,SFM,4,fuerte-san-francisco,310030
+El Salvador,"Primera División, Apertura",Alianza FC,Alianza,ALI,5,alianza-fc,24383
+El Salvador,"Primera División, Apertura",Jocoro FC,Jocoro FC,JOC,6,jocoro-fc,292491
+El Salvador,"Primera División, Apertura",CD Dragon,Dragon,DGN,7,cd-dragon,109319
+El Salvador,"Primera División, Apertura",Isidro Metapan,Isidro,ISI,8,isidro-metapan,24382
+El Salvador,"Primera División, Apertura",CD Municipal Limeño,Municipal Limeño,MLI,9,cd-municipal-limeno,228633
+El Salvador,"Primera División, Apertura",CD Once Deportivo,Once Deportivo,ODA,10,cd-once-deportivo,24391
+El Salvador,"Primera División, Apertura",C.D. Platense Zacatecoluca,C.D. Platense,PLA,11,cd-platense-zacatecoluca,306368
+El Salvador,"Primera División, Apertura",Santa Tecla FC,Santa Tecla,STF,12,santa-tecla-fc,74237
+Honduras,"Liga Betcris de Honduras, Apertura",CD Olimpia,Olimpia,OLI,1,cd-olimpia,25358
+Honduras,"Liga Betcris de Honduras, Apertura",CD Marathon,Marathon,CDM,2,cd-marathon,25355
+Honduras,"Liga Betcris de Honduras, Apertura",FC Motagua,Motagua,MOT,3,fc-motagua,22047
+Honduras,"Liga Betcris de Honduras, Apertura",CD Genesis,CD Genesis,GEN,4,cd-genesis,484633
+Honduras,"Liga Betcris de Honduras, Apertura",CD Real Sociedad,Sociedad,SOC,5,cd-real-sociedad,76997
+Honduras,"Liga Betcris de Honduras, Apertura",Olancho FC,Olancho FC,OLA,6,olancho-fc,422195
+Honduras,"Liga Betcris de Honduras, Apertura",Real CD España,Real España,RES,7,real-cd-espana,36404
+Honduras,"Liga Betcris de Honduras, Apertura",CD Vida,Vida,VID,8,cd-vida,42215
+Honduras,"Liga Betcris de Honduras, Apertura",CD Victoria,Victoria,VIC,9,cd-victoria,42214
+Honduras,"Liga Betcris de Honduras, Apertura",Lobos UPNFM,Lobos UPN,UPN,10,lobos-upnfm,261766
+Bulgaria,Parva Liga,Ludogorets,Ludogorets,LUD,1,ludogorets,43840
+Bulgaria,Parva Liga,Cherno More Varna,Cherno More,CMV,2,cherno-more-varna,3280
+Bulgaria,Parva Liga,CSKA Sofia,CSKA Sofia,CSK,3,cska-sofia,3275
+Bulgaria,Parva Liga,Levski Sofia,Levski Sofia,LEV,4,levski-sofia,3273
+Bulgaria,Parva Liga,Lokomotiv Plovdiv,Lokomotiv Plovdiv,LOK,5,lokomotiv-plovdiv,3272
+Bulgaria,Parva Liga,FK Krumovgrad,Krumovgrad,KRU,6,fk-krumovgrad,389096
+Bulgaria,Parva Liga,FC CSKA 1948 Sofia,CSKA 1948 Sofia,CSK,7,fc-cska-1948-sofia,252080
+Bulgaria,Parva Liga,Botev Plovdiv,Botev Plovdiv,BOT,8,botev-plovdiv,5241
+Bulgaria,Parva Liga,Arda Kardzhali,Arda,ARD,9,arda-kardzhali,274971
+Bulgaria,Parva Liga,Beroe Stara Zagora,Beroe,BER,10,beroe-stara-zagora,3281
+Bulgaria,Parva Liga,Slavia Sofia,Slavia,SLA,11,slavia-sofia,3274
+Bulgaria,Parva Liga,FK Hebar Pazardzhik,Hebar Pazardzhik,HEB,12,fk-hebar-pazardzhik,232494
+Bulgaria,Parva Liga,FK Pirin Blagoevgrad,Pirin,PIR,13,fk-pirin-blagoevgrad,5245
+Bulgaria,Parva Liga,Lokomotiv Sofia,Lokomotiv Sofia,LSO,14,lokomotiv-sofia,3277
+Bulgaria,Parva Liga,Botev Vratsa,Botev,BVR,15,botev-vratsa,36938
+Bulgaria,Parva Liga,FK Etar Veliko Tarnovo,Etar,ETA,16,fk-etar-veliko-tarnovo,36941
+Gabon,National Foot 1,Centre Mbéri Sportif,CMS,CMS,1,centre-mberi-sportif,305263
+Gabon,National Foot 1,Centre Sportif de Bendje,Centre Sportif de Bendje,BEN,2,centre-sportif-de-bendje,458976
+Gabon,National Foot 1,AS Mangasport,AS Mangasport,MAN,3,as-mangasport,191190
+Gabon,National Foot 1,AS Stade Mandji,AS Stade Mandji,STA,4,as-stade-mandji,445553
+Gabon,National Foot 1,CF Mounana,Mounana,MOU,5,cf-mounana,246939
+Gabon,National Foot 1,Vautour Club,Vautour Club,VCL,6,vautour-club,458975
+Gabon,National Foot 1,Lambaréné AC,Lambaréné,LAC,7,lambarene-ac,325654
+Gabon,National Foot 1,FC 105 Libreville,105 Libreville,F1L,8,fc-105-libreville,420093
+Gabon,National Foot 1,Union Sportive de Bitam,US Bitam,BIT,9,union-sportive-de-bitam,134308
+Gabon,National Foot 1,AS Dikaki,Dikaki,ADI,10,as-dikaki,420094
+Gabon,National Foot 1,AS Bouenguidi,AS Bouenguidi,ABO,11,as-bouenguidi,371279
+Gabon,National Foot 1,Missile FC,Missile,MFC,12,missile-fc,420091
+Gabon,National Foot 1,Union Sportive d'Oyem,USO,USD,13,union-sportive-doyem,420090
+Gabon,National Foot 1,Lozo Sports,Lozo Sports,LSP,14,lozo-sports,420092
+Bolivia,División Profesional,San Antonio Bulo-Bulo,San Antonio,SAN,1,san-antonio-bulo-bulo,396625
+Bolivia,División Profesional,The Strongest,The Strongest,STR,2,the-strongest,32529
+Bolivia,División Profesional,CD Real Tomayapo,CD Real Tomayapo,REA,3,cd-real-tomayapo,335685
+Bolivia,División Profesional,CD Real Santa Cruz,Real Santa Cruz,RSC,4,cd-real-santa-cruz,327860
+Zambia,Super League,Red Arrows,Red Arrows,REA,1,red-arrows,191734
+Zambia,Super League,ZESCO United,ZESCO Utd,ZES,2,zesco-united,191184
+Zambia,Super League,FC Muza,FC Muza,MUZ,3,fc-muza,308681
+Zambia,Super League,Power Dynamos,Power Dynamos,PDY,4,power-dynamos,191877
+Zambia,Super League,Nkwazi,Nkwazi,NKW,5,nkwazi,191727
+Zambia,Super League,Kabwe Warriors,Kabwe Warriors,KWA,6,kabwe-warriors,215960
+Zambia,Super League,Forest Rangers,Forest Rangers,FRA,7,forest-rangers,191731
+Zambia,Super League,Zanaco,Zanaco,ZAN,8,zanaco,191878
+Zambia,Super League,Green Eagles,Green Eagles,GEA,9,green-eagles,191725
+Zambia,Super League,Green Buffaloes,Green Buffaloes,GBU,10,green-buffaloes,191879
+Zambia,Super League,Mutondo Stars,Mutondo Stars,MUT,11,mutondo-stars,485622
+Zambia,Super League,Mufulira Wanderers,Mufulira Wanderers,MUW,12,mufulira-wanderers,191732
+Zambia,Super League,Nkana FC,Nkana,NKN,13,nkana-fc,134316
+Zambia,Super League,Konkola Blades,Konkola Blades,KBL,14,konkola-blades,191733
+Zambia,Super League,NAPSA Stars,NAPSA Stars,NAS,15,napsa-stars,191728
+Zambia,Super League,Kansanshi Dynamos,Kansanshi Dynamos,KAN,16,kansanshi-dynamos,327856
+Zambia,Super League,Prison Leopards,Prison Leopards,PRI,17,prison-leopards,308679
+Zambia,Super League,Trident FC,Trident FC,TRI,18,trident-fc,485623
+Luxembourg,Division Nationale,Differdange FC 03,Differdange 03,DIF,1,differdange-fc-03,7605
+Luxembourg,Division Nationale,F91 Dudelange,Dudelange,F91,2,f91-dudelange,5207
+Luxembourg,Division Nationale,Swift Hesperange,Hesperange,HES,3,swift-hesperange,5382
+Luxembourg,Division Nationale,Progrès Niederkorn,Progrès,NIE,4,progres-niederkorn,36201
+Luxembourg,Division Nationale,Jeunesse Esch,Jeunesse,ESA,5,jeunesse-esch,5383
+Luxembourg,Division Nationale,Union Titus Petange,Petange,UTP,6,union-titus-petange,5378
+Luxembourg,Division Nationale,Racing FC Union Luxembourg,Racing,UNI,7,racing-fc-union-luxembourg,5261
+Luxembourg,Division Nationale,Una Strassen,Strassen,UNA,8,una-strassen,46353
+Luxembourg,Division Nationale,Victoria Rosport,Victoria Rosport,VIC,9,victoria-rosport,5387
+Luxembourg,Division Nationale,US Mondorf-Les-Bains,Mondorf,MLB,10,us-mondorf-les-bains,38997
+Luxembourg,Division Nationale,Un Kaerjeng 97,Kaerjeng,K97,11,un-kaerjeng-97,5384
+Luxembourg,Division Nationale,Marisca Mersch,Mersch,MME,12,marisca-mersch,38994
+Luxembourg,Division Nationale,FC Wiltz 71,Wiltz,W71,13,fc-wiltz-71,5390
+Luxembourg,Division Nationale,Mondercange,Mondercange,MON,14,mondercange,5385
+Luxembourg,Division Nationale,FC Schifflingen 95,Schifflingen 95,S95,15,fc-schifflingen-95,40591
+Luxembourg,Division Nationale,CS Fola Esch,Fola,FES,16,cs-fola-esch,25929
+China,CFA Super League,Shanghai Shenhua,Shenhua,SHS,1,shanghai-shenhua,3373
+China,CFA Super League,Chengdu Rongcheng,Chengdu,CHR,2,chengdu-rongcheng,221241
+China,CFA Super League,Shanghai Port,Port,SHP,3,shanghai-port,41537
+China,CFA Super League,Beijing Guoan,Beijing,BJG,4,beijing-guoan,3376
+China,CFA Super League,Tianjin Jinmen Tiger,Tianjin,TTT,5,tianjin-jinmen-tiger,3367
+China,CFA Super League,Zhejiang,Zhejiang,ZHP,6,zhejiang,34697
+China,CFA Super League,Cangzhou Mighty Lions,Cangzhou,CML,7,cangzhou-mighty-lions,66440
+China,CFA Super League,Shandong Taishan,Shandong,SHT,8,shandong-taishan,3371
+China,CFA Super League,Qingdao West Coast,Qingdao ,QIN,9,qingdao-west-coast,369532
+China,CFA Super League,Nantong Zhiyun,Nantong,NAN,10,nantong-zhiyun,251278
+China,CFA Super League,Shenzhen City,Shenzhen,SCI,11,shenzhen-city,281331
+China,CFA Super League,Wuhan Three Towns,Three Towns,WUH,12,wuhan-three-towns,295152
+China,CFA Super League,Changchun Yatai,Changchun,CHA,13,changchun-yatai,34694
+China,CFA Super League,Henan Songshan Longmen,Henan,HEN,14,henan-songshan-longmen,34692
+China,CFA Super League,Meizhou Hakka,Meizhou,MEI,15,meizhou-hakka,215186
+China,CFA Super League,Qingdao Hainiu,Hainiu,QIN,16,qingdao-hainiu,34695
+Syria,Premier League,Al-Fotuwa,Al-Fotuwa,ALF,1,al-fotuwa,391974
+Syria,Premier League,Tishreen SC,Tishreen,TISH,2,tishreen-sc,157792
+Syria,Premier League,Jableh SC,Jableh,JAB,3,jableh-sc,233789
+Syria,Premier League,Hutteen SC,Hutteen ,HSC,4,hutteen-sc,189180
+Syria,Premier League,Al-Ittihad Ahli of Aleppo SC,Al-Ittihad,ALE,5,al-ittihad-ahli-of-aleppo-sc,40652
+Syria,Premier League,Al Karamah,Al Karamah,AL-,6,al-karamah,23479
+Syria,Premier League,Al-Wathba SC,Al-Wathba,ALW,7,al-wathba-sc,271915
+Syria,Premier League,Al-Jaish SC,Al-Jaish SC,ALJ,8,al-jaish-sc,40651
+Syria,Premier League,Al Taliya,Al Taliya,TAL,9,al-taliya,186006
+Syria,Premier League,Al Wahda Damascus,Al Wahda,WAH,10,al-wahda-damascus,86846
+Syria,Premier League,Al Sahel SC,Al Sahel,AL-,11,al-sahel-sc,186154
+Syria,Premier League,Al-Horiyah,Al-Horiyah,AL-,12,al-horiyah,274275
+Uganda,Premier League,Kitara FC,Kitara FC,KIT,1,kitara-fc,371630
+Uganda,Premier League,Vipers SC,Vipers,VIP,2,vipers-sc,203350
+Uganda,Premier League,SC Villa,SC Villa,VIL,3,sc-villa,265588
+Uganda,Premier League,BUL FC,BUL FC,BUL,4,bul-fc,265589
+Uganda,Premier League,NEC FC,NEC FC,NEC,5,nec-fc,406106
+Uganda,Premier League,Kampala City,Kampala City,KAM,6,kampala-city,134274
+Uganda,Premier League,Maroons,Maroons,MAR,7,maroons,200961
+Uganda,Premier League,Uganda Revenue Authority,URA,URA,8,uganda-revenue-authority,265582
+Uganda,Premier League,Express FC,Express FC,EXP,9,express-fc,200962
+Uganda,Premier League,Mbarara City,Mbarara,MBA,10,mbarara-city,261798
+Uganda,Premier League,Bright Stars,Bright Stars,BRI,11,bright-stars,213040
+Uganda,Premier League,Wakiso Giants F.C,Wakiso Giants F.C,WAK,12,wakiso-giants-fc,294862
+Uganda,Premier League,Kirinya-Jinja,Kirinya-Jinja,KIR,13,kirinya-jinja,234149
+Uganda,Premier League,Gadafi FC,Gadafi FC,GAD,14,gadafi-fc,378300
+Uganda,Premier League,UPDF,UPDF,UPD,15,updf,203352
+Uganda,Premier League,Arua Hill SC,Arua Hill,ARU,16,arua-hill-sc,315255
+Palestine,Gaza Strip Premier League,Ittihad Shojaeyya,Ittihad Shojaeyya,SHO,1,ittihad-shojaeyya,206531
+Palestine,Gaza Strip Premier League,Khadamat Rafah,Khadamat Rafah,KHA,2,khadamat-rafah,206529
+Palestine,Gaza Strip Premier League,Ittihad Khanyounis,Ittihad Khanyounis,KHA,4,ittihad-khanyounis,206522
+Palestine,Gaza Strip Premier League,Shabab Rafah,Shabab Rafah,SRA,5,shabab-rafah,206521
+Palestine,Gaza Strip Premier League,Khadamat Al Shataa,Khadamat Al Shataa,KAS,6,khadamat-al-shataa,206532
+Palestine,Gaza Strip Premier League,Shabab Jabalia,Shabab Jabalia,JAB,6,shabab-jabalia,206534
+Palestine,Gaza Strip Premier League,Ahli Gaza,Ahli Gaza,GAZ,7,ahli-gaza,232078
+Palestine,Gaza Strip Premier League,Gaza EL Riyadi,Gaza EL Riyadi,GAZ,7,gaza-el-riyadi,343369
+Palestine,Gaza Strip Premier League,Shabab Khanyounis,Shabab Khanyounis,KHA,9,shabab-khanyounis,206528
+Palestine,Gaza Strip Premier League,Hilal Gaza,Hilal Gaza,HIL,10,hilal-gaza,206530
+Palestine,Gaza Strip Premier League,Al Sadaka Club,Al Sadaka Club,SAD,11,al-sadaka-club,206519
+Palestine,Gaza Strip Premier League,Ittihad Beit Hanoun,Ittihad Beit Hanoun,IBH,12,ittihad-beit-hanoun,297182
+Angola,Girabola,Clube Desportivo Lunda Sul,CD Lunda Sul,LUS,1,clube-desportivo-lunda-sul,394492
+Angola,Girabola,Atlético Petroleos de Luanda,Petro de Luanda,LUA,2,atletico-petroleos-de-luanda,148072
+Angola,Girabola,Sagrada Esperança,Sagrada Esperança,SAG,3,sagrada-esperanca,195746
+Angola,Girabola,Kabuscorp SCP,Kabuscorp,KAB,4,kabuscorp-scp,134310
+Angola,Girabola,Primeiro de Agosto,1° de Agosto,PDA,5,primeiro-de-agosto,134318
+Angola,Girabola,Wiliete SC,Wiliete SC,WIL,6,wiliete-sc,326543
+Angola,Girabola,FC Bravos do Maquis,Bravos Maquis,BRM,7,fc-bravos-do-maquis,195753
+Angola,Girabola,Desportivo da Huila,Huila,HUI,8,desportivo-da-huila,195747
+Angola,Girabola,CD Sao Salvador,CD Sao Salvador,SAO,9,cd-sao-salvador,496745
+Angola,Girabola,Academica Petroleos do Lobito,Academica do Lobito,APL,10,academica-petroleos-do-lobito,195748
+Angola,Girabola,Interclube Luanda,Interclube,INT,11,interclube-luanda,76431
+Angola,Girabola,Cr Uniao de Malanje,Cr Uniao de Malanje,UNI,12,cr-uniao-de-malanje,496746
+Angola,Girabola,Santa Rita,Santa Rita,STR,13,santa-rita,245483
+Angola,Girabola,Sporting Cabinda,Sporting Cabinda,CAB,14,sporting-cabinda,195751
+Angola,Girabola,Recreativo do Libolo,Libolo,LIB,15,recreativo-do-libolo,94785
+Armenia,IDBank Premier League,FC Noah,Noah,FCN,1,fc-noah,262228
+Armenia,IDBank Premier League,Pyunik Yerevan,Pyunik,PYU,2,pyunik-yerevan,5214
+Armenia,IDBank Premier League,FC Ararat-Armenia,Ararat-Armenia,ARA,3,fc-ararat-armenia,262229
+Armenia,IDBank Premier League,Urartu,Urartu,URA,4,urartu,5225
+Armenia,IDBank Premier League,FC Alashkert,Alashkert,ALA,5,fc-alashkert,67966
+Armenia,IDBank Premier League,FC Ararat,Ararat,FCA,6,fc-ararat,5377
+Armenia,IDBank Premier League,FC West Armenia,West Armenia,WES,7,fc-west-armenia,325780
+Armenia,IDBank Premier League,FC Van,Van,VAN,8,fc-van,325779
+Armenia,IDBank Premier League,FC Shirak Gyumri,Shirak,FSG,9,fc-shirak-gyumri,33817
+Armenia,IDBank Premier League,BKMA Yerevan,BKMA Yerevan,BKMA,10,bkma-yerevan,325785
+Belarus,Vysshaya Liga,Slavia Mozyr,Slavia Mozyr,SLM,1,slavia-mozyr,3358
+Belarus,Vysshaya Liga,Neman Grodno,Neman Grodno,NEM,2,neman-grodno,3356
+Belarus,Vysshaya Liga,Torpedo-BelAZ Zhodino,Torpedo Zhodino,TOR,3,torpedo-belaz-zhodino,3359
+Belarus,Vysshaya Liga,Dinamo Minsk,Dinamo Minsk,DMI,4,dinamo-minsk,3361
+Belarus,Vysshaya Liga,Dynamo Brest,Dynamo Brest,BRE,5,dynamo-brest,3353
+Belarus,Vysshaya Liga,BATE Borisov,BATE Borisov,BAT,6,bate-borisov,3350
+Belarus,Vysshaya Liga,FK Smorgon,Smorgon,SMO,7,fk-smorgon,7305
+Belarus,Vysshaya Liga,FC Isloch Minsk Region,Isloch,ISL,8,fc-isloch-minsk-region,42965
+Belarus,Vysshaya Liga,FK Arsenal Dzerzhinsk,Arsenal Dzerzhinsk,ARS,9,fk-arsenal-dzerzhinsk,317897
+Belarus,Vysshaya Liga,FK Gomel,Gomel,GOM,10,fk-gomel,3349
+Belarus,Vysshaya Liga,SFK Slutsk,SFK Slutsk,SLU,11,sfk-slutsk,36881
+Belarus,Vysshaya Liga,Naftan Novopolotsk,Naftan Novopolotsk,NAF,12,naftan-novopolotsk,5234
+Belarus,Vysshaya Liga,Vitebsk,Vitebsk,VIT,13,vitebsk,3351
+Belarus,Vysshaya Liga,FC Minsk,Minsk,MIN,14,fc-minsk,7304
+Belarus,Vysshaya Liga,Dnepr Mogilev,Dnepr Mogilev,DNE,15,dnepr-mogilev,5231
+Belarus,Vysshaya Liga,Shakhtyor Soligorsk,Shakhter,SHS,16,shakhtyor-soligorsk,3357
+Trinidad and Tobago,Premier Football League,Police FC,Police FC,POL,1,police-fc,231913
+Trinidad and Tobago,Premier Football League,AC Port Of Spain,AC Port Of Spain,POR,2,ac-port-of-spain,340384
+Trinidad and Tobago,Premier Football League,Defence Force FC,Defence Force FC,DEF,3,defence-force-fc,246035
+Trinidad and Tobago,Premier Football League,Club Sando Moruga,Club Sando Moruga,SAN,4,club-sando-moruga,246027
+Trinidad and Tobago,Premier Football League,La Horquetta Rangers,Rangers,HOR,5,la-horquetta-rangers,245988
+Trinidad and Tobago,Premier Football League,Point Fortin FC,Point Fortin FC,POF,6,point-fortin-fc,289211
+Trinidad and Tobago,Premier Football League,Prisons FC,Prisons FC,PRI,7,prisons-fc,477699
+Trinidad and Tobago,Premier Football League,Morvant Caledonia United,Caledonia,CAL,9,morvant-caledonia-united,73718
+Trinidad and Tobago,Premier Football League,Eagles FC,Eagles FC,EFC,9,eagles-fc,340385
+Trinidad and Tobago,Premier Football League,FC Phoenix 1976,FC Phoenix 1976,PHO,10,fc-phoenix-1976,498823
+Trinidad and Tobago,Premier Football League,Central FC,Central FC,CEN,11,central-fc,201262
+Tajikistan,Vysshaya Liga,FC Khujand,FC Khujand,KHU,1,fc-khujand,403557
+Tajikistan,Vysshaya Liga,Regar-TadAZ,Regar-TadAZ,REG,2,regar-tadaz,86348
+Tajikistan,Vysshaya Liga,Ravshan,Ravshan,RAV,3,ravshan,86064
+Tajikistan,Vysshaya Liga,Khosilot Parkhar,Khosilot,HOS,4,khosilot-parkhar,244991
+Tajikistan,Vysshaya Liga,FC Eskhata,Eskhata,ESK,5,fc-eskhata,277020
+Tajikistan,Vysshaya Liga,FC Istiklol,Istiklol,IST,6,fc-istiklol,189871
+Tajikistan,Vysshaya Liga,CSKA Dushanbe,CSKA Dushanbe,CDU,7,cska-dushanbe,256633
+Tajikistan,Vysshaya Liga,FC Vakhsh Bokhtar,Vakhsh,VAK,8,fc-vakhsh-bokhtar,314166
+Tajikistan,Vysshaya Liga,FC Istaravshan,FC Istaravshan,IST,9,fc-istaravshan,308848
+Tajikistan,Vysshaya Liga,FC Kuktosh,FC Kuktosh,KUK,10,fc-kuktosh,245402
+Tajikistan,Vysshaya Liga,Panjshir,Panjshir,PAN,11,panjshir,264157
+Tajikistan,Vysshaya Liga,FC Barkchi,FC Barkchi,BGI,12,fc-barkchi,248591
+Thailand,Thai League 1,Buriram United,Buriram,BUR,1,buriram-united,34218
+Thailand,Thai League 1,True Bangkok United,Bangkok Utd,BGK,2,true-bangkok-united,85741
+Thailand,Thai League 1,Port FC,Port FC,POR,3,port-fc,40661
+Thailand,Thai League 1,BG Pathum United,Pathum Utd,PAU,4,bg-pathum-united,35607
+Thailand,Thai League 1,Muang Thong United,Muang Thong Utd,MUT,5,muang-thong-united,39946
+Thailand,Thai League 1,Ratchaburi,Ratchaburi,RAT,6,ratchaburi,85743
+Thailand,Thai League 1,Lamphun Warrior,Lamphun Warrior,LAM,7,lamphun-warrior,310778
+Thailand,Thai League 1,Nakhon Pathom United,Nakhon Pathom United,NAP,8,nakhon-pathom-united,255498
+Thailand,Thai League 1,Khon Kaen United,Khon Kaen United,KKU,9,khon-kaen-united,312550
+Thailand,Thai League 1,Chiangrai United,Chiangrai Utd,CHI,10,chiangrai-united,66566
+Thailand,Thai League 1,Sukhothai,Sukhothai,SUK,11,sukhothai,212198
+Thailand,Thai League 1,Chonburi,Chonburi,CHO,12,chonburi,35886
+Thailand,Thai League 1,PT Prachuap FC,PT Prachuap FC,PRA,13,pt-prachuap-fc,252115
+Thailand,Thai League 1,Uthai Thani FC,Uthai Thani,UTH,14,uthai-thani-fc,338810
+Thailand,Thai League 1,Trat FC,Trat FC,TRA,15,trat-fc,256968
+Thailand,Thai League 1,Police Tero,Police Tero,PTE,16,police-tero,66562
+Kosovo,AlbiMall Superliga,KF Llapi,Llapi,LAP,1,kf-llapi,229761
+Kosovo,AlbiMall Superliga,KF Ballkani,Ballkani,BAL,2,kf-ballkani,230417
+Kosovo,AlbiMall Superliga,FC Drita,Drita,DRI,3,fc-drita,229755
+Kosovo,AlbiMall Superliga,FC Malisheva,FC Malisheva,MAL,4,fc-malisheva,325494
+Kosovo,AlbiMall Superliga,FC Prishtina,Prishtina,PRI,5,fc-prishtina,229752
+Kosovo,AlbiMall Superliga,Dukagjini,Dukagjini,DUK,6,dukagjini,230411
+Kosovo,AlbiMall Superliga,KF Feronikeli 74,Feronikeli,FER,7,kf-feronikeli-74,229757
+Kosovo,AlbiMall Superliga,SC Gjilani,Gjilani,GJI,8,sc-gjilani,229758
+Kosovo,AlbiMall Superliga,Fushë Kosova,Fushë Kosova,FUS,9,fushe-kosova,230409
+Kosovo,AlbiMall Superliga,KF Liria,Liria,LIR,10,kf-liria,229760
+Kazakhstan,Premier League,FC Tobol,Tobol,TOB,1,fc-tobol,5362
+Kazakhstan,Premier League,FC Kyzylzhar,Kyzylzhar,QYP,2,fc-kyzylzhar,5367
+Kazakhstan,Premier League,Kairat Almaty,Kairat,ALM,3,kairat-almaty,5172
+Kazakhstan,Premier League,FK Aktobe,Aktobe,AKT,4,fk-aktobe,5355
+Kazakhstan,Premier League,Astana,Astana,FCA,5,astana,36155
+Kazakhstan,Premier League,FC Ordabasy,Ordabasy,ORD,6,fc-ordabasy,5366
+Kazakhstan,Premier League,FC Turan,Turan,TUR,7,fc-turan,316183
+Kazakhstan,Premier League,Elimai FC,Elimai FC,ELI,8,elimai-fc,464803
+Kazakhstan,Premier League,Zhetysu Taldykorgan,Zhetysu,ZHE,9,zhetysu-taldykorgan,5364
+Kazakhstan,Premier League,FK Zhenys,Zhenys,ZNS,10,fk-zhenys,5363
+Kazakhstan,Premier League,Atyrau,Atyrau,ATY,11,atyrau,5356
+Kazakhstan,Premier League,FC Kaysar,Kaysar,KKY,12,fc-kaysar,36142
+Kazakhstan,Premier League,Shakhter Karagandy,Shakhter,SKA,13,shakhter-karagandy,5360
+New Zealand,National League,Miramar Rangers,Miramar Rangers,MIR,1,miramar-rangers,261131
+New Zealand,National League,Western Suburbs FC,Western Suburbs,WES,2,western-suburbs-fc,411578
+New Zealand,National League,Wellington Olympic,Wellington Olympic,WEL,3,wellington-olympic,378944
+New Zealand,National League,Napier City Rovers,Napier City,NAP,4,napier-city-rovers,261130
+New Zealand,National League,FC Petone,FC Petone,PET,5,fc-petone,379307
+New Zealand,National League,Waterside Karori,Waterside Karori,WAT,6,waterside-karori,380147
+New Zealand,National League,Wellington Phoenix Reserve,Wellington Phoenix Reserve,WEP,7,wellington-phoenix-reserve,182819
+New Zealand,National League,Stop Out SC,Stop Out SC,STO,8,stop-out-sc,465463
+New Zealand,National League,North Wellington AFC,North Wellington AFC,NOR,9,north-wellington-afc,378943
+New Zealand,National League,Island Bay United,Island Bay United,ISL,10,island-bay-united,508950
+Namibia,Debmarine Namibia Premiership,Khomas Nampol FC,Khomas Nampol,KNF,1,khomas-nampol-fc,495655
+Namibia,Debmarine Namibia Premiership,African Stars FC,African Stars,AFR,2,african-stars-fc,305249
+Namibia,Debmarine Namibia Premiership,FC Ongos,Ongos,OSC,3,fc-ongos,495654
+Namibia,Debmarine Namibia Premiership,Eeshoke Chula Chula FC,Eeshoke Chula Chula,ECC,4,eeshoke-chula-chula-fc,495658
+Namibia,Debmarine Namibia Premiership,Blue Waters FC,Blue Waters,BWA,5,blue-waters-fc,317868
+Namibia,Debmarine Namibia Premiership,Tigers FC,Tigers,TFC,6,tigers-fc,495652
+Namibia,Debmarine Namibia Premiership,Young Brazilians FC,Young Brazilians,YBR,7,young-brazilians-fc,381803
+Namibia,Debmarine Namibia Premiership,Mighty Gunners FC,Mighty Gunners,MGF,8,mighty-gunners-fc,495656
+Namibia,Debmarine Namibia Premiership,Young African FC,Young African,YAF,9,young-african-fc,495653
+Namibia,Debmarine Namibia Premiership,Okahandja United FC,Okahandja United,OUN,10,okahandja-united-fc,307797
+Namibia,Debmarine Namibia Premiership,UNAM FC,UNAM,UFC,11,unam-fc,495651
+Namibia,Debmarine Namibia Premiership,Julinho Sporting FC,Julinho Sporting,JSP,12,julinho-sporting-fc,317128
+Namibia,Debmarine Namibia Premiership,Okakarara Young Warriors FC,Okakarara Young Warriors,OYW,13,okakarara-young-warriors-fc,495657
+Namibia,Debmarine Namibia Premiership,Civics FC,Civics,CIV,14,civics-fc,314214
+Namibia,Debmarine Namibia Premiership,Life Fighters FC,Life Fighters,LFI,15,life-fighters-fc,317894
+Namibia,Debmarine Namibia Premiership,Orlando Pirates SC,Orlando Pirates,OPI,16,orlando-pirates-sc,307796
+Kenya,Premier League,Gor Mahia FC,Gor Mahia,GOR,1,gor-mahia-fc,134306
+Kenya,Premier League,Tusker,Tusker,TUS,2,tusker,138496
+Kenya,Premier League,Bandari FC,Bandari,BAN,3,bandari-fc,138474
+Kenya,Premier League,Kenya Police,Kenya Police,KEN,4,kenya-police,291904
+Kenya,Premier League,Posta Rangers,Posta Rangers,PRA,5,posta-rangers,213605
+Kenya,Premier League,Nairobi City Stars FC,City Stars,NCS,6,nairobi-city-stars-fc,138486
+Kenya,Premier League,Kakamega Homeboyz,Kakamega Homeboyz,KAH,7,kakamega-homeboyz,213604
+Kenya,Premier League,AFC Leopards SC,Leopards,LDS,8,afc-leopards-sc,76433
+Kenya,Premier League,Kenya Commercial Bank,KCB ,KCB,9,kenya-commercial-bank,138478
+Kenya,Premier League,Bidco United,Bidco United,BID,10,bidco-united,258735
+Kenya,Premier League,Muranga Seal,Muranga Seal,MUR,11,muranga-seal,332427
+Kenya,Premier League,Kariobangi Sharks,Kariobangi Sharks,KAR,12,kariobangi-sharks,246032
+Kenya,Premier League,FC Talanta,FC Talanta,TAL,13,fc-talanta,310815
+Kenya,Premier League,Ulinzi Stars,Ulinzi Stars,ULS,14,ulinzi-stars,138498
+Kenya,Premier League,Sofapaka,Sofapaka,SOF,15,sofapaka,138488
+Kenya,Premier League,Muhoroni Youth FC,Muhoroni,MUH,16,muhoroni-youth-fc,257439
+Kenya,Premier League,Shabana FC,Shabana FC,SHA,17,shabana-fc,332880
+Kenya,Premier League,Nzoia United,Nzoia Utd,NZO,18,nzoia-united,246033
+Guatemala,"Liga Guate Banrural, Apertura",Deportivo Achuapa,Deportivo Achuapa,ACH,1,deportivo-achuapa,298481
+Guatemala,"Liga Guate Banrural, Apertura",CSD Municipal,Municipal,MUN,2,csd-municipal,7025
+Guatemala,"Liga Guate Banrural, Apertura",Antigua GFC,Antigua,ATG,3,antigua-gfc,163296
+Guatemala,"Liga Guate Banrural, Apertura",Comunicaciones FC,Comunicaciones,COM,4,comunicaciones-fc,7024
+Guatemala,"Liga Guate Banrural, Apertura",Deportivo Malacateco,Malacateco,MAL,5,deportivo-malacateco,7730
+Guatemala,"Liga Guate Banrural, Apertura",Deportivo Guastatoya,Dep. Guastatoya,GUA,6,deportivo-guastatoya,163298
+Guatemala,"Liga Guate Banrural, Apertura",CSD Zacapa,Zacapa,ZAC,7,csd-zacapa,463196
+Guatemala,"Liga Guate Banrural, Apertura",CSD Xelajú MC,Xelajú MC,WEL,8,csd-xelaju-mc,7026
+Guatemala,"Liga Guate Banrural, Apertura",Deportivo Mixco,Deportivo Mixco,DEP,9,deportivo-mixco,296034
+Guatemala,"Liga Guate Banrural, Apertura",Cobán Imperial,Cobán Imperial,COI,10,coban-imperial,203021
+Guatemala,"Liga Guate Banrural, Apertura",Xinabajul Huehue,Xinabajul,HUE,11,xinabajul-huehue,23961
+Guatemala,"Liga Guate Banrural, Apertura",Coatepeque FC,Coatepeque FC,DEC,12,coatepeque-fc,23427
+Madagascar,Pure Play Football League,Fosa Juniors,Fosa Juniors,FJU,1,fosa-juniors,277170
+Madagascar,Pure Play Football League,A.S.A. Diana,A.S.A. Diana,CAS,2,asa-diana,467611
+Madagascar,Pure Play Football League,AS Fanalamanga,AS Fanalamanga,AFA,3,as-fanalamanga,403536
+Madagascar,Pure Play Football League,Tsaramandroso Formation FC,TTFC,TTF,4,tsaramandroso-formation-fc,467610
+Madagascar,Pure Play Football League,Union Sportive Commune Antananarivo Football,USCA Foot,USC,5,union-sportive-commune-antananarivo-football,374756
+Madagascar,Pure Play Football League,Cosfa,Cosfa,COS,6,cosfa,375816
+Madagascar,Pure Play Football League,Kakao Football Club Ambanja,Kakao Football Club Ambanja,KFC,7,kakao-football-club-ambanja,506599
+Madagascar,Pure Play Football League,Ajesaia,Ajesaia,AJE,8,ajesaia,377238
+Mozambique,Moçambola,Ferroviário da Beira,Beira,FER,1,ferroviario-da-beira,246841
+Mozambique,Moçambola,Clube De Desportos De Costa Do Sol,Costa Do Sol,COS,2,clube-de-desportos-de-costa-do-sol,326575
+Mozambique,Moçambola,Ferroviario de Nampula,Nampula,FDN,3,ferroviario-de-nampula,310946
+Mozambique,Moçambola,União Desportiva do Songo,União Desportiva,SON,4,uniao-desportiva-do-songo,278161
+Mozambique,Moçambola,Associação Black Bulls,Black Bulls,BLA,5,associacao-black-bulls,375117
+Mozambique,Moçambola,Baia De Pemba FC,Baia De Pemba FC,BDP,6,baia-de-pemba-fc,331737
+Mozambique,Moçambola,Ferroviário de Lichinga,Lichinga,FDL,7,ferroviario-de-lichinga,375116
+Mozambique,Moçambola,Ferroviario de Maputo,Ferroviario Maputo,FMA,8,ferroviario-de-maputo,215596
+Mozambique,Moçambola,Vilankulo FC,Vilankulo,VIL,9,vilankulo-fc,330379
+Mozambique,Moçambola,Ferroviario de Nacala,Nacala,FDN,10,ferroviario-de-nacala,322832
+Mozambique,Moçambola,Ferroviário de Quelimane,Ferroviário de Quelimane,FDQ,11,ferroviario-de-quelimane,469275
+Mozambique,Moçambola,Matchedje de Maputo,CD Matchedje de Maputo,CMD,12,matchedje-de-maputo,470427
+Congo Republic,Premier League,AC Léopards de Dolisie,Léopards,LEO,1,ac-leopards-de-dolisie,90928
+Congo Republic,Premier League,AS Otohô,Otohô,OTO,2,as-otoho,275889
+Congo Republic,Premier League,Inter Club de Brazzaville,Inter Club de Brazzaville,INT,3,inter-club-de-brazzaville,275892
+Congo Republic,Premier League,Cara Brazzaville,Cara Brazzaville,BRA,4,cara-brazzaville,275891
+Congo Republic,Premier League,JS Talangai,JS Talangai,TAL,5,js-talangai,275885
+Congo Republic,Premier League,Diables Noirs,Diables Noirs,DNO,6,diables-noirs,134292
+Congo Republic,Premier League,Étoile du Congo,Étoile du Congo,EDC,7,etoile-du-congo,215598
+Congo Republic,Premier League,AS Cheminots,Cheminots,CHE,8,as-cheminots,275888
+Congo Republic,Premier League,V. Club Mokanda,V. Club Mokanda,CLU,9,v-club-mokanda,275893
+Congo Republic,Premier League,AS Bana Nouvelle Génération,AS BNG,BNG,10,as-bana-nouvelle-generation,403406
+Congo Republic,Premier League,AS Kondzo,AS Kondzo,KON,11,as-kondzo,275887
+Congo Republic,Premier League,AS Vegas,AS Vegas,VEG,12,as-vegas,497692
+Congo Republic,Premier League,AS Jeunesse Unie de Kintélé,AS JUK,JUK,13,as-jeunesse-unie-de-kintele,453219
+Congo Republic,Premier League,FC Nathalys De Pointe-Noire,FC Nathalys De Pointe-Noire,NAT,14,fc-nathalys-de-pointe-noire,374884
+Azerbaijan,Misli Premier League,Qarabağ,Qarabağ,QAR,1,qarabag,5962
+Azerbaijan,Misli Premier League,Neftçi Baku PFK,Neftçi,NEB,2,neftci-baku-pfk,5215
+Azerbaijan,Misli Premier League,Zirə FK,Zirə,ZIR,3,zire-fk,173406
+Azerbaijan,Misli Premier League,Sumqayıt FK,Sumqayıt,SUM,4,sumqayit-fk,44497
+Azerbaijan,Misli Premier League,Sabah FK,Sabah FK,SBH,5,sabah-fk,267828
+Azerbaijan,Misli Premier League,Səbail FK,Səbail,SAB,6,sebail-fk,231384
+Azerbaijan,Misli Premier League,Turan Tovuz,Turan Tovuz,TTO,7,turan-tovuz,36951
+Azerbaijan,Misli Premier League,Araz Naxçıvan PFK,Araz,PFK,8,araz-naxcivan-pfk,119066
+Azerbaijan,Misli Premier League,Kəpəz PFK,Kəpəz,KAP,9,kepez-pfk,37750
+Azerbaijan,Misli Premier League,Qəbələ FK,Qəbələ,GAB,10,qebele-fk,36952
+Libya,Premier League,Al Nasr SC Benghazi,Al Nasr,NAS,1,al-nasr-sc-benghazi,305246
+Libya,Premier League,Al Ahly Benghazi,Al-Ahly Benghazi,AAB,2,al-ahly-benghazi,134270
+Libya,Premier League,Al Hilal Benghazi SC,Al Hilal (B),AL-,3,al-hilal-benghazi-sc,375029
+Libya,Premier League,Al Akhdar SC,Al Akhdar,AKH,4,al-akhdar-sc,375031
+Libya,Premier League,Al Taawon Ajdabiya SC,Al Taawon,ATA,5,al-taawon-ajdabiya-sc,375027
+Libya,Premier League,Al Tahaddy Benghazi SC,Al Tahaddy (B),ATB,6,al-tahaddy-benghazi-sc,375026
+Libya,Premier League,Al Sadaqa Shahat SC,Al Sadaqa,ASS,7,al-sadaqa-shahat-sc,375028
+Libya,Premier League,Al Murooj,Al Murooj,AMU,8,al-murooj,404515
+Libya,Premier League,Al Soqour Tobruk,Al Soqour,AST,9,al-soqour-tobruk,404524
+Libya,Premier League,Al Anwar Al Abyar SC,Al Anwar,AAA,10,al-anwar-al-abyar-sc,375030
+Vietnam,V-League 1,Nam Định,Nam Định,DIN,1,nam-djinh,33127
+Vietnam,V-League 1,Công An Hà Nội,Công An Hà Nội,HAN,2,cong-an-ha-noi,193616
+Vietnam,V-League 1,Becamex Bình Dương,Becamex Bình Dương,BBD,3,becamex-binh-duong,33119
+Vietnam,V-League 1,MerryLand Quy Nhơn Bình Định FC,Bình Định,BIN,4,merryland-quy-nhon-binh-dinh-fc,40025
+Vietnam,V-League 1,Đông Á Thanh Hóa,Thanh Hóa,DTH,5,dong-a-thanh-hoa,33030
+Vietnam,V-League 1,Hà Nội,Hà Nội,HAN,6,ha-noi,33130
+Vietnam,V-League 1,Hồng Lĩnh Hà Tĩnh,Hà Tĩnh,HON,7,hong-linh-ha-tinh,309496
+Vietnam,V-League 1,Hồ Chí Minh City,Hồ Chí Minh,HCM,8,ho-chi-minh-city,33120
+Vietnam,V-League 1,Hải Phòng,Hải Phòng,HAP,9,hai-phong,33124
+Vietnam,V-League 1,Thể Công - Viettel,Viettel,VIE,10,the-cong-viettel,231270
+Vietnam,V-League 1,Quảng Nam,Quảng Nam,QUA,11,quang-nam,40018
+Vietnam,V-League 1,LPBank Hoàng Anh Gia Lai,Gia Lai,LAI,12,lpbank-hoang-anh-gia-lai,33125
+Vietnam,V-League 1,Sông Lam Nghệ An,SLNA,NAN,13,song-lam-nghe-an,33129
+Vietnam,V-League 1,Khánh Hoà,Khánh Hoà,HOA,14,khanh-hoa,33126
+Comoros,Comoros Premier League,US Zilimadjou,US Zilimadjou,UZI,1,us-zilimadjou,371276
+Comoros,Comoros Premier League,Volcan Club,Volcan Club,VCL,2,volcan-club,402715
+Comoros,Comoros Premier League,Etoile des Comores Nioumadzaha,Etoile des Comores ,EDC,3,etoile-des-comores-nioumadzaha,378286
+Comoros,Comoros Premier League,Alizé Fort,Alizé Fort,AFO,4,alize-fort,506356
+Comoros,Comoros Premier League,Djabal FC,Djabal,DJA,5,djabal-fc,403976
+Comoros,Comoros Premier League,FC Malé,Malé,FMA,6,fc-male,378284
+Comoros,Comoros Premier League,FC Hantsindzi,Hantsindzi,FHA,7,fc-hantsindzi,378285
+Comoros,Comoros Premier League,Twamaya FC Nvouni,Twamaya,TFN,8,twamaya-fc-nvouni,378280
+Comoros,Comoros Premier League,Mlaouni FC,Mlaouni,MFC,9,mlaouni-fc,506354
+Comoros,Comoros Premier League,Atomic Ngomé,Atomic Ngomé,ANG,10,atomic-ngome,506355
+Comoros,Comoros Premier League,Hahaya FC,Hahaya,HFC,11,hahaya-fc,506353
+Comoros,Comoros Premier League,Mtsamdou 77,Mtsamdou 77,M77,12,mtsamdou-77,506352
+Tanzania,Premier League,Young Africans Sport Club,Young Africans,YOU,1,young-africans-sport-club,134320
+Tanzania,Premier League,Azam FC,Azam FC,AZA,2,azam-fc,212411
+Tanzania,Premier League,Simba SC,Simba,SIM,3,simba-sc,212409
+Tanzania,Premier League,Coastal Union,Coastal Union,COA,4,coastal-union,212413
+Tanzania,Premier League,Tanzania Prisons,Tanzania Prisons,TAP,5,tanzania-prisons,212406
+Tanzania,Premier League,KMC FC,KMC,KMC,6,kmc-fc,296103
+Tanzania,Premier League,Singida BS FC,Singida BS FC,SIN,7,singida-bs-fc,426058
+Tanzania,Premier League,Kagera Sugar FC,Kagera Sugar,KAS,8,kagera-sugar-fc,212404
+Tanzania,Premier League,Namungo FC,Namungo FC,NAM,9,namungo-fc,327299
+Tanzania,Premier League,Dodoma Jiji Fc,Dodoma Jiji Fc,DOD,10,dodoma-jiji-fc,360785
+Tanzania,Premier League,Ihefu FC,Ihefu FC,IHE,11,ihefu-fc,353799
+Tanzania,Premier League,Mashujaa FC,Mashujaa FC,MAS,12,mashujaa-fc,376323
+Tanzania,Premier League,Tabora United,Tabora,KIT,13,tabora-united,380759
+Tanzania,Premier League,Geita Gold FC,Geita Gold,GEI,14,geita-gold-fc,318548
+Tanzania,Premier League,JKT Tanzania,JKT Tanzania,JKT,15,jkt-tanzania,296055
+Tanzania,Premier League,Mtibwa Sugar,Mtibwa Sugar,MTI,16,mtibwa-sugar,212407
+Lebanon,Premier League ,Al-Ahed,Al-Ahed,ALA,1,al-ahed,40657
+Lebanon,Premier League ,Nejmeh SC,Nejmeh,NEJ,2,nejmeh-sc,40658
+Lebanon,Premier League ,Al-Bourj FC,Al-Bourj FC,BOU,3,al-bourj-fc,329622
+Lebanon,Premier League ,Al-Ansar FC,Al-Ansar,ALA,4,al-ansar-fc,47481
+Lebanon,Premier League ,Al-Safa Beirut,Al-Safa,SAF,5,al-safa-beirut,35893
+Lebanon,Premier League ,Shabab Al Sahel,Al Sahel,SAS,6,shabab-al-sahel,187257
+Lebanon,Premier League ,Tripoli AC,Tripoli,TRI,7,tripoli-ac,187262
+Lebanon,Premier League ,Racing Beirut,Racing Beirut,RBE,8,racing-beirut,187266
+Lebanon,Premier League ,Al Ahli Nabatiya,Al Ahli Nabatiya,NAB,9,al-ahli-nabatiya,213398
+Lebanon,Premier League ,Sagesse,Sagesse,HIK,10,sagesse,208550
+Lebanon,Premier League ,Al-Tadamon Sour,Al-Tadamon Sour,ATS,11,al-tadamon-sour,187263
+Lebanon,Premier League ,Shabab Al Ghazieh,Shabab Al Ghazieh,SHA,12,shabab-al-ghazieh,187265
+India,Indian Super League,Mumbai City FC,Mumbai City,MUM,1,mumbai-city-fc,174600
+India,Indian Super League,Odisha FC,Odisha,ODI,2,odisha-fc,174592
+India,Indian Super League,Mohun Bagan Super Giant,Mohun Bagan,MOH,3,mohun-bagan-super-giant,370834
+India,Indian Super League,FC Goa,Goa,GOA,4,fc-goa,174594
+India,Indian Super League,Kerala Blasters,Kerala,KER,5,kerala-blasters,174598
+India,Indian Super League,Chennaiyin FC,Chennaiyin,CHE,6,chennaiyin-fc,174590
+India,Indian Super League,Bengaluru FC,Bengaluru,BGL,7,bengaluru-fc,118670
+India,Indian Super League,East Bengal FC,East Bengal,EBE,8,east-bengal-fc,40655
+India,Indian Super League,Jamshedpur FC,Jamshedpur,JAM,9,jamshedpur-fc,267915
+India,Indian Super League,Punjab FC,Punjab,PUN,10,punjab-fc,230661
+India,Indian Super League,NorthEast United,NorthEast Utd,NOR,11,northeast-united,174602
+India,Indian Super League,Hyderabad FC,Hyderabad,HYD,12,hyderabad-fc,331840
+Zimbabwe,Premier Soccer League,Highlanders FC,Highlanders FC,HIG,1,highlanders-fc,281233
+Zimbabwe,Premier Soccer League,FC Platinum,FC Platinum,PLA,2,fc-platinum,277304
+Zimbabwe,Premier Soccer League,Bulawayo Chiefs FC,Bulawayo Chiefs FC,BUL,3,bulawayo-chiefs-fc,281230
+Zimbabwe,Premier Soccer League,Simba Bhora FC,Simba Bhora FC,SIM,4,simba-bhora-fc,465301
+Zimbabwe,Premier Soccer League,CAPS United,CAPS United,CAP,5,caps-united,246937
+Zimbabwe,Premier Soccer League,Chicken Inn,Chicken Inn,CHI,6,chicken-inn,281231
+Zimbabwe,Premier Soccer League,ZPC Kariba,ZPC Kariba,ZPC,7,zpc-kariba,281227
+Zimbabwe,Premier Soccer League,Telone FC,Telone,TEL,8,telone-fc,313073
+Zimbabwe,Premier Soccer League,Dynamos Harare FC,Dynamos Harare FC,DYN,9,dynamos-harare-fc,281232
+Zimbabwe,Premier Soccer League,Greenfuel FC,Greenfuel FC,GRE,10,greenfuel-fc,465302
+Zimbabwe,Premier Soccer League,Ngezi Platinum,Ngezi Platinum,NGE,11,ngezi-platinum,281225
+Zimbabwe,Premier Soccer League,Zifa Ersl Champions,Zifa Ersl Champions,ZIF,12,zifa-ersl-champions,509544
+Zimbabwe,Premier Soccer League,Chegutu Pirates FC,Chegutu Pirates FC,CHE,13,chegutu-pirates-fc,507958
+Zimbabwe,Premier Soccer League,Hwange Colliery,Hwange Colliery,HWA,14,hwange-colliery,313070
+Zimbabwe,Premier Soccer League,Arenel Movers FC,Arenel Movers FC,ARE,15,arenel-movers-fc,507959
+Zimbabwe,Premier Soccer League,Yadah FC,Yadah FC,YAD,16,yadah-fc,257812
+Zimbabwe,Premier Soccer League,Herentals FC,Herentals FC,HER,17,herentals-fc,281226
+Zimbabwe,Premier Soccer League,Manica Diamonds,Manica Diamonds,MAN,18,manica-diamonds,313071
+Estonia,Premium Liiga,FCI Levadia Tallinn,Levadia,LEV,1,fci-levadia-tallinn,3342
+Estonia,Premium Liiga,Nõmme Kalju,Kalju,KAL,2,nomme-kalju,8091
+Estonia,Premium Liiga,Paide Linnameeskond,Paide,PAI,3,paide-linnameeskond,32476
+Estonia,Premium Liiga,Tartu JK Tammeka,Tammeka,TAR,4,tartu-jk-tammeka,138566
+Estonia,Premium Liiga,Flora Tallinn,Flora,FLO,5,flora-tallinn,3346
+Estonia,Premium Liiga,FC Nõmme United,Nõmme United,NOM,6,fc-nomme-united,37572
+Estonia,Premium Liiga,Pärnu JK Vaprus,Pärnu,VAP,7,parnu-jk-vaprus,247090
+Estonia,Premium Liiga,Narva Trans,Trans,NAR,8,narva-trans,3343
+Estonia,Premium Liiga,FC Kuressaare,Kuressaare,KUR,9,fc-kuressaare,7106
+Estonia,Premium Liiga,Tallinna Kalev,T. Kalev,KAL,10,tallinna-kalev,7105
+Cyprus,1. Division,APOEL Nicosia,APOEL,APO,1,apoel-nicosia,3398
+Cyprus,1. Division,AEK Larnaca,AEK,AEK,2,aek-larnaca,3404
+Cyprus,1. Division,Aris Limassol,Aris,ALI,3,aris-limassol,3397
+Cyprus,1. Division,Omonia Nicosia,Omonia,OMO,4,omonia-nicosia,3395
+Cyprus,1. Division,Pafos FC,Pafos,PAF,5,pafos-fc,171626
+Cyprus,1. Division,Anorthosis Famagusta,Anorthosis,ANO,6,anorthosis-famagusta,3403
+Sierra Leone,Premier League,Bo Rangers FC,Bo Rangers ,RAN,1,bo-rangers-fc,381900
+Sierra Leone,Premier League,Bhantal FC,Bhantal,BFC,2,bhantal-fc,496455
+Sierra Leone,Premier League,FC Kallon,Kallon,KAL,3,fc-kallon,381903
+Sierra Leone,Premier League,East End Lions FC,East End Lions,EEL,4,east-end-lions-fc,381902
+Sierra Leone,Premier League,Luawa FC,Luawa,LFC,5,luawa-fc,459257
+Sierra Leone,Premier League,Freetown City FC,Freetown City ,FCF,6,freetown-city-fc,381898
+Sierra Leone,Premier League,Lamboi FC,Lamboi,LFC,7,lamboi-fc,459258
+Sierra Leone,Premier League,Old Edwardians FC,Old Edwardians,OEF,8,old-edwardians-fc,381891
+Sierra Leone,Premier League,Wusum Stars FC,Wusum,WSF,9,wusum-stars-fc,381893
+Sierra Leone,Premier League,SLIFA Mount Aureol FC,SLIFA Mount Aureol,SMA,10,slifa-mount-aureol-fc,496450
+Sierra Leone,Premier League,Ports Authority FC,Ports Authority,PAF,11,ports-authority-fc,381887
+Sierra Leone,Premier League,Wilberforce Strikers FC,Wilberforce Strikers,WSF,12,wilberforce-strikers-fc,496451
+Sierra Leone,Premier League,Diamond Stars,Diamond Stars,DST,13,diamond-stars,134334
+Sierra Leone,Premier League,Real Republicans,Real Republicans,RRE,14,real-republicans,459259
+Sierra Leone,Premier League,Kahunla Rangers FC,Kahunla Rangers,KRF,15,kahunla-rangers-fc,496453
+Sierra Leone,Premier League,Bai Bureh Warriors FC,Bai Bureh Warriors,BBW,16,bai-bureh-warriors-fc,381897
+Sierra Leone,Premier League,Mighty Blackpool FC,Mighty Blackpool ,MBF,17,mighty-blackpool-fc,381889
+Sierra Leone,Premier League,Kholifa Stars FC,Kholifa Stars,KSF,18,kholifa-stars-fc,496452
+Gambia,GFF First Division,Real De Banjul,Real De Banjul,RDB,1,real-de-banjul,191565
+Gambia,GFF First Division,Fortune FC,Fortune,FOR,2,fortune-fc,310077
+Gambia,GFF First Division,Team Rhino FC,Team Rhino,TRH,3,team-rhino-fc,339869
+Gambia,GFF First Division,Falcons FC,Falcons,FAL,4,falcons-fc,336980
+Gambia,GFF First Division,Greater Tomorrow FC,Greater Tomorrow,GTF,5,greater-tomorrow-fc,398824
+Gambia,GFF First Division,Marimoo Pakfood FC,Marimoo Pakfood ,MAR,6,marimoo-pakfood-fc,274023
+Gambia,GFF First Division,Steve Biko FC,Steve Biko,SBI,7,steve-biko-fc,134302
+Gambia,GFF First Division,Gambia Armed Forces,Gambia Armed Forces,GAF,8,gambia-armed-forces,270288
+Gambia,GFF First Division,TMT FA,TMT FA,TFA,9,tmt-fa,462175
+Gambia,GFF First Division,Banjul United FC,Banjul United,BUN,10,banjul-united-fc,281680
+Gambia,GFF First Division,BST Galaxy,BST Galaxy,BGA,11,bst-galaxy,460902
+Gambia,GFF First Division,Bombada FC,Bombada,BOM,12,bombada-fc,273893
+Gambia,GFF First Division,Brikama United FC,Brikama United,BUN,13,brikama-united-fc,312641
+Gambia,GFF First Division,Samger FC,Samger FC,SAM,14,samger-fc,313210
+Gambia,GFF First Division,Wallidan FC,Wallidan,WAL,15,wallidan-fc,317907
+Gambia,GFF First Division,WAA Banjul,WAA Banjul,BAN,16,waa-banjul,315812
+Rwanda,National League,APR FC,APR FC,APR,1,apr-fc,191189
+Rwanda,National League,Rayon Sports FC,Rayon Sports,RAY,2,rayon-sports-fc,134272
+Rwanda,National League,Musanze,Musanze,MUS,3,musanze,268139
+Rwanda,National League,Mukura,Mukura,MUK,4,mukura,268138
+Rwanda,National League,Rwanda Police FC,Rwanda Police,PRW,5,rwanda-police-fc,199921
+Rwanda,National League,Kiyovu Sports,Kiyovu Sports,KIY,6,kiyovu-sports,268140
+Rwanda,National League,AS Kigali,AS Kigali,KIG,7,as-kigali,267073
+Rwanda,National League,Amagaju,Amagaju,AMA,8,amagaju,268136
+Rwanda,National League,Rwamagana City FC,Rwamagana City FC,MUH,9,rwamagana-city-fc,318564
+Rwanda,National League,Gasogi United,Gasogi United,GAS,10,gasogi-united,318729
+Rwanda,National League,Marine FC,Marine,MGI,11,marine-fc,223070
+Rwanda,National League,Etincelles,Etincelles,ETI,12,etincelles,253570
+Rwanda,National League,Gorilla FC,Gorilla FC,GOR,13,gorilla-fc,340351
+Rwanda,National League,Bugesera FC,Bugesera FC,BUG,14,bugesera-fc,268142
+Rwanda,National League,Sunrise FC,Sunrise FC,SUN,15,sunrise-fc,268141
+Rwanda,National League,Étoile de l'Est,Étoile de l'Est,ETO,16,etoile-de-lest,318761
+Solomon Islands,Telekom S-League,Solomon Warriors FC,Solomon Warriors,SOW,1,solomon-warriors-fc,86738
+Solomon Islands,Telekom S-League,Central Coast,Central Coast,CEN,2,central-coast,371202
+Solomon Islands,Telekom S-League,Waneagu United FC,Waneagu United,WUF,3,waneagu-united-fc,383571
+Solomon Islands,Telekom S-League,FC Honiara City,Honiara City,FHC,4,fc-honiara-city,371200
+Solomon Islands,Telekom S-League,KOSSA FC Honiara,KOSSA,KFH,5,kossa-fc-honiara,371195
+Solomon Islands,Telekom S-League,Marist FC,Marist,MFC,6,marist-fc,246594
+Solomon Islands,Telekom S-League,Laugu United Honiara,Laugu United,LUH,7,laugu-united-honiara,371201
+Solomon Islands,Telekom S-League,SOSA FC,SOSA,SFC,8,sosa-fc,470827
+Solomon Islands,Telekom S-League,FC Southern United Honiara,Southern United,FSU,9,fc-southern-united-honiara,371199
+Solomon Islands,Telekom S-League,Henderson Eels FC,Henderson Eels,HEF,10,henderson-eels-fc,309618
+Solomon Islands,Telekom S-League,Juniper FC,Juniper,JFC,11,juniper-fc,470826
+Solomon Islands,Telekom S-League,FC Real Kakamora,Real Kakamora,FRK,12,fc-real-kakamora,371197
+Faroe Islands,Premier League,B36 Tórshavn,B36 Tórshavn,B36,1,b36-torshavn,5185
+Faroe Islands,Premier League,Víkingur Gøta,Víkingur,VIK,2,vikingur-gota,5193
+Faroe Islands,Premier League,Klaksvíkar Ítróttarfelag,Klaksvík,KI,3,klaksvikar-itrottarfelag,5194
+Faroe Islands,Premier League,Havnar Bóltfelag,HB Tórshavn,HB,4,havnar-boltfelag,5187
+Faroe Islands,Premier League,07 Vestur Sørvágur,07 Vestur,VES,5,07-vestur-sorvagur,36144
+Faroe Islands,Premier League,NSÍ Runavík,NSÍ Runavík,NSI,6,nsi-runavik,5189
+Faroe Islands,Premier League,Skála ÍF,Skála ÍF,SIF,7,skala-if,5190
+Faroe Islands,Premier League,EB/Streymur,Streymur,EBS,8,ebstreymur,5260
+Faroe Islands,Premier League,B68 Toftir,B68 Toftir,B68,9,b68-toftir,5186
+Faroe Islands,Premier League,Ítróttarfelag Fuglafjarðar,ÍF Fuglafjarðar,IF,10,itrottarfelag-fuglafjardar,5188
+Indonesia,Liga 1,Borneo FC Samarinda,Borneo,SAM,1,borneo-fc-samarinda,189945
+Indonesia,Liga 1,Persib Bandung,Persib,PBA,2,persib-bandung,64289
+Indonesia,Liga 1,Bali United FC,Bali Utd,BAU,3,bali-united-fc,64299
+Indonesia,Liga 1,Madura United,Madura Utd,MAU,4,madura-united,86578
+Indonesia,Liga 1,PSIS Semarang,PSIS Semarang,SEM,5,psis-semarang,189471
+Indonesia,Liga 1,Persik Kediri,Persik Kediri,PKE,6,persik-kediri,135866
+Indonesia,Liga 1,Dewa United FC,Dewa United,DEW,7,dewa-united-fc,383891
+Indonesia,Liga 1,Persis Solo,Persis,PSO,8,persis-solo,200020
+Indonesia,Liga 1,Barito Putera,Barito Putera,BAR,9,barito-putera,86542
+Indonesia,Liga 1,Persebaya Surabaya,Persebaya,PER,10,persebaya-surabaya,76319
+Indonesia,Liga 1,Persija Jakarta,Persija,PEJ,11,persija-jakarta,64295
+Indonesia,Liga 1,PSM Makassar,PSM,MAK,12,psm-makassar,135864
+Indonesia,Liga 1,RANS Nusantara,RANS Nusantara,RAN,13,rans-nusantara,230976
+Indonesia,Liga 1,PSS Sleman,PSS Sleman,SLE,14,pss-sleman,204733
+Indonesia,Liga 1,Arema FC,Arema,ARE,15,arema-fc,47465
+Indonesia,Liga 1,Persita Tangerang,Persita,PER,16,persita-tangerang,86576
+Indonesia,Liga 1,Bhayangkara Presisi Indonesia FC,Bhayangkara FC,BHA,17,bhayangkara-presisi-indonesia-fc,220867
+Indonesia,Liga 1,Persikabo 1973,Persikabo 1973,PER,18,persikabo-1973,220868
+Nicaragua,Liga Primera,Diriangén FC,Diriangén FC,DIR,1,diriangen-fc,248234
+Nicaragua,Liga Primera,Real Estelí,Real Estelí,REA,2,real-esteli,25353
+Nicaragua,Liga Primera,Managua FC,Managua FC,MAN,3,managua-fc,232871
+Nicaragua,Liga Primera,HYH Export Sebaco FC,HYH Export Sebaco FC,HYH,4,hyh-export-sebaco-fc,373012
+Nicaragua,Liga Primera,Deportivo Ocotal,Deportivo Ocotal,OCO,5,deportivo-ocotal,264951
+Nicaragua,Liga Primera,Deportivo Walter Ferretti,Walter Ferretti,WAF,6,deportivo-walter-ferretti,201261
+Nicaragua,Liga Primera,ART Municipal Jalapa,Municipal Jalapa,MUN,7,art-municipal-jalapa,296018
+Nicaragua,Liga Primera,UNAN Managua,UNAN Managua,MAG,8,unan-managua,251761
+Nicaragua,Liga Primera,Deportivo Matagalpa FC,Deportivo Matagalpa FC,IMA,9,deportivo-matagalpa-fc,376282
+Nicaragua,Liga Primera,Masachapa FC,Masachapa FC,MAS,10,masachapa-fc,372581
+Latvia,Virsliga,BFC Daugava Daugavpils,BFC Daugavpils,BFC,1,bfc-daugava-daugavpils,41498
+Latvia,Virsliga,RFS,RFS,RFS,2,rfs,68718
+Latvia,Virsliga,Riga FC,Riga,RFC,3,riga-fc,162368
+Latvia,Virsliga,FK Tukums 2000,Tukums 2000,TUK,4,fk-tukums-2000,36080
+Latvia,Virsliga,Valmiera FC,Valmiera,VAL,5,valmiera-fc,5353
+Latvia,Virsliga,FK Metta,METTA,MEL,6,fk-metta,36082
+Latvia,Virsliga,FK Auda,Auda,AUD,7,fk-auda,5346
+Latvia,Virsliga,Grobiņas SC,Grobiņas,GRB,8,grobinas-sc,52220
+Latvia,Virsliga,FS Jelgava,Jelgava,JEL,9,fs-jelgava,36081
+Latvia,Virsliga,FK Liepaja,Liepāja,LIE,10,fk-liepaja,146336
+Lithuania,A Lyga,Džiugas Telšiai,Džiugas,DZI,1,dziugas-telsiai,168446
+Lithuania,A Lyga,FC Hegelmann,Hegelmann,HEG,2,fc-hegelmann,171484
+Lithuania,A Lyga,FK Žalgiris,Žalgiris,ZAL,3,fk-zalgiris,5345
+Lithuania,A Lyga,Dainava Alytus,Dainava,DAA,4,dainava-alytus,192536
+Lithuania,A Lyga,Šiauliai FA,Šiauliai,SIA,5,siauliai-fa,312564
+Lithuania,A Lyga,FK Transinvest,FK Transinvest,TRA,6,fk-transinvest,411452
+Lithuania,A Lyga,FK Sūduva Marijampolė,Sūduva,SUD,7,fk-suduva-marijampole,5343
+Lithuania,A Lyga,FK Banga Gargždai,Banga,BAN,8,fk-banga-gargzdai,35388
+Lithuania,A Lyga,FK Kauno Žalgiris,Kauno Žalgiris,KAZ,9,fk-kauno-zalgiris,80741
+Lithuania,A Lyga,FK Panevėžys,Panevėžys,PAN,10,fk-panevezys,192763
+Malaysia,Malaysia Super League,Johor Darul Ta'zim,JDT,JOH,1,johor-darul-tazim,3327
+Malaysia,Malaysia Super League,Selangor Football Club,Selangor FC,SEL,2,selangor-football-club,3323
+Malaysia,Malaysia Super League,Sabah FC,Sabah FC,SAB,3,sabah-fc,3329
+Malaysia,Malaysia Super League,Kedah,Kedah,KDA,4,kedah,3339
+Malaysia,Malaysia Super League,Sri Pahang FC,Pahang,PAH,5,sri-pahang-fc,75279
+Malaysia,Malaysia Super League,Terengganu,Terengganu,TER,6,terengganu,3333
+Malaysia,Malaysia Super League,Kuala Lumpur City FC,Kuala Lumpur City FC,KUA,7,kuala-lumpur-city-fc,3324
+Malaysia,Malaysia Super League,PDRM FC,PDRM,PDR,8,pdrm-fc,138874
+Malaysia,Malaysia Super League,Negeri Sembilan,Negeri Sembilan,NEG,9,negeri-sembilan,3331
+Malaysia,Malaysia Super League,Penang,Penang,PEN,10,penang,3330
+Malaysia,Malaysia Super League,Perak FC,Perak,PER,11,perak-fc,61990
+Malaysia,Malaysia Super League,Kelantan Darul Naim,KDN,KEL,12,kelantan-darul-naim,314055
+Malaysia,Malaysia Super League,Kuching City,Kuching,KUC,13,kuching-city,338334
+Malaysia,Malaysia Super League,Kelantan FA,Kelantan,KEL,14,kelantan-fa,3322
+Kuwait,Zain Premier League,Al-Kuwait,Al-Kuwait,KUW,1,al-kuwait,32525
+Kuwait,Zain Premier League,Al-Arabi Kuwait,Al-Arabi,ALA,2,al-arabi-kuwait,35892
+Kuwait,Zain Premier League,Al-Qadsia,Al-Qadsia,QAD,3,al-qadsia,23480
+Kuwait,Zain Premier League,Al-Nasr Kuwait,Al-Nasr,ANA,4,al-nasr-kuwait,23401
+Kuwait,Zain Premier League,Al-Salmiya SC,Al-Salmiya,ALS,5,al-salmiya-sc,55161
+Kuwait,Zain Premier League,Al Fehaheel,Al Fehaheel,ALF,6,al-fehaheel,55159
+Kuwait,Zain Premier League,Kazma SC,Kazma,KAZ,7,kazma-sc,40654
+Kuwait,Zain Premier League,Al-Shabab Kuwait,Al-Shabab,ASK,8,al-shabab-kuwait,55169
+Kuwait,Zain Premier League,Khaitan SC,Khaitan,KHA,9,khaitan-sc,55157
+Kuwait,Zain Premier League,Al-Jahra,Al-Jahra,ALJ,10,al-jahra,53845
+Burundi,Primus League,Flambeau du Centre,Flambeau du Centre,FLA,1,flambeau-du-centre,341719
+Burundi,Primus League,Vital'O FC,Vital'O,VIT,2,vitalo-fc,215597
+Burundi,Primus League,Musongati FC,Musongati FC,MUS,3,musongati-fc,334574
+Burundi,Primus League,Rukinzo FC,Rukinzo FC,RUK,4,rukinzo-fc,325658
+Burundi,Primus League,Olympic Star,Olympic Star,OLY,5,olympic-star,327936
+Burundi,Primus League,Aigle Noir SC,Aigle Noir SC,AIN,6,aigle-noir-sc,271294
+Burundi,Primus League,Le Messager Ngozi,Le Messager Ngozi,MES,7,le-messager-ngozi,273393
+Burundi,Primus League,Bumamuru,Bumamuru,BUM,8,bumamuru,326098
+Burundi,Primus League,BS Dynamik,BS Dynamik,SPO,9,bs-dynamik,326097
+Burundi,Primus League,LLB Amasipiri,LLB Amasipiri,LAM,10,llb-amasipiri,452099
+Burundi,Primus League,Moso Sugar Company,Moso Sugar Company,MOS,11,moso-sugar-company,345195
+Burundi,Primus League,Tigre Noir,Tigre Noir,TNO,12,tigre-noir,421787
+Burundi,Primus League,Inter Stars,Inter Stars,INT,13,inter-stars,239489
+Burundi,Primus League,Kayanza United,Kayanza United,KAY,14,kayanza-united,329383
+Burundi,Primus League,Telaviv FC,Telaviv FC,TEL,15,telaviv-fc,345193
+Burundi,Primus League,Magara Young Boys,Magara Young Boys,MAG,16,magara-young-boys,407643
+Philippines,Philippines Football League,Manila Digger FC,Manila Digger FC,MAN,1,manila-digger-fc,512469
+Philippines,Philippines Football League,DH Cebu FC,DH Cebu FC,CEB,2,dh-cebu-fc,413276
+Philippines,Philippines Football League,FC Meralco Manila,Meralco,LMS,3,fc-meralco-manila,69660
+Philippines,Philippines Football League,Mendiola FC,Mendiola,MEN,4,mendiola-fc,315509
+Philippines,Philippines Football League,Philippine Air Force FC,Air Force,FOR,5,philippine-air-force-fc,143638
+Philippines,Philippines Football League,Davao Aguilas,Davao Aguilas,DAG,6,davao-aguilas,253131
+Philippines,Philippines Football League,Don Bosco Garelli United,Don Bosco Garelli United,DON,7,don-bosco-garelli-united,512471
+Philippines,Philippines Football League,Kaya-Iloilo,Kaya,KAY,8,kaya-iloilo,142194
+Philippines,Philippines Football League,Maharlika Manila FC,Maharlika Manila FC,MAH,9,maharlika-manila-fc,368907
+Philippines,Philippines Football League,Manila Montet FC,Manila Montet FC,MAN,10,manila-montet-fc,512472
+Philippines,Philippines Football League,Stallion Laguna,Stallion Laguna,STL,11,stallion-laguna,142204
+Philippines,Philippines Football League,Taguig FC,Taguig FC,TAG,12,taguig-fc,512473
+Philippines,Philippines Football League,Tuloy FC,Tuloy FC,TUL,13,tuloy-fc,512470
+Philippines,Philippines Football League,United City FC,United City,UNC,14,united-city-fc,143642
+Philippines,Philippines Football League,Philippine Army,Philippine Army,PAR,15,philippine-army,142200
+Antigua and Barbuda,ABFA Premier League,Grenades FC,Grenades,GFC,1,grenades-fc,459380
+Antigua and Barbuda,ABFA Premier League,All Saints United,All Saints United,ASU,2,all-saints-united,459375
+Antigua and Barbuda,ABFA Premier League,Flow Old Road FC,Old Road,FOR,3,flow-old-road-fc,244433
+Antigua and Barbuda,ABFA Premier League,Greenbay Hoppers,Greenbay Hoppers,GHO,4,greenbay-hoppers,459376
+Antigua and Barbuda,ABFA Premier League,Garden Stars FC,Garden Stars ,GSF,5,garden-stars-fc,500236
+Antigua and Barbuda,ABFA Premier League,Villa Lions FC,Villa Lions,VLF,6,villa-lions-fc,459377
+Antigua and Barbuda,ABFA Premier League,John Hughes SC,John Hughes ,JHS,7,john-hughes-sc,500239
+Antigua and Barbuda,ABFA Premier League,Green City FC,Green City,GCF,8,green-city-fc,500238
+Antigua and Barbuda,ABFA Premier League,Willikies FC,Willikies ,WFC,9,willikies-fc,459374
+Antigua and Barbuda,ABFA Premier League,Pigotts SC,Pigotts ,PSC,10,pigotts-sc,459373
+Antigua and Barbuda,ABFA Premier League,Sap FC,Sap FC,SAP,11,sap-fc,274429
+Antigua and Barbuda,ABFA Premier League,Ottos Rangers FC,Ottos Rangers,ORA,12,ottos-rangers-fc,337725
+Antigua and Barbuda,ABFA Premier League,Swetes FC,Swetes,SWE,13,swetes-fc,306496
+Antigua and Barbuda,ABFA Premier League,Parham FC,Parham,PAR,14,parham-fc,306181
+Antigua and Barbuda,ABFA Premier League,Empire FC,Empire,EFC,15,empire-fc,459378
+Turkmenistan,Ýokary Liga,Arkadag FK,Arkadag,AFK,1,arkadag-fk,469420
+Turkmenistan,Ýokary Liga,Şagadam FK,Şagadam,STU,2,sagadam-fk,345700
+Turkmenistan,Ýokary Liga,Ahal FK,Ahal,AHA,3,ahal-fk,186777
+Turkmenistan,Ýokary Liga,Merw FK,Merw,MER,4,merw-fk,345697
+Turkmenistan,Ýokary Liga,Aşgabat FK,Aşgabat,FAS,5,asgabat-fk,345719
+Turkmenistan,Ýokary Liga,Altyn Asyr FK,Altyn Asyr,AAS,6,altyn-asyr-fk,164020
+Turkmenistan,Ýokary Liga,Nebitçi FT,Nebitçi,BAL,7,nebitci-ft,165986
+Turkmenistan,Ýokary Liga,FK Köpetdag Aşgabat,Köpetdag Aşgabat,KAS,8,fk-kopetdag-asgabat,345696
+Turkmenistan,Ýokary Liga,Energetik Mary FK,Energetik Mary,ENM,9,energetik-mary-fk,345699
+Suriname,SVB Eerste Divisie,Politie Voetbal Vereniging,PVV,PVV,1,politie-voetbal-vereniging,410511
+Suriname,SVB Eerste Divisie,SV Transvaal,Transvaal,STR,2,sv-transvaal,410519
+Suriname,SVB Eerste Divisie,SV Robinhood,Robinhood,ROB,3,sv-robinhood,322627
+Suriname,SVB Eerste Divisie,SV Notch,Notch,SNO,4,sv-notch,410518
+Suriname,SVB Eerste Divisie,SV Voorwaarts,Voorwaarts,SVO,5,sv-voorwaarts,410515
+Suriname,SVB Eerste Divisie,Inter Moengotapoe,Inter Moengotapoe,IMO,6,inter-moengotapoe,410521
+Suriname,SVB Eerste Divisie,SV Flora,Flora,SFL,7,sv-flora,460144
+Suriname,SVB Eerste Divisie,Inter Wanica,Inter Wanica,IWA,8,inter-wanica,410520
+Suriname,SVB Eerste Divisie,SV Broki,Broki,SBR,9,sv-broki,410516
+Suriname,SVB Eerste Divisie,SV Leo Victor,Leo Victor,SLV,10,sv-leo-victor,410517
+Ethiopia,Premier League,Ethiopia Nigd Bank,Ethiopia Nigd Bank,ETH,1,ethiopia-nigd-bank,241821
+Ethiopia,Premier League,Mekelakeya,Mekelakeya,DEF,2,mekelakeya,258167
+Ethiopia,Premier League,Saint George,Saint George,STG,3,saint-george,94787
+Ethiopia,Premier League,Ethiopia Bunna,Bunna,ETH,4,ethiopia-bunna,241957
+Ethiopia,Premier League,Fasil Ketema,Fasil Ketema,FKE,5,fasil-ketema,273370
+Ethiopia,Premier League,Adama City,Adama City,ADA,6,adama-city,237727
+Ethiopia,Premier League,Bahir Dar Kenema FC,Bahir Dar Kenema FC,BAH,7,bahir-dar-kenema-fc,317333
+Ethiopia,Premier League,Dire Dawa,Dire Dawa,DDK,8,dire-dawa,237728
+Ethiopia,Premier League,Hadiya Hossana,Hadiya Hossana,HAD,9,hadiya-hossana,338073
+Ethiopia,Premier League,Hawassa City,Hawassa City,HAK,10,hawassa-city,274249
+Ethiopia,Premier League,Wolaita Dicha FC,Wolaita Dicha FC,WDI,11,wolaita-dicha-fc,277540
+Ethiopia,Premier League,Sidama Bunna FC,Sidama Bunna,SIB,12,sidama-bunna-fc,315378
+Ethiopia,Premier League,Ethiopian Medhin,Ethiopian Medhin,ETH,13,ethiopian-medhin,448123
+Ethiopia,Premier League,Wolkite City FC,Wolkite,WOC,14,wolkite-city-fc,335418
+Ethiopia,Premier League,Shashemene Kenema,Shashemene Kenema,SHA,15,shashemene-kenema,491668
+Ethiopia,Premier League,Hambericho Durame,Hambericho Durame,HAM,16,hambericho-durame,491667
+Botswana,Premier League,Jwaneng Galaxy FC,Galaxy FC,JWA,1,jwaneng-galaxy-fc,297712
+Botswana,Premier League,Township Rollers FC,Township Rollers,TOR,2,township-rollers-fc,277010
+Botswana,Premier League,Gaborone United,Gaborone,GAB,3,gaborone-united,286890
+Botswana,Premier League,Tafic FC,Tafic FC,TAF,4,tafic-fc,327832
+Botswana,Premier League,Security Systems FC,Security Systems,SEC,5,security-systems-fc,297713
+Botswana,Premier League,SUA Flamingos,SUA Flamingos,SUA,6,sua-flamingos,398669
+Botswana,Premier League,Orapa United,Orapa United,ORA,7,orapa-united,297710
+Botswana,Premier League,Matebele,Matebele,MAT,8,matebele,488867
+Botswana,Premier League,BDF XI,BDF XI,BDF,9,bdf-xi,281168
+Botswana,Premier League,Masitaoka FC,Masitaoka FC,MAS,10,masitaoka-fc,398668
+Botswana,Premier League,Eleven Angels,Eleven Angels,ELE,11,eleven-angels,453222
+Botswana,Premier League,Vtm FC,Vtm FC,VTM,12,vtm-fc,488866
+Botswana,Premier League,Police XI,Police XI,POL,13,police-xi,297707
+Botswana,Premier League,Morupule Wanderers,Morupule Wanderers,MOW,14,morupule-wanderers,327834
+Botswana,Premier League,Holy Ghost,Holy Ghost,HOL,15,holy-ghost,453221
+Botswana,Premier League,Nico United,Nico United,NIC,16,nico-united,453220
+Saint Kitts and Nevis,SKNFA Premier League,St. Pauls United,St. Pauls United,SPU,1,st-pauls-united,288737
+Saint Kitts and Nevis,SKNFA Premier League,Newtown United FC,Newtown United,NUN,2,newtown-united-fc,302735
+Saint Kitts and Nevis,SKNFA Premier League,Rams Village Superstars,Rams Village Superstars,RAM,3,rams-village-superstars,275844
+Saint Kitts and Nevis,SKNFA Premier League,Cayon Rockets FC,Cayon Rockets,CRO,4,cayon-rockets-fc,288677
+Saint Kitts and Nevis,SKNFA Premier League,Bath United FC,Bath United,BUN,5,bath-united-fc,377725
+Saint Kitts and Nevis,SKNFA Premier League,Conaree FC,Conaree,CON,6,conaree-fc,288736
+Saint Kitts and Nevis,SKNFA Premier League,Old Road Jets,Old Road Jets,ORJ,7,old-road-jets,337553
+Saint Kitts and Nevis,SKNFA Premier League,St. Peters Strikers FC,St. Peters,SPS,8,st-peters-strikers-fc,377727
+Saint Kitts and Nevis,SKNFA Premier League,Garden Hotspurs,Garden Hotspurs,GHO,9,garden-hotspurs,275845
+Saint Kitts and Nevis,SKNFA Premier League,Trafalgar Southstars,Trafalgar Southstars,TSO,10,trafalgar-southstars,337238
+Dominican Republic,Liga Dominicana de Fútbol,Cibao FC,Cibao,CIB,1,cibao-fc,229208
+Dominican Republic,Liga Dominicana de Fútbol,Universidad O&M,Universidad O&M,UOM,2,universidad-o-and-m,284175
+Dominican Republic,Liga Dominicana de Fútbol,Moca FC,Moca,MOC,3,moca-fc,298873
+Dominican Republic,Liga Dominicana de Fútbol,Delfines del Este FC,Delfines del Este,DDE,4,delfines-del-este-fc,321876
+Dominican Republic,Liga Dominicana de Fútbol,Club Atlético Pantoja,Pantoja,CAP,5,club-atletico-pantoja,229207
+Dominican Republic,Liga Dominicana de Fútbol,Atlético Vega Real,Atl. Vega Real,VRE,6,atletico-vega-real,297213
+Dominican Republic,Liga Dominicana de Fútbol,Atlántico FC,Atlántico,ATL,7,atlantico-fc,271430
+Dominican Republic,Liga Dominicana de Fútbol,Atlético San Cristóbal,Atl. San Cristóbal,ASC,8,atletico-san-cristobal,229798
+Liberia,LFA First Division,Watanga FC,Watanga ,WAT,1,watanga-fc,317753
+Liberia,LFA First Division,Heaven Eleven FC,Heaven Eleven,HEF,2,heaven-eleven-fc,459849
+Liberia,LFA First Division,Liscr FC,Liscr FC,LIS,3,liscr-fc,277104
+Liberia,LFA First Division,Paynesville,Paynesville,PAY,4,paynesville,477180
+Liberia,LFA First Division,BEA Mountain FC,BEA Mountain FC,MOU,5,bea-mountain-fc,341429
+Liberia,LFA First Division,Global Pharma,Global Pharma,GPH,6,global-pharma,477181
+Liberia,LFA First Division,Invincible Eleven FC,Invincible Eleven,IEF,7,invincible-eleven-fc,400520
+Liberia,LFA First Division,Nimba Kwado,Nimba Kwado,NKW,8,nimba-kwado,377434
+Liberia,LFA First Division,Freeport FC,Freeport FC,FRE,9,freeport-fc,341428
+Liberia,LFA First Division,Mighty Barrolle,Mighty Barrolle,MBA,10,mighty-barrolle,369882
+Liberia,LFA First Division,LPRC Oilers FC,LPRC Oilers,LOI,11,lprc-oilers-fc,316151
+Liberia,LFA First Division,Kallon Liberia,Kallon Liberia,KLI,12,kallon-liberia,491664
+Liberia,LFA First Division,Cece United FC,Cece United FC,CUF,13,cece-united-fc,403495
+Liberia,LFA First Division,NPA Anchors,NPA Anchors,ANC,14,npa-anchors,318606
+Liberia,LFA First Division,Muscat FC,Muscat FC,MFC,15,muscat-fc,410890
+Moldova,Super Liga,Sheriff,Sheriff,SHF,1,sheriff,5173
+Moldova,Super Liga,FC Petrocub Hîncesti,Petrocub,PEH,2,fc-petrocub-hincesti,167232
+Moldova,Super Liga,FC Milsami Orhei,Milsami,MIL,3,fc-milsami-orhei,53475
+Moldova,Super Liga,Zimbru Chisinau,Zimbru,ZIM,4,zimbru-chisinau,5265
+Moldova,Super Liga,FC Bălți,Bălți,BAL,5,fc-balti,353848
+Moldova,Super Liga,Dacia Buiucani,Dacia,DAC,6,dacia-buiucani,54679
+Moldova,Super Liga,FC Floreşti,Floreşti,FLO,7,fc-floresti,283764
+Moldova,Super Liga,CSF Spartanii Selemet,Spartanii,SPA,8,csf-spartanii-selemet,81139
+Singapore,Premier League,Albirex Niigata Singapore,Albirex Niigata,ALB,1,albirex-niigata-singapore,34081
+Singapore,Premier League,Lion City Sailors,Lion City Sailors,LIO,2,lion-city-sailors,3041
+Singapore,Premier League,Tampines Rovers,Tampines Rovers,TAM,3,tampines-rovers,3043
+Singapore,Premier League,Balestier Central,Balestier Khalsa,BAL,4,balestier-central,3039
+Singapore,Premier League,Geylang International,Geylang Int.,GEY,5,geylang-international,3044
+Singapore,Premier League,Hougang United,Hougang Utd,HOU,6,hougang-united,34083
+Singapore,Premier League,Brunei DPMM FC,DPMM,BRU,7,brunei-dpmm-fc,34085
+Singapore,Premier League,Tanjong Pagar United,Tanjong Pagar Utd.,TPU,8,tanjong-pagar-united,3038
+Singapore,Premier League,Young Lions,Young Lions,YGL,9,young-lions,34082
+Hong Kong,Premier League,Lee Man FC,Lee Man,LEE,1,lee-man-fc,263691
+Hong Kong,Premier League,Kitchee SC,Kitchee,KSC,2,kitchee-sc,42199
+Hong Kong,Premier League,Wofoo Tai Po,Wofoo Tai Po,TAI,3,wofoo-tai-po,40662
+Hong Kong,Premier League,Southern District FC,Southern FC,SDF,4,southern-district-fc,78449
+Hong Kong,Premier League,Eastern SC,Eastern SC,EAS,5,eastern-sc,115157
+Hong Kong,Premier League,Hong Kong Rangers,HK Rangers,BCR,6,hong-kong-rangers,78447
+Hong Kong,Premier League,Hong Kong FC,Hong Kong FC,HKO,7,hong-kong-fc,194227
+Hong Kong,Premier League,Golik North District,Golik North District,NOR,8,golik-north-district,303921
+Hong Kong,Premier League,Sham Shui Po SA,Sham Shui Po,SSP,9,sham-shui-po-sa,56049
+Hong Kong,Premier League,Resources Capital FC,Resources Capital,RES,10,resources-capital-fc,191050
+Hong Kong,Premier League,Hong Kong U23,Hong Kong U23,U23,11,hong-kong-u23,395282
+Tahiti,Ligue 1 Vini,AS Tefana,Tefana,ATE,1,as-tefana,502298
+Tahiti,Ligue 1 Vini,AS Pirae,Pirae,PIR,2,as-pirae,149162
+Tahiti,Ligue 1 Vini,AS Venus,Venus,VEN,3,as-venus,276666
+Tahiti,Ligue 1 Vini,AS Central Sport,Central Sport,CSP,4,as-central-sport,246601
+Tahiti,Ligue 1 Vini,AS Dragon,Dragon,ADR,5,as-dragon,502297
+Tahiti,Ligue 1 Vini,AS Tamarii Punaruu,Tamarii Punaruu,ATP,6,as-tamarii-punaruu,502294
+Tahiti,Ligue 1 Vini,AS Pueu,Pueu,APU,7,as-pueu,502296
+Tahiti,Ligue 1 Vini,AS Taiarapu,Taiarapu,ATA,8,as-taiarapu,502292
+Tahiti,Ligue 1 Vini,AS Tamarii Temanava,Tamarii Temanava,ATT,9,as-tamarii-temanava,502293
+Tahiti,Ligue 1 Vini,AS Les Jeunes Tahitiens,Jeunes Tahitiens,ALJ,10,as-les-jeunes-tahitiens,502295
+Tahiti,Ligue 1 Vini,AS Papenoo,Papenoo,APA,11,as-papenoo,502291
+Tahiti,Ligue 1 Vini,AS Olympic de Mahina,Olympic de Mahina,AOD,12,as-olympic-de-mahina,502290
+Myanmar,National League,Shan United,Shan United,SHU,1,shan-united,69658
+Myanmar,National League,Yangon United,Yangon,YAN,2,yangon-united,61530
+Myanmar,National League,Hantharwady United FC,Hantharwady United FC,HAN,3,hantharwady-united-fc,274846
+Myanmar,National League,Ispe FC,Ispe FC,ISP,4,ispe-fc,338085
+Myanmar,National League,Dagon FC,Dagon FC,DAG,5,dagon-fc,307488
+Myanmar,National League,Myawady FC,Myawady FC,MYA,6,myawady-fc,274845
+Myanmar,National League,Sagaing United,Sagaing United,SAG,7,sagaing-united,274847
+Myanmar,National League,Rakhine United FC,Rakhine United FC,RAK,8,rakhine-united-fc,274848
+Myanmar,National League,Ayeyawady United,Ayeyawady,AYE,9,ayeyawady-united,61528
+Myanmar,National League,Yadanarbon FC,Yadanarbon,YAD,10,yadanarbon-fc,186789
+Myanmar,National League,Chinland FC,Chinland,CHI,11,chinland-fc,255331
+Myanmar,National League,Kachin United FC,Kachin United FC,KAC,12,kachin-united-fc,311897
+Andorra,Primera Divisió,UE Santa Coloma,UE Coloma,UEC,1,ue-santa-coloma,37949
+Andorra,Primera Divisió,Inter Club d'Escaldes,Inter,ESC,2,inter-club-descaldes,37946
+Andorra,Primera Divisió,FC Santa Coloma,Santa Coloma,FCC,3,fc-santa-coloma,7711
+Andorra,Primera Divisió,Atlètic Club Escaldes,AC Escaldes,ATL,4,atletic-club-escaldes,37962
+Andorra,Primera Divisió,Penya Encarnada d'Andorra,Penya Encarnada d'Andorra,PED,5,penya-encarnada-dandorra,37966
+Andorra,Primera Divisió,FC Ordino,Ordino,ORD,6,fc-ordino,83851
+Andorra,Primera Divisió,FC Pas de la Casa,Pas de la Casa,PLC,7,fc-pas-de-la-casa,209036
+Andorra,Primera Divisió,CE Carroi,CE Carroi,CAR,8,ce-carroi,209035
+Andorra,Primera Divisió,CF Atlètic Amèrica,CF Atlètic Amèrica,ATA,9,cf-atletic-america,209037
+Andorra,Primera Divisió,CF Esperanca d'Andorra,Esperanca,ESP,10,cf-esperanca-dandorra,422630
+Papua New Guinea,National Soccer League,Hekari United FC,Hekari Utd,HEK,1,hekari-united-fc,45341
+Papua New Guinea,National Soccer League,Port Moresby Strikers,Port Moresby Strikers,PMS,2,port-moresby-strikers,483990
+Papua New Guinea,National Soccer League,Lae City Dwellers,Lae City Dwellers,LCD,3,lae-city-dwellers,483992
+Papua New Guinea,National Soccer League,Lae City FC,Lae City FC,LAC,4,lae-city-fc,215880
+Papua New Guinea,National Soccer League,Gulf Komara FC,Gulf Komara,GKF,5,gulf-komara-fc,483991
+Papua New Guinea,National Soccer League,FC Morobe Wawens,Morobe Wawens,FMW,6,fc-morobe-wawens,309619
+Papua New Guinea,National Soccer League,United Highlands FC,United Highlands,UHF,7,united-highlands-fc,483934
+Papua New Guinea,National Soccer League,Madang FC,Madang,MFC,8,madang-fc,246602
+Fiji,Digicel Premier League ,Rewa FC,Rewa,REW,1,rewa-fc,246595
+Fiji,Digicel Premier League ,Nadi FC,Nadi,NAD,2,nadi-fc,149160
+Fiji,Digicel Premier League ,Navua FC,Navua,NAV,3,navua-fc,370088
+Fiji,Digicel Premier League ,Ba Football Association,Ba,BFC,4,ba-football-association,86732
+Fiji,Digicel Premier League ,FC Labasa,Labasa,LAB,5,fc-labasa,371114
+Fiji,Digicel Premier League ,Nadroga FC,Nadroga,NFC,6,nadroga-fc,374050
+Fiji,Digicel Premier League ,Lautoka FC,Lautoka,LAU,7,lautoka-fc,276667
+Fiji,Digicel Premier League ,Tailevu Naitasiri,Tailevu Naitasiri,TNA,8,tailevu-naitasiri,406296
+Fiji,Digicel Premier League ,Suva FC,Suva,SUV,9,suva-fc,193722
+Fiji,Digicel Premier League ,Nasinu FC,Nasinu,NFC,10,nasinu-fc,370089
+Malta,Premier League,Floriana FC,Floriana,FLO,1,floriana-fc,33584
+Malta,Premier League,Ħamrun Spartans FC,Ħamrun S.,HAM,2,hamrun-spartans-fc,33583
+Malta,Premier League,Sliema Wanderers,Sliema,SLI,3,sliema-wanderers,5206
+Malta,Premier League,Marsaxlokk FC,Marsaxlokk,MAR,4,marsaxlokk-fc,7704
+Malta,Premier League,Hibernians,Hibernians,HIB,5,hibernians,5331
+Malta,Premier League,Birkirkara FC,Birkirkara,BIR,6,birkirkara-fc,5330
+Malta,Premier League,Gżira United FC,Gżira Utd,GZI,7,gzira-united-fc,58327
+Malta,Premier League,Naxxar Lions FC,Naxxar Lions,NAX,8,naxxar-lions-fc,53755
+Malta,Premier League,Balzan F.C.,Balzan,BAL,9,balzan-fc,38304
+Malta,Premier League,St. Lucia FC,St Lucia,STL,10,st-lucia-fc,58335
+Malta,Premier League,Mosta FC,Mosta,MOS,11,mosta-fc,33572
+Malta,Premier League,Valletta FC,Valletta,VAL,12,valletta-fc,5332
+Malta,Premier League,Sirens FC,Sirens,SIR,13,sirens-fc,80811
+Malta,Premier League,Gudja United,Gudja Utd,GUD,14,gudja-united,74523
+Vanuatu,PVFA Premier League,Ifira Black Bird,Ifira Black Bird,IFI,1,ifira-black-bird,398624
+Vanuatu,PVFA Premier League,Tupuji Imere FC,Tupuji Imere,TIF,2,tupuji-imere-fc,398623
+Vanuatu,PVFA Premier League,ABM Galaxy FC,ABM Galaxy,ABM,3,abm-galaxy-fc,338553
+Vanuatu,PVFA Premier League,Pango Green Bird FC,Pango Green Bird,PGB,4,pango-green-bird-fc,501042
+Vanuatu,PVFA Premier League,Tafea FC,Tafea,TAF,5,tafea-fc,149164
+Vanuatu,PVFA Premier League,Erakor Golden Star,Erakor Golden Star,EGS,6,erakor-golden-star,246596
+Vanuatu,PVFA Premier League,iCount Yatel FC,iCount Yatel,IYF,7,icount-yatel-fc,477953
+Vanuatu,PVFA Premier League,Naka FC,Naka,NFC,8,naka-fc,501041
+Vanuatu,PVFA Premier League,Mauriki FC,Mauriki,MFC,9,mauriki-fc,397749
+Vanuatu,PVFA Premier League,Penama FC,Penama,PFC,10,penama-fc,477952
+Vanuatu,PVFA Premier League,Seveners United FC,Seveners United,SUF,11,seveners-united-fc,477951
+Vanuatu,PVFA Premier League,North Efate United FC,North Efate United,NEU,12,north-efate-united-fc,397750
+Saint Vincent and the Grenadines,SVGFF Premier Division,JeBelle FC,JeBelle,JFC,1,jebelle-fc,461091
+Saint Vincent and the Grenadines,SVGFF Premier Division,North Leeward Predators,North Leeward Predators,NLP,2,north-leeward-predators,461092
+Saint Vincent and the Grenadines,SVGFF Premier Division,Layou FC,Layou ,LFC,3,layou-fc,461088
+Saint Vincent and the Grenadines,SVGFF Premier Division,Hope International,Hope International,HIN,4,hope-international,461089
+Saint Vincent and the Grenadines,SVGFF Premier Division,Avenues United FC,Avenues United,AUF,5,avenues-united-fc,461094
+Saint Vincent and the Grenadines,SVGFF Premier Division,Awesome FC,Awesome,AFC,6,awesome-fc,461093
+Saint Vincent and the Grenadines,SVGFF Premier Division,Sion Hill FC,Sion Hill ,SHF,7,sion-hill-fc,461087
+Saint Vincent and the Grenadines,SVGFF Premier Division,BESCO Pastures FC,BESCO Pastures ,BPF,8,besco-pastures-fc,461095
+Saint Vincent and the Grenadines,SVGFF Premier Division,Largo Height FC,Largo Height ,LHF,9,largo-height-fc,461090
+Grenada,Premier League,Paradise FCI,Paradise ,PFC,1,paradise-fci,381880
+Grenada,Premier League,Queen's Park Rangers,Queen's Park Rangers ,QPR,2,queens-park-rangers,381879
+Grenada,Premier League,Hurricanes SC,Hurricanes ,HSC,3,hurricanes-sc,381882
+Grenada,Premier League,FC Camerhogne,Camerhogne,FCA,4,fc-camerhogne,381886
+Grenada,Premier League,Mt. Rich SC,Mt. Rich,MRS,5,mt-rich-sc,381881
+Grenada,Premier League,St. John's SC,St. John's ,SJS,6,st-johns-sc,381877
+Grenada,Premier League,Hard Rock FC,Hard Rock,HRF,7,hard-rock-fc,381883
+Grenada,Premier League,SAB Spartans SC,Spartans ,SSS,8,sab-spartans-sc,381878
+Grenada,Premier League,Sunsetters FC,Sunsetters,SFC,9,sunsetters-fc,480416
+Grenada,Premier League,Happy Hill FC,Happy Hill ,HHF,10,happy-hill-fc,480417
+Barbados,BFA Premier League,UWI Blackbirds,UWI Blackbirds,BLA,1,uwi-blackbirds,248657
+Barbados,BFA Premier League,Weymouth Wales FC,Weymouth Wales,WWA,2,weymouth-wales-fc,223421
+Barbados,BFA Premier League,Kickstart Rush,Kickstart Rush,KRU,3,kickstart-rush,505115
+Barbados,BFA Premier League,Paradise SC,Paradise,PAR,4,paradise-sc,253368
+Barbados,BFA Premier League,Deacons FC,Deacons,DFC,5,deacons-fc,313330
+Barbados,BFA Premier League,Wotton FC,Wotton,WFC,6,wotton-fc,468973
+Barbados,BFA Premier League,Ellerton FC,Ellerton,ELL,7,ellerton-fc,245537
+Barbados,BFA Premier League,Brittons Hill United,Brittons Hill,BHU,8,brittons-hill-united,245539
+Barbados,BFA Premier League,Empire Club,Empire Club,ECL,9,empire-club,288588
+Barbados,BFA Premier League,Barbados Soccer Academy,BSA,BSA,10,barbados-soccer-academy,311835
+Cambodia,Cambodian Premier League,Svay Rieng FC,Svay Rieng,SVR,1,svay-rieng-fc,153474
+Cambodia,Cambodian Premier League,Phnom Penh Crown,PPCFC,PHN,2,phnom-penh-crown,35605
+Cambodia,Cambodian Premier League,Visakha FC,Visakha FC,VIS,3,visakha-fc,291651
+Cambodia,Cambodian Premier League,Boeung Ket FC,Boeung Ket,BKA,4,boeung-ket-fc,95619
+Cambodia,Cambodian Premier League,ISI Dangkor Senchey FC,ISI Dangkor Senchey,ISI,5,isi-dangkor-senchey-fc,483831
+Cambodia,Cambodian Premier League,National Defense,National,TIF,6,national-defense,253857
+Cambodia,Cambodian Premier League,Nagaworld FC,Nagaworld FC,NAG,7,nagaworld-fc,153476
+Cambodia,Cambodian Premier League,Prey Veng FC,Prey Veng FC,PRV,8,prey-veng-fc,377590
+Cambodia,Cambodian Premier League,Kirivong Soksen Chey,Kirivong,KSC,9,kirivong-soksen-chey,340471
+Cambodia,Cambodian Premier League,Angkor Tiger,Angkor Tiger,ANG,10,angkor-tiger,294279
+Samoa,Upolu National League,Vaipuna SC,Vaipuna,VSC,1,vaipuna-sc,382559
+Samoa,Upolu National League,Lupe Ole Soaga,Lupe Ole Soaga,LOS,2,lupe-ole-soaga,193724
+Samoa,Upolu National League,Vaivase-Tai FC,Vaivase-Tai,VFC,3,vaivase-tai-fc,382558
+Samoa,Upolu National League,Vaitele-Uta SC,Vaitele-Uta,VSC,4,vaitele-uta-sc,382976
+Samoa,Upolu National League,Lepea FC,Lepea ,LFC,5,lepea-fc,424055
+Samoa,Upolu National League,Vailima Kiwi FC,Vailima Kiwi ,VKF,6,vailima-kiwi-fc,424053
+Samoa,Upolu National League,University of the South Pacific,USP,UOT,7,university-of-the-south-pacific,424056
+Samoa,Upolu National League,Sogi SC,Sogi,SSC,8,sogi-sc,382557
+Samoa,Upolu National League,Moata'a FC,Moata'a,MFC,9,moataa-fc,470861
+Samoa,Upolu National League,Lotopa SC,Lotopa,LSC,10,lotopa-sc,470862
+Samoa,Upolu National League,Togāfu'afu'a FC,Togāfu'afu'a,TFC,11,togafuafua-fc,470859
+Samoa,Upolu National League,Alamagoto FC,Alamagoto,AFC,12,alamagoto-fc,470860
+Belize,Premier League of Belize,Verdes FC,Verdes FC,VER,1,verdes-fc,24063
+Belize,Premier League of Belize,Port Layola FC,Port Layola FC,PLF,2,port-layola-fc,491692
+Belize,Premier League of Belize,Progresso FC,Progresso FC,PFC,3,progresso-fc,491693
+Belize,Premier League of Belize,Altitude FC,Altitude FC,AFC,4,altitude-fc,491696
+Belize,Premier League of Belize,Benque Viejo United,Benque United,BUN,5,benque-viejo-united,491697
+Belize,Premier League of Belize,Benque Police,Benque Police,BPO,6,benque-police,229079
+Belize,Premier League of Belize,Belmopan Bandits,Bandits,BBA,7,belmopan-bandits,163408
+Belize,Premier League of Belize,Wagiya SC,Wagiya SC,WSC,8,wagiya-sc,491691
+Mauritius,National Super League,Grande Riviere Sud Est Wanderers,GRSE Wanderers,GRS,1,grande-riviere-sud-est-wanderers,372908
+Mauritius,National Super League,Pamplemousses SC,Pamplemousses,PAM,2,pamplemousses-sc,325646
+Mauritius,National Super League,AS Port-Louis 2000,ASPL 2000,APO,3,as-port-louis-2000,246935
+Mauritius,National Super League,Cercle de Joachim SC,Cercle de Joachim,CDJ,4,cercle-de-joachim-sc,372914
+Mauritius,National Super League,AS Vacoas-Phoenix,Vacoas-Phoenix,AVA,5,as-vacoas-phoenix,372912
+Mauritius,National Super League,Petite Rivière Noire FC,Petite Rivière Noire,PRN,6,petite-riviere-noire-fc,372910
+Mauritius,National Super League,Entente Boulet Rouge SC,Entente Boulet Rouge,EBR,7,entente-boulet-rouge-sc,372913
+Mauritius,National Super League,Savanne SC,Savanne,SSC,8,savanne-sc,372909
+Mauritius,National Super League,La Cure Sylvester SC,La Cure,LCS,9,la-cure-sylvester-sc,372911
+Mauritius,National Super League,RB Bolton City YC,Bolton City,BCI,10,rb-bolton-city-yc,325656
+Bangladesh,Premier League,Bashundhara Kings,Bashundhara,BAK,1,bashundhara-kings,264278
+Bangladesh,Premier League,Mohammedan SC,Mohammedan,MOH,2,mohammedan-sc,233643
+Bangladesh,Premier League,Abahani Limited Dhaka,Dhaka Abahani,ALD,3,abahani-limited-dhaka,246836
+Bangladesh,Premier League,Bangladesh Police FC,Police Club,BAP,4,bangladesh-police-fc,241598
+Bangladesh,Premier League,Sheikh Jamal DC,Sheikh Jamal,SJA,5,sheikh-jamal-dc,213888
+Bangladesh,Premier League,Fortis FC,Fortis,FOR,6,fortis-fc,375005
+Bangladesh,Premier League,Sheikh Russel KC,Sheikh Russel KC,SHR,7,sheikh-russel-kc,178000
+Bangladesh,Premier League,Rahmatganj MFS,Rahmatganj,RAH,8,rahmatganj-mfs,230294
+Bangladesh,Premier League,Chittagong Abahani Limited,Chittagong Abahani,CHI,9,chittagong-abahani-limited,230295
+Bangladesh,Premier League,Brothers Union,Brothers Union,BUN,10,brothers-union,254080
+Cook Islands,Round Cup,Tupapa Maraerenga FC,Tupapa,TMA,1,tupapa-maraerenga-fc,276665
+Cook Islands,Round Cup,Nikao Sokattak FC,Nikao Sokattak,NIK,2,nikao-sokattak-fc,425310
+Cook Islands,Round Cup,Puaikura,Puaikura,PUA,3,puaikura,246597
+Cook Islands,Round Cup,Titikaveka FC,Titikaveka ,TFC,4,titikaveka-fc,498524
+Cook Islands,Round Cup,Avatiu FC,Avatiu ,AFC,5,avatiu-fc,498523
+Cook Islands,Round Cup,Matavera-Ngatangiia FC,Matavera-Ngatangiia,MFC,6,matavera-ngatangiia-fc,498522
+American Samoa,FFAS Senior League,Royal Puma FC,Royal Puma,RPF,1,royal-puma-fc,491994
+American Samoa,FFAS Senior League,Ilaoa & To'omata SC,Ilaoa & To'omata,ITS,2,ilaoa-and-toomata-sc,491992
+American Samoa,FFAS Senior League,Pago Youth FC,Pago Youth,PYF,3,pago-youth-fc,492002
+American Samoa,FFAS Senior League,PanSa East SC,PanSa East,PES,4,pansa-east-sc,491993
+American Samoa,FFAS Senior League,Vaiala Tongan,Vaiala Tongan,VTO,5,vaiala-tongan,491999
+American Samoa,FFAS Senior League,Utulei Youth,Utulei Youth,UYO,6,utulei-youth,492001
+American Samoa,FFAS Senior League,Lion Heart,Lion Heart,LHE,7,lion-heart,491998
+American Samoa,FFAS Senior League,Green Bay Faga'alu,Green Bay Faga'alu,GBF,8,green-bay-fagaalu,491997
+American Samoa,FFAS Senior League,Black Roses,Black Roses,BRO,9,black-roses,491995
+American Samoa,FFAS Senior League,Tafuna Jets,Tafuna Jets,TJE,10,tafuna-jets,492000
+American Samoa,FFAS Senior League,Taputimu Youth,Taputimu Youth,TYO,11,taputimu-youth,491996
+Laos,Lao League,Young Elephants FC,Young Elephants,YEL,1,young-elephants-fc,379274
+Laos,Lao League,Master 7 FC,Master 7 FC,MAS,2,master-7-fc,338365
+Laos,Lao League,Ezra,Ezra,EZR,3,ezra,379273
+Laos,Lao League,Lao Army FC,Lao Army,LAF,4,lao-army-fc,379272
+Laos,Lao League,Luang Prabang United,Luang Prabang,LPR,5,luang-prabang-united,410075
+Laos,Lao League,Champasak FC,Champasak,CFC,6,champasak-fc,410074
+Laos,Lao League,Namtha United,Namtha United,NUN,7,namtha-united,462449
+Laos,Lao League,Viengchanh FC,Viengchanh,VFC,8,viengchanh-fc,379271
+Mongolia,Premier League,SP Falcons FC,SP Falcons,SFF,1,sp-falcons-fc,350408
+Mongolia,Premier League,Deren,Deren,DER,2,deren,350409
+Mongolia,Premier League,FC Ulaanbaatar,FC Ulaanbaatar,ULA,3,fc-ulaanbaatar,338715
+Mongolia,Premier League,Khangarid,Khangarid,KHA,4,khangarid,338741
+Mongolia,Premier League,Khaan Khuns-Erchim FC,Erchim,EFC,5,khaan-khuns-erchim-fc,246653
+Mongolia,Premier League,TUV Buganuud,TUV Buganuud,TBU,6,tuv-buganuud,350461
+Mongolia,Premier League,Khoromkhon Club,Khoromkhon Club,KFC,7,khoromkhon-club,350465
+Mongolia,Premier League,Brera Ilch FC,Brera Ilch,BRE,8,brera-ilch-fc,485804
+Mongolia,Premier League,FC Bavarians,Bavarians,FBA,9,fc-bavarians,389662
+Mongolia,Premier League,Khovd,Khovd,KHO,10,khovd,350464
+Aruba,Division di Honor,SV Dakota,Dakota,SDA,1,sv-dakota,451285
+Aruba,Division di Honor,SV Britannia Piedra Plat,Britannia ,SBP,2,sv-britannia-piedra-plat,451286
+Aruba,Division di Honor,SV Racing Club Aruba Solito,RCA,SRC,3,sv-racing-club-aruba-solito,451275
+Aruba,Division di Honor,SV River Plate Aruba,River Plate Aruba,RPA,4,sv-river-plate-aruba,451282
+Aruba,Division di Honor,SV Deportivo Nacional Palm Beach,Nacional,SDN,5,sv-deportivo-nacional-palm-beach,451276
+Aruba,Division di Honor,SV Estrella Papilon,Estrella ,SEP,6,sv-estrella-papilon,451277
+Aruba,Division di Honor,SV La Fama Savaneta,La Fama ,SLF,7,sv-la-fama-savaneta,451279
+Aruba,Division di Honor,Bubali,Bubali,BUB,8,bubali,274584
+Aruba,Division di Honor,SV Atletico Santa Fe,Santa Fe,SAS,9,sv-atletico-santa-fe,451281
+Aruba,Division di Honor,SV Caiquetio,SV Caiquetio,CAI,10,sv-caiquetio,284638
+Pakistan,Premier League,WAPDA FC,WAPDA,WFC,1,wapda-fc,78531
+Pakistan,Premier League,Sui Southern Gas Company,SSGC,SSG,2,sui-southern-gas-company,299432
+Pakistan,Premier League,PAF FC,PAF,PFC,3,paf-fc,78521
+Pakistan,Premier League,Lyallpur FC,Lyallpur,LYA,4,lyallpur-fc,115873
+Pakistan,Premier League,Muslim FC,Muslim,MUS,5,muslim-fc,78517
+Pakistan,Premier League,KRL FC,KRL,KFC,6,krl-fc,78515
+Pakistan,Premier League,Civil Aviation Authority FC,Civil Aviation,CAA,7,civil-aviation-authority-fc,299431
+Pakistan,Premier League,Pakistan Army,Pakistan Army,PAR,8,pakistan-army,78525
+Pakistan,Premier League,Karachi United,Karachi United,KUN,9,karachi-united,368116
+Pakistan,Premier League,Pakistan Navy FC,Pakistan Navy,PNA,10,pakistan-navy-fc,78527
+Pakistan,Premier League,SNGPL,SNGPL,SNG,11,sngpl,299428
+Pakistan,Premier League,Huma FC,Huma FC,HFC,12,huma-fc,363566
+Cayman Islands,CIFA Premier League,345 FC,345,3FC,1,345-fc,503046
+Cayman Islands,CIFA Premier League,Scholars International SC,Scholars International ,SIS,2,scholars-international-sc,485252
+Cayman Islands,CIFA Premier League,Academy SC,Academy ,ASC,3,academy-sc,503045
+Cayman Islands,CIFA Premier League,Bodden Town FC,Bodden Town,BTF,4,bodden-town-fc,503044
+Cayman Islands,CIFA Premier League,Elite SC,Elite,ESC,5,elite-sc,503043
+Cayman Islands,CIFA Premier League,Roma United SC,Roma United,RUS,6,roma-united-sc,503041
+Cayman Islands,CIFA Premier League,Alliance FC,Alliance,AFC,7,alliance-fc,503040
+Cayman Islands,CIFA Premier League,Future SC,Future,FSC,8,future-sc,503042
+Bahamas,BFA Senior League,Western Warriors FC,Western Warriors,WWF,1,western-warriors-fc,454462
+Bahamas,BFA Senior League,IM Bears FC,IM Bears,IBF,2,im-bears-fc,454467
+Bahamas,BFA Senior League,Westside Renegades,Westside Renegades,WRE,3,westside-renegades,454465
+Bahamas,BFA Senior League,University of Bahamas Mingoes,UB Mingoes,UOB,4,university-of-bahamas-mingoes,454466
+Bahamas,BFA Senior League,United FC,United ,UFC,5,united-fc,454470
+Bahamas,BFA Senior League,Cavalier Nassau FC,Cavalier Nassau,CNF,6,cavalier-nassau-fc,454464
+Bahamas,BFA Senior League,Inter Nassau,Inter Nassau,INA,7,inter-nassau,497576
+Bahamas,BFA Senior League,Dynamos Nassau FC,Dynamos Nassau,DNF,8,dynamos-nassau-fc,454471
+Bahamas,BFA Senior League,Future Stars FC,Future Stars,FSF,9,future-stars-fc,454469
+Bahamas,BFA Senior League,Seventeen FC,Seventeen,SFC,10,seventeen-fc,454468
+Bahamas,BFA Senior League,Baha Juniors,Baha Juniors,BJU,11,baha-juniors,454463
+Gibraltar,Football League,St Joseph's FC,St Joseph's,STJ,1,st-josephs-fc,126312
+Gibraltar,Football League,Lincoln Red Imps,Lincoln RI,LIN,2,lincoln-red-imps,126304
+Gibraltar,Football League,FC Bruno's Magpies,FC Bruno's Magpies,FCB,3,fc-brunos-magpies,255156
+Gibraltar,Football League,Europa Point FC,Europa Point,EUP,4,europa-point-fc,232549
+Gibraltar,Football League,Lynx FC,Lynx,LNX,5,lynx-fc,126308
+Gibraltar,Football League,Mons Calpe,Mons Calpe,MOC,6,mons-calpe,232548
+Gibraltar,Football League,Manchester 62,Manchester,MAN,7,manchester-62,126310
+Gibraltar,Football League,Europa FC,Europa,EUR,8,europa-fc,126298
+Gibraltar,Football League,Glacis United,Glacis Utd,GLU,9,glacis-united,126302
+Gibraltar,Football League,College 1975 FC,College 1975,COL,10,college-1975-fc,325710
+Gibraltar,Football League,Lions Gibraltar,Lions,LIO,11,lions-gibraltar,126306
+Guam,Budweiser G-League,Sidekick SC,Sidekick,SSC,1,sidekick-sc,504823
+Guam,Budweiser G-League,Tumon FC UOG,Tumon UOG,TFU,2,tumon-fc-uog,504821
+Guam,Budweiser G-League,Islanders FC,Islanders,IFC,3,islanders-fc,469004
+Guam,Budweiser G-League,Strykers Beercelona,Strykers Beercelona,SBE,4,strykers-beercelona,504820
+Guam,Budweiser G-League,Dededo SC,Dededo,DSC,5,dededo-sc,504824
+Turks and Caicos Islands,TCIFA Premier League,Academy Eagles,Academy Eagles,AEA,1,academy-eagles,497453
+Turks and Caicos Islands,TCIFA Premier League,SWA Sharks FC,SWA Sharks,SSF,2,swa-sharks-fc,485254
+Turks and Caicos Islands,TCIFA Premier League,Teachers FC,Teachers FC,TFC,3,teachers-fc,497456
+Turks and Caicos Islands,TCIFA Premier League,Flamingo FC,Flamingo FC,FFC,4,flamingo-fc,497454
+Turks and Caicos Islands,TCIFA Premier League,Cheshire Hall FC,Cheshire Hall FC,CHF,5,cheshire-hall-fc,497455
+British Virgin Islands,BVIFA National League,Islanders FC,Islanders,IFC,1,islanders-fc,463144
+British Virgin Islands,BVIFA National League,Virgin Gorda United,Virgin Gorda,VGU,2,virgin-gorda-united,463150
+British Virgin Islands,BVIFA National League,Wolues FC,Wolues,WFC,3,wolues-fc,463153
+British Virgin Islands,BVIFA National League,Sugar Boys FC,Sugar Boys,SBF,4,sugar-boys-fc,463152
+British Virgin Islands,BVIFA National League,Rebels FC,Rebels,RFC,5,rebels-fc,463146
+British Virgin Islands,BVIFA National League,Lion Heart FC,Lion Heart,LHF,6,lion-heart-fc,463149
+British Virgin Islands,BVIFA National League,One Love United,One Love,OLU,7,one-love-united,463151
+British Virgin Islands,BVIFA National League,Panthers FC,Panthers,PFC,8,panthers-fc,463143
+British Virgin Islands,BVIFA National League,Positive FC,Positive,PFC,9,positive-fc,463148
+British Virgin Islands,BVIFA National League,Old Madrid FC,Old Madrid,OMF,10,old-madrid-fc,463145
+Anguilla,AFA Senior Male League,Doc's United FC,Doc's United ,DUF,1,docs-united-fc,377278
+Anguilla,AFA Senior Male League,Attackers FC,Attackers,AFC,2,attackers-fc,377276
+Anguilla,AFA Senior Male League,Eagle Claw FC,Eagle Claw FC,ECF,3,eagle-claw-fc,409450
+Anguilla,AFA Senior Male League,Diamond FC,Diamond ,DFC,4,diamond-fc,377271
+Anguilla,AFA Senior Male League,Spartans FC,Spartans ,SFC,5,spartans-fc,377273
+Anguilla,AFA Senior Male League,Roaring Lions FC,Roaring Lions ,RLF,6,roaring-lions-fc,377274
+Anguilla,AFA Senior Male League,Uprising FC,Uprising ,UFC,7,uprising-fc,377272
+Anguilla,AFA Senior Male League,West End Predators FC,West End Predators,WEP,8,west-end-predators-fc,377268
+Anguilla,AFA Senior Male League,Lymers FC,Lymers ,LFC,9,lymers-fc,377269
+San Marino,Campionato Sammarinese,SS Virtus,Virtus,VIR,1,ss-virtus,36261
+San Marino,Campionato Sammarinese,La Fiorita,La Fiorita,LAF,2,la-fiorita,37860
+San Marino,Campionato Sammarinese,SP Tre Penne,Tre Penne,TRP,3,sp-tre-penne,37862
+San Marino,Campionato Sammarinese,SS Cosmos,Cosmos,COS,4,ss-cosmos,37864
+San Marino,Campionato Sammarinese,SP Tre Fiori,Tre Fiori,TRF,5,sp-tre-fiori,36195
+San Marino,Campionato Sammarinese,SS Murata,Murata,MUR,6,ss-murata,5964
+San Marino,Campionato Sammarinese,AS San Giovanni,San Giovanni,SGI,7,as-san-giovanni,37861
+San Marino,Campionato Sammarinese,AC Juvenes / Dogana,Juvenes/Dogana,JDO,8,ac-juvenes-dogana,24045
+San Marino,Campionato Sammarinese,FC Fiorentino,Fiorentino,FIO,9,fc-fiorentino,37857
+San Marino,Campionato Sammarinese,SS Folgore / Falciano,Folgore/Falciano,FFC,10,ss-folgore-falciano,37863
+San Marino,Campionato Sammarinese,FC Domagnano,Domagnano,DOM,11,fc-domagnano,33818
+San Marino,Campionato Sammarinese,SC Faetano,Faetano,FAE,12,sc-faetano,37858
+San Marino,Campionato Sammarinese,San Marino Academy U22,San Marino Academy U22,SMA,13,san-marino-academy-u22,487070
+San Marino,Campionato Sammarinese,AC Libertas,Libertas,LIB,14,ac-libertas,7712
+San Marino,Campionato Sammarinese,SP Cailungo,Cailungo,CAI,15,sp-cailungo,37859
+San Marino,Campionato Sammarinese,SS Pennarossa,Pennarossa,PEN,16,ss-pennarossa,33821

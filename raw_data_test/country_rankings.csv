@@ -1,0 +1,211 @@
+rank,name,name_code,points,slug,category_id,tournament_name,tournament_slug,tournament_id,tournament_season_id
+1,Argentina,ARG,1858.0,argentina,48.0,Copa de la Liga Profesional,copa-de-la-liga-profesional,13475.0,57487.0
+2,France,FRA,1840.59,france,7.0,Ligue 2,ligue-2,182.0,52572.0
+3,Belgium,BEL,1795.23,belgium,33.0,Challenger Pro League,challenger-pro-league,9.0,52384.0
+4,England,ENG,1794.9,england,1.0,Championship,championship,18.0,52367.0
+5,Brazil,BRA,1788.65,brazil,13.0,Brasileirão Série B,brasileirao-serie-b,390.0,59015.0
+6,Portugal,POR,1748.11,portugal,44.0,Liga Portugal 2,liga-portugal-2,239.0,52770.0
+7,Netherlands,NED,1742.29,netherlands,35.0,Eerste Divisie,eerste-divisie,131.0,52556.0
+8,Spain,ESP,1727.5,spain,32.0,LaLiga 2,laliga-2,54.0,52563.0
+9,Italy,ITA,1724.6,italy,31.0,Serie B,serie-b,53.0,52947.0
+10,Croatia,CRO,1721.07,croatia,14.0,Croatian Cup,croatian-cup,307.0,54865.0
+11,USA,USA,1681.13,usa,26.0,MLS All Star Game,mls-all-star-game,1794.0,51711.0
+12,Colombia,COL,1664.28,colombia,274.0,"Primera A, Clausura",primera-a-clausura,11536.0,52847.0
+13,Morocco,MAR,1661.42,morocco,303.0,Botola Pro 2,botola-pro-2,10554.0,54147.0
+14,Mexico,MEX,1661.11,mexico,12.0,"Liga MX, Clausura",liga-mx-clausura,11620.0,57315.0
+15,Uruguay,URU,1659.39,uruguay,57.0,Segunda División,segunda-division,1908.0,59004.0
+16,Germany,GER,1644.21,germany,30.0,2. Bundesliga,2-bundesliga,44.0,52607.0
+17,Senegal,SEN,1624.73,senegal,886.0,,,,
+18,Japan,JPN,1621.88,japan,52.0,J2 League,j2-league,402.0,57365.0
+19,Switzerland,SUI,1616.41,switzerland,25.0,Challenge League,challenge-league,216.0,52365.0
+20,Iran,IRI,1613.96,iran,301.0,Azadegan League,azadegan-league,11338.0,54581.0
+21,Denmark,DEN,1602.72,denmark,8.0,1st Division,1st-division,47.0,52329.0
+22,Ukraine,UKR,1568.86,ukraine,86.0,,,,
+23,South Korea,KOR,1563.99,south-korea,291.0,K League 2,k-league-2,777.0,57993.0
+24,Australia,AUS,1563.93,australia,34.0,A-League Women,a-league-women,1894.0,54509.0
+25,Austria,AUT,1554.86,austria,17.0,ÖFB Cup,ofb-cup,445.0,52552.0
+26,Hungary,HUN,1532.2,hungary,11.0,NB II,nb-ii,1339.0,52686.0
+27,Sweden,SWE,1531.68,sweden,9.0,Superettan,superettan,46.0,57444.0
+28,Poland,POL,1531.49,poland,47.0,I Liga,i-liga,229.0,52362.0
+29,Wales,WAL,1531.38,wales,131.0,Cymru North,cymru-north,13820.0,52549.0
+30,Nigeria,NGR,1520.27,nigeria,1132.0,,,,
+31,Ecuador,ECU,1518.22,ecuador,165.0,LigaPro Serie B,ligapro-serie-b,10240.0,58858.0
+32,Peru,PER,1515.82,peru,20.0,Liga 2,liga-2,10297.0,59215.0
+33,Serbia,SRB,1514.2,serbia,152.0,Mozzart Bet Prva Liga,mozzart-bet-prva-liga,721.0,53471.0
+34,Qatar,QAT,1507.94,qatar,353.0,,,,
+35,Russia,RUS,1504.02,russia,21.0,Russian Cup,russian-cup,91.0,52857.0
+36,Czech Republic,CZE,1501.47,czech-republic,18.0,FNL,fnl,205.0,52361.0
+37,Egypt,EGY,1499.72,egypt,305.0,Egypt Cup,egypt-cup,2305.0,60373.0
+38,Côte d'Ivoire,CIV,1498.8,cote-divoire,,,,,
+39,Scotland,SCO,1497.46,scotland,22.0,Championship,championship,206.0,52606.0
+40,Turkey,TUR,1495.94,turkey,46.0,Trendyol 1.Lig,trendyol-1lig,98.0,53276.0
+41,Tunisia,TUN,1493.12,tunisia,378.0,,,,
+42,Chile,CHI,1491.71,chile,49.0,Primera B,primera-b,1240.0,58194.0
+43,Algeria,DZA,1482.71,algeria,304.0,Ligue 2,ligue-2,9459.0,54776.0
+44,Mali,MLI,1477.9,mali,,,,,
+45,Panama,PAN,1475.62,panama,526.0,"Liga Panameña de Fútbol, Clausura",liga-panamena-de-futbol-clausura,11533.0,52150.0
+46,Romania,ROU,1468.17,romania,77.0,Liga II,liga-ii,562.0,53285.0
+47,Norway,NOR,1467.51,norway,5.0,1st Division,1st-division,22.0,57356.0
+48,Slovakia,SVK,1461.55,slovakia,23.0,,,,
+49,Canada,CAN,1461.16,canada,388.0,,,,
+50,Greece,GRE,1457.89,greece,67.0,Super League 2,super-league-2,186.0,54993.0
+51,Cameroon,CMR,1452.59,cameroon,391.0,,,,
+52,Costa Rica,CRC,1445.38,costa-rica,289.0,"Primera División, Clausura",primera-division-clausura,11542.0,57367.0
+53,Saudi Arabia,KSA,1443.53,saudi-arabia,310.0,Division 1,division-1,2120.0,53243.0
+54,Venezuela,VEN,1442.29,venezuela,281.0,,,,
+55,Jamaica,JAM,1435.33,jamaica,502.0,,,,
+56,Paraguay,PAR,1430.73,paraguay,280.0,"Primera División, Clausura",primera-division-clausura,11541.0,47642.0
+57,Slovenia,SLO,1427.84,slovenia,24.0,,,,
+58,Iraq,IRQ,1420.47,iraq,1111.0,,,,
+59,South Africa,RSA,1407.67,south-africa,322.0,Motsepe Foundation Championship,motsepe-foundation-championship,1906.0,54407.0
+60,Ireland,IRL,1399.74,ireland,51.0,First Division,first-division,193.0,57305.0
+61,Finland,FIN,1394.44,finland,19.0,Ykkösliiga,ykkosliiga,55.0,58125.0
+62,Burkina Faso,BUR,1390.38,burkina-faso,,,,,
+63,DR Congo,COD,1388.25,dr-congo,1101.0,,,,
+64,Uzbekistan,UZB,1386.58,uzbekistan,385.0,,,,
+65,Cape Verde,CPV,1383.44,cape-verde,1685.0,,,,
+66,Albania,ALB,1375.1,albania,257.0,Kategoria e Pare,kategoria-e-pare,722.0,53702.0
+67,United Arab Emirates,UAE,1366.45,united-arab-emirates,299.0,,,,
+68,Ghana,GHA,1358.77,ghana,542.0,Access Bank Division One,access-bank-division-one,19752.0,53377.0
+69,North Macedonia,MKD,1354.19,north-macedonia,159.0,,,,
+70,Montenegro,MNE,1351.72,montenegro,386.0,,,,
+71,Jordan,JOR,1350.21,jordan,329.0,Jordan 1st Division,jordan-1st-division,13361.0,54148.0
+72,Iceland,ISL,1346.82,iceland,10.0,1. deild,1-deild,675.0,57386.0
+73,Northern Ireland,NIR,1341.05,northern-ireland,130.0,,,,
+74,Bosnia & Herzegovina,BIH,1335.6,bosnia-and-herzegovina,158.0,,,,
+75,Georgia,GEO,1333.76,georgia,270.0,Erovnuli Liga 2,erovnuli-liga-2,726.0,58001.0
+76,Guinea,GUI,1324.65,guinea,1107.0,,,,
+77,Oman,OMN,1323.23,oman,415.0,Sultan Cup,sultan-cup,2306.0,55339.0
+78,Israel,ISR,1311.39,israel,66.0,National League,national-league,727.0,52592.0
+79,Equatorial Guinea,GEQ,1308.03,equatorial-guinea,,,,,
+80,Bahrain,BHR,1307.53,bahrain,351.0,2nd Division,2nd-division,10619.0,54975.0
+81,El Salvador,ESA,1305.02,el-salvador,367.0,"Primera División, Clausura",primera-division-clausura,11532.0,57662.0
+82,Honduras,HON,1301.92,honduras,437.0,"Liga Betcris de Honduras, Clausura",liga-betcris-de-honduras-clausura,11614.0,57750.0
+83,Bulgaria,BUL,1292.59,bulgaria,78.0,Vtora Liga,vtora-liga,1135.0,52385.0
+84,Gabon,GAB,1287.33,gabon,1104.0,,,,
+85,Bolivia,BOL,1283.88,bolivia,379.0,,,,
+86,Zambia,ZAM,1278.26,zambia,1158.0,,,,
+87,Luxembourg,LUX,1277.94,luxembourg,197.0,,,,
+88,China,CHN,1275.22,china,99.0,CFA China League,cfa-china-league,782.0,58844.0
+89,Syria,SYR,1266.52,syria,380.0,,,,
+90,Haiti,HAI,1262.5,haiti,,,,,
+91,Curaçao,CUR,1262.48,curacao,,,,,
+92,Uganda,UGA,1242.15,uganda,1022.0,Big League,big-league,19410.0,53236.0
+93,Palestine,PSE,1238.66,palestine,1134.0,West Bank League,west-bank-league,2296.0,53909.0
+94,Angola,ANG,1235.76,angola,500.0,,,,
+95,Armenia,ARM,1229.18,armenia,296.0,First League,first-league,672.0,53397.0
+96,Belarus,BLR,1226.54,belarus,91.0,,,,
+97,Benin,BEN,1225.68,benin,,,,,
+98,Trinidad and Tobago,TTO,1220.65,trinidad-and-tobago,1153.0,,,,
+99,Tajikistan,TJK,1216.76,tajikistan,1150.0,,,,
+100,Kyrgyzstan,KGZ,1213.6,kyrgyzstan,,,,,
+101,Thailand,THA,1208.93,thailand,485.0,Thai League 2,thai-league-2,10511.0,53612.0
+102,Kosovo,KOS,1205.85,kosovo,1112.0,,,,
+103,Kazakhstan,KAZ,1203.64,kazakhstan,278.0,First Division,first-division,785.0,59465.0
+104,New Zealand,NZL,1197.68,new-zealand,148.0,,,,
+105,Mauritania,MRT,1195.5,mauritania,,,,,
+106,Namibia,NAM,1192.13,namibia,1127.0,,,,
+107,Kenya,KEN,1191.24,kenya,805.0,,,,
+108,Guatemala,GUA,1188.28,guatemala,365.0,"Liga Guate Banrural, Clausura",liga-guate-banrural-clausura,11615.0,57479.0
+109,Madagascar,MAD,1185.86,madagascar,1119.0,,,,
+110,Mozambique,MOZ,1184.49,mozambique,1125.0,,,,
+111,Congo Republic,COG,1179.8,congo-republic,1137.0,,,,
+112,Azerbaijan,AZE,1177.83,azerbaijan,297.0,Birinci Liqa,birinci-liqa,736.0,54428.0
+113,Togo,TOG,1170.34,togo,,,,,
+114,Libya,LBA,1166.71,libya,1117.0,First Division,first-division,18429.0,57309.0
+115,Vietnam,VIE,1164.54,vietnam,366.0,,,,
+116,Guinea-Bissau,GBS,1163.44,guinea-bissau,,,,,
+117,Comoros,COM,1163.02,comoros,1098.0,,,,
+118,North Korea,DPR,1160.57,north-korea,,,,,
+119,Tanzania,TAN,1159.81,tanzania,1151.0,Championship,championship,18874.0,54516.0
+120,Lebanon,LBN,1158.96,lebanon,428.0,Lebanon Cup,lebanon-cup,2307.0,57569.0
+121,India,IND,1145.94,india,352.0,I-League,i-league,848.0,55774.0
+122,Zimbabwe,ZIM,1143.66,zimbabwe,1160.0,,,,
+123,Estonia,EST,1141.13,estonia,92.0,Esiliiga,esiliiga,678.0,57906.0
+124,Cyprus,CYP,1141.03,cyprus,102.0,,,,
+125,Malawi,MAW,1140.93,malawi,,,,,
+126,Sierra Leone,SLE,1137.36,sierra-leone,1141.0,,,,
+127,Sudan,SDN,1129.32,sudan,,,,,
+128,Central African Republic,CAF,1128.17,central-african-republic,,,,,
+129,Niger,NIG,1125.5,niger,,,,,
+130,Gambia,GAM,1114.8,gambia,1105.0,GFF Second Division,gff-second-division,16638.0,56573.0
+131,Rwanda,RWA,1112.44,rwanda,1021.0,,,,
+132,Solomon Islands,SOL,1111.02,solomon-islands,1142.0,,,,
+133,Faroe Islands,FRO,1103.43,faroe-islands,201.0,1. deild,1-deild,674.0,58429.0
+134,Indonesia,INA,1102.7,indonesia,368.0,,,,
+135,Nicaragua,NCA,1102.54,nicaragua,1130.0,,,,
+136,Latvia,LAT,1095.91,latvia,163.0,,,,
+137,Lithuania,LTU,1095.23,lithuania,160.0,Pirma Lyga,pirma-lyga,676.0,58744.0
+138,Malaysia,MAS,1094.54,malaysia,85.0,,,,
+139,Kuwait,KUW,1085.46,kuwait,331.0,,,,
+140,Burundi,BDI,1081.63,burundi,1093.0,Ligue B Nationale,ligue-b-nationale,19377.0,46407.0
+141,Philippines,PHI,1075.14,philippines,847.0,,,,
+142,Antigua and Barbuda,ANT,1072.66,antigua-and-barbuda,1085.0,,,,
+143,Turkmenistan,TKM,1072.52,turkmenistan,1154.0,,,,
+144,Suriname,SUR,1071.85,suriname,1147.0,,,,
+145,Ethiopia,ETH,1068.48,ethiopia,1102.0,,,,
+146,Botswana,BOT,1065.07,botswana,1020.0,,,,
+147,Saint Kitts and Nevis,KNA,1056.61,saint-kitts-and-nevis,1493.0,Division 1,division-1,16753.0,59000.0
+148,Eswatini,ESW,1048.89,eswatini,,,,,
+149,Lesotho,LES,1047.58,lesotho,,,,,
+150,Dominican Republic,DOM,1042.86,dominican-republic,1457.0,,,,
+151,Afghanistan,AFG,1036.92,afghanistan,,,,,
+152,Liberia,LBR,1029.58,liberia,1116.0,,,,
+153,Moldova,MDA,1028.85,moldova,279.0,,,,
+154,Guyana,GUY,1020.31,guyana,,,,,
+155,Singapore,SIN,1019.06,singapore,45.0,,,,
+156,Yemen,YEM,1017.05,yemen,,,,,
+157,Hong Kong,HKG,1012.83,hong-kong,339.0,Division 1,division-1,10526.0,55208.0
+158,New Caledonia,NCL,1008.92,new-caledonia,,,,,
+159,Chinese Taipei,TPE,1007.3,chinese-taipei,1097.0,,,,
+160,Puerto Rico,PUR,1006.35,puerto-rico,,,,,
+161,Maldives,MDV,1003.48,maldives,,,,,
+162,Tahiti,TAH,999.48,tahiti,1149.0,,,,
+163,Myanmar,MYA,999.46,myanmar,1126.0,,,,
+164,Andorra,AND,998.75,andorra,376.0,,,,
+165,Saint Lucia,LCA,988.67,saint-lucia,,,,,
+166,Papua New Guinea,PNG,985.32,papua-new-guinea,1135.0,,,,
+167,South Sudan,SSD,984.65,south-sudan,,,,,
+168,Fiji,FIJ,983.81,fiji,1103.0,,,,
+169,Cuba,CUB,980.65,cuba,,,,,
+170,Bermuda,BER,974.3,bermuda,,,,,
+171,Malta,MLT,973.14,malta,134.0,Challenge League,challenge-league,630.0,52578.0
+172,Vanuatu,VAN,972.14,vanuatu,1155.0,,,,
+173,Saint Vincent and the Grenadines,VCT,953.47,saint-vincent-and-the-grenadines,1709.0,,,,
+174,Grenada,GRN,950.99,grenada,1612.0,,,,
+175,Montserrat,MSR,946.08,montserrat,,,,,
+176,Chad,CHA,945.92,chad,1096.0,,,,
+177,Barbados,BAR,943.8,barbados,1089.0,,,,
+178,Nepal,NEP,937.84,nepal,1128.0,,,,
+179,Cambodia,CAM,925.4,cambodia,1094.0,Hun Sen Cup,hun-sen-cup,18539.0,
+180,Dominica,DMA,922.25,dominica,,,,,
+181,Samoa,SAM,920.54,samoa,1138.0,,,,
+182,Belize,BIZ,919.52,belize,1090.0,,,,
+183,Mauritius,MRI,919.4,mauritius,1124.0,,,,
+184,Bangladesh,BAN,905.3,bangladesh,1088.0,Championship League,championship-league,16640.0,47402.0
+185,Bhutan,BHU,904.1,bhutan,1556.0,,,,
+186,Macau,MAC,896.62,macau,,,,,
+187,Cook Islands,COK,896.59,cook-islands,1795.0,,,,
+188,São Tomé and Príncipe,STP,893.58,sao-tome-and-principe,,,,,
+189,American Samoa,ASA,890.97,american-samoa,1787.0,,,,
+190,Laos,LAO,889.62,laos,1114.0,,,,
+191,Mongolia,MGL,884.04,mongolia,1459.0,,,,
+192,Djibouti,DJI,877.28,djibouti,,,,,
+193,Aruba,ARU,875.82,aruba,1086.0,,,,
+194,Brunei Darussalam,BRU,872.65,brunei-darussalam,,,,,
+195,Pakistan,PAK,849.94,pakistan,755.0,,,,
+196,Cayman Islands,CAY,847.81,cayman-islands,1095.0,,,,
+197,Seychelles,SEY,845.53,seychelles,,,,,
+198,East Timor,TLS,843.4,east-timor,,,,,
+199,Somalia,SOM,842.64,somalia,1143.0,,,,
+200,Bahamas,BAH,835.81,bahamas,1087.0,,,,
+201,Tonga,TGA,833.12,tonga,,,,,
+202,Liechtenstein,LIE,832.75,liechtenstein,512.0,,,,
+203,Gibraltar,GIB,832.5,gibraltar,938.0,,,,
+204,Sri Lanka,SRI,829.41,sri-lanka,,,,,
+205,Guam,GUM,821.91,guam,1106.0,,,,
+206,Turks and Caicos Islands,TCA,817.03,turks-and-caicos-islands,1793.0,,,,
+207,British Virgin Islands,IVB,813.31,british-virgin-islands,1711.0,,,,
+208,US Virgin Islands,VIR,797.29,us-virgin-islands,1804.0,,,,
+209,Anguilla,AIA,793.48,anguilla,1595.0,,,,
+210,San Marino,SMR,742.05,san-marino,387.0,,,,

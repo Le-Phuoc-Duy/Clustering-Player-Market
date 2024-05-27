@@ -1,0 +1,1012 @@
+name,short_name,name_code,position,tournament,country
+River Plate,River,RIV,1,Copa de la Liga Profesional,Argentina
+Argentinos Juniors,Argentinos Jrs.,ARG,2,Copa de la Liga Profesional,Argentina
+Barracas Central,Barracas,BAR,3,Copa de la Liga Profesional,Argentina
+Vélez Sarsfield,Vélez Sarsfield,VEL,4,Copa de la Liga Profesional,Argentina
+Talleres,Talleres,CAT,5,Copa de la Liga Profesional,Argentina
+Independiente,Independiente,CAI,6,Copa de la Liga Profesional,Argentina
+Instituto Córdoba,Instituto,IAC,7,Copa de la Liga Profesional,Argentina
+Banfield,Banfield,BAN,8,Copa de la Liga Profesional,Argentina
+Huracán,Huracán,HUR,9,Copa de la Liga Profesional,Argentina
+Gimnasia y Esgrima,Gimnasia,GLP,10,Copa de la Liga Profesional,Argentina
+Rosario Central,Rosario Central,ROS,11,Copa de la Liga Profesional,Argentina
+Deportivo Riestra,Dep. Riestra,RIE,12,Copa de la Liga Profesional,Argentina
+Atlético Tucumán,Atlético Tucumán,CAT,13,Copa de la Liga Profesional,Argentina
+Independiente Rivadavia,Ind. Rivadavia,IRM,14,Copa de la Liga Profesional,Argentina
+Auxerre,Auxerre,AUX,1,Ligue 2,France
+Angers,Angers,ANG,2,Ligue 2,France
+Saint-Étienne,Saint-Étienne,STE,3,Ligue 2,France
+Rodez AF,Rodez,ROD,4,Ligue 2,France
+Paris FC,Paris,PAR,5,Ligue 2,France
+Caen,Caen,SMC,6,Ligue 2,France
+Stade Lavallois,Laval,LAV,7,Ligue 2,France
+Amiens SC,Amiens,AMI,8,Ligue 2,France
+Guingamp,Guingamp,EAG,9,Ligue 2,France
+Pau FC,Pau,PAU,10,Ligue 2,France
+Grenoble Foot 38,Grenoble,GRE,11,Ligue 2,France
+Bordeaux,Bordeaux,BOR,12,Ligue 2,France
+Bastia,Bastia,SCB,13,Ligue 2,France
+Annecy FC,Annecy FC,ANN,14,Ligue 2,France
+Ajaccio,Ajaccio,ACA,15,Ligue 2,France
+Dunkerque,Dunkerque,DUN,16,Ligue 2,France
+Troyes,Troyes,EST,17,Ligue 2,France
+Quevilly - Rouen Métropole,QRM,QRM,18,Ligue 2,France
+US Concarneau,Concarneau,CON,19,Ligue 2,France
+Valenciennes,Valenciennes,VAL,20,Ligue 2,France
+K. Beerschot V.A.,Beerschot,BEE,1,Challenger Pro League,Belgium
+FC.V. Dender E.H,FCV Dender,DEN,2,Challenger Pro League,Belgium
+KMSK Deinze,Deinze,KMS,3,Challenger Pro League,Belgium
+Lommel SK,Lommel,LOM,4,Challenger Pro League,Belgium
+SV Zulte Waregem,Zulte Waregem,ZUL,5,Challenger Pro League,Belgium
+Patro Eisden Maasmechelen,Patro,PMA,6,Challenger Pro League,Belgium
+RFC Liège,Club Liège,LIE,7,Challenger Pro League,Belgium
+SK Beveren,Beveren,BEV,8,Challenger Pro League,Belgium
+Club NXT U23,Club NXT U23,NXT,9,Challenger Pro League,Belgium
+Jong KRC Genk U23,Jong KRC Genk U23,GNK,10,Challenger Pro League,Belgium
+Lierse Kempenzonen,Lierse K.,LIE,11,Challenger Pro League,Belgium
+RSCA Futures U23,RSCA Futures U23,RSC,12,Challenger Pro League,Belgium
+KV Oostende,Oostende,OOS,13,Challenger Pro League,Belgium
+Royal Francs Borains,RFB,RFB,14,Challenger Pro League,Belgium
+RFC Seraing,RFC Seraing,SER,15,Challenger Pro League,Belgium
+SL16 Football Campus U23,SL16 FC U23,SL1,16,Challenger Pro League,Belgium
+Leicester City,Leicester,LEI,1,Championship,England
+Ipswich Town,Ipswich,IPS,2,Championship,England
+Leeds United,Leeds,LEE,3,Championship,England
+Southampton,Southampton,SOU,4,Championship,England
+West Bromwich Albion,West Brom,WBA,5,Championship,England
+Norwich City,Norwich,NOR,6,Championship,England
+Hull City,Hull,HUL,7,Championship,England
+Middlesbrough,Middlesbrough,MID,8,Championship,England
+Coventry City,Coventry,COC,9,Championship,England
+Preston North End,Preston,PNE,10,Championship,England
+Bristol City,Bristol City,BRC,11,Championship,England
+Cardiff City,Cardiff,CAR,12,Championship,England
+Millwall,Millwall,MIL,13,Championship,England
+Swansea City,Swansea,SWA,14,Championship,England
+Watford,Watford,WAT,15,Championship,England
+Sunderland,Sunderland,SUN,16,Championship,England
+Stoke City,Stoke,STK,17,Championship,England
+Queens Park Rangers,QPR,QPR,18,Championship,England
+Blackburn Rovers,Blackburn,BLA,19,Championship,England
+Sheffield Wednesday,Sheffield Wed,SHW,20,Championship,England
+Plymouth Argyle,Plymouth,PA,21,Championship,England
+Birmingham City,Birmingham,BC,22,Championship,England
+Huddersfield Town,Huddersfield,HUD,23,Championship,England
+Rotherham United,Rotherham,ROU,24,Championship,England
+Santos,Santos,SAN,1,Brasileirão Série B,Brazil
+América Mineiro,América-MG,AMG,2,Brasileirão Série B,Brazil
+Goiás,Goiás,GGO,3,Brasileirão Série B,Brazil
+Sport Recife,Sport,REC,4,Brasileirão Série B,Brazil
+Mirassol,Mirassol,MIR,5,Brasileirão Série B,Brazil
+Avaí,Avaí,AVA,6,Brasileirão Série B,Brazil
+Vila Nova,Vila Nova,VIN,7,Brasileirão Série B,Brazil
+Ceará,Ceará,CEA,8,Brasileirão Série B,Brazil
+Operário-PR,Operário-PR,FER,9,Brasileirão Série B,Brazil
+Chapecoense,Chapecoense,CHA,10,Brasileirão Série B,Brazil
+CRB,CRB,BRA,11,Brasileirão Série B,Brazil
+Coritiba,Coritiba,COR,12,Brasileirão Série B,Brazil
+Novorizontino,Novorizontino,GRN,13,Brasileirão Série B,Brazil
+Ponte Preta,Ponte Preta,PON,14,Brasileirão Série B,Brazil
+Amazonas FC,Amazonas,AMA,15,Brasileirão Série B,Brazil
+Paysandu SC,Paysandu,PAY,16,Brasileirão Série B,Brazil
+Guarani,Guarani,GUA,17,Brasileirão Série B,Brazil
+Brusque,Brusque,BRU,18,Brasileirão Série B,Brazil
+Botafogo-SP,Botafogo-SP,BOT,19,Brasileirão Série B,Brazil
+Ituano,Ituano,ITU,20,Brasileirão Série B,Brazil
+Santa Clara,Santa Clara,SCL,1,Liga Portugal 2,Portugal
+CD Nacional,Nacional,CDN,2,Liga Portugal 2,Portugal
+AVS - Futebol SAD,AVS,AVS,3,Liga Portugal 2,Portugal
+Marítimo,Marítimo,CSM,4,Liga Portugal 2,Portugal
+Paços de Ferreira,Paços de Ferreira,PAC,5,Liga Portugal 2,Portugal
+Tondela,Tondela,TON,6,Liga Portugal 2,Portugal
+Torreense,Torreense,TOR,7,Liga Portugal 2,Portugal
+Benfica B,Benfica B,SLB,8,Liga Portugal 2,Portugal
+CD Mafra,CD Mafra,MAF,9,Liga Portugal 2,Portugal
+FC Porto B,Porto B,FCP,10,Liga Portugal 2,Portugal
+Académico Viseu FC,Académico Viseu,ACV,11,Liga Portugal 2,Portugal
+União Leiria,Leiria,LEI,12,Liga Portugal 2,Portugal
+Penafiel,Penafiel,PEN,13,Liga Portugal 2,Portugal
+Leixões SC,Leixões,LEI,14,Liga Portugal 2,Portugal
+UD Oliveirense,Oliveirense,OLI,15,Liga Portugal 2,Portugal
+Feirense,Feirense,FEI,16,Liga Portugal 2,Portugal
+Länk FC Vilaverdense,Vilaverdense,VIL,17,Liga Portugal 2,Portugal
+C.F. Os Belenenses,Belenenses,BEL,18,Liga Portugal 2,Portugal
+Willem II Tilburg,Willem II,WIL,1,Eerste Divisie,Netherlands
+FC Groningen,Groningen,GRO,2,Eerste Divisie,Netherlands
+Roda JC Kerkrade,Roda,ROD,3,Eerste Divisie,Netherlands
+FC Dordrecht,Dordrecht,DOR,4,Eerste Divisie,Netherlands
+ADO Den Haag,ADO,ADO,5,Eerste Divisie,Netherlands
+De Graafschap,De Graafschap,GRA,6,Eerste Divisie,Netherlands
+FC Emmen,Emmen,EMM,7,Eerste Divisie,Netherlands
+NAC Breda,NAC Breda,BRE,8,Eerste Divisie,Netherlands
+MVV Maastricht,MVV,MAA,9,Eerste Divisie,Netherlands
+Jong AZ Alkmaar,Jong AZ,AZ,10,Eerste Divisie,Netherlands
+Helmond Sport,Helmond Sport,HEL,11,Eerste Divisie,Netherlands
+VVV-Venlo,VVV-Venlo,VEN,12,Eerste Divisie,Netherlands
+SC Cambuur,Cambuur,CAM,13,Eerste Divisie,Netherlands
+FC Eindhoven,Eindhoven,EIN,14,Eerste Divisie,Netherlands
+Jong Ajax,Jong Ajax,AJA,15,Eerste Divisie,Netherlands
+Jong PSV Eindhoven,Jong PSV,PSV,16,Eerste Divisie,Netherlands
+SC Telstar,Telstar,TEL,17,Eerste Divisie,Netherlands
+TOP Oss,TOP Oss,OSS,18,Eerste Divisie,Netherlands
+FC Den Bosch,Den Bosch,DBO,19,Eerste Divisie,Netherlands
+Jong FC Utrecht,Jong FC Utrecht,UTR,20,Eerste Divisie,Netherlands
+Leganés,Leganés,LEG,1,LaLiga 2,Spain
+Real Valladolid,Real Valladolid,VLL,2,LaLiga 2,Spain
+Eibar,Eibar,EIB,3,LaLiga 2,Spain
+Espanyol,Espanyol,ESP,4,LaLiga 2,Spain
+Racing de Santander,Racing de Santander,SAN,5,LaLiga 2,Spain
+Real Oviedo,Real Oviedo,OVI,6,LaLiga 2,Spain
+Sporting Gijón,Sporting,GIJ,7,LaLiga 2,Spain
+Elche,Elche,ELC,8,LaLiga 2,Spain
+Racing de Ferrol,Racing de Ferrol,FER,9,LaLiga 2,Spain
+Levante UD,Levante,LEV,10,LaLiga 2,Spain
+Burgos Club de Fútbol,Burgos,BUR,11,LaLiga 2,Spain
+Tenerife,CD Tenerife,TEN,12,LaLiga 2,Spain
+FC Cartagena,Cartagena,CAR,13,LaLiga 2,Spain
+Albacete Balompié,Albacete,ALB,14,LaLiga 2,Spain
+Real Zaragoza,Real Zaragoza,ZAR,15,LaLiga 2,Spain
+CD Eldense,Eldense,CDE,16,LaLiga 2,Spain
+Huesca,Huesca,HUE,17,LaLiga 2,Spain
+Mirandés,Mirandés,MIR,18,LaLiga 2,Spain
+SD Amorebieta,Amorebieta,SDA,19,LaLiga 2,Spain
+AD Alcorcón,Alcorcón,ALC,20,LaLiga 2,Spain
+FC Andorra,FC Andorra,AND,21,LaLiga 2,Spain
+Villarreal B,Villarreal B ,VIB,22,LaLiga 2,Spain
+Parma,Parma,PAR,1,Serie B,Italy
+Como,Como,COM,2,Serie B,Italy
+Venezia,Venezia,VEN,3,Serie B,Italy
+Cremonese,Cremonese,CRE,4,Serie B,Italy
+Catanzaro,Catanzaro,USC,5,Serie B,Italy
+Palermo,Palermo,PAL,6,Serie B,Italy
+Sampdoria,Sampdoria,SAM,7,Serie B,Italy
+Brescia,Brescia,BRE,8,Serie B,Italy
+Cosenza,Cosenza,COS,9,Serie B,Italy
+Modena,Modena,MOD,10,Serie B,Italy
+Reggiana,Reggiana,REG,11,Serie B,Italy
+Südtirol,Südtirol,FCS,12,Serie B,Italy
+Pisa,Pisa,PIS,13,Serie B,Italy
+Cittadella,Cittadella,CIT,14,Serie B,Italy
+Spezia,Spezia,SPE,15,Serie B,Italy
+Ternana,Ternana,TER,16,Serie B,Italy
+Bari,Bari,BAR,17,Serie B,Italy
+Ascoli,Ascoli,ASC,18,Serie B,Italy
+Feralpisalò,Feralpisalò,FER,19,Serie B,Italy
+Lecco,Lecco,LEC,20,Serie B,Italy
+Rionegro Águilas Doradas,Águilas Doradas,ADR,1,"Primera A, Clausura",Colombia
+Independiente Medellín,Ind. Medellín,DIM,2,"Primera A, Clausura",Colombia
+América de Cali,América Cali,AME,3,"Primera A, Clausura",Colombia
+Deportes Tolima,Tolima,TOL,4,"Primera A, Clausura",Colombia
+Atlético Nacional,Atl. Nacional,CAN,5,"Primera A, Clausura",Colombia
+Junior Barranquilla,Junior Barranquilla,JUN,6,"Primera A, Clausura",Colombia
+Millonarios,Millonarios,MIL,7,"Primera A, Clausura",Colombia
+Deportivo Cali,Dep. Cali,CAL,8,"Primera A, Clausura",Colombia
+Alianza Petrolera,Alianza Petrolera,AP,9,"Primera A, Clausura",Colombia
+Deportivo La Equidad,La Equidad,EQU,10,"Primera A, Clausura",Colombia
+Atlético Bucaramanga,Bucaramanga,BUC,11,"Primera A, Clausura",Colombia
+Deportivo Pasto,Dep. Pasto,PAS,12,"Primera A, Clausura",Colombia
+Independiente Santa Fe,Santa Fe,SFE,13,"Primera A, Clausura",Colombia
+Once Caldas,Once Caldas,OC,14,"Primera A, Clausura",Colombia
+Unión Magdalena,Unión Magdalena,UMG,15,"Primera A, Clausura",Colombia
+Atlético Huila,Huila,HUI,16,"Primera A, Clausura",Colombia
+Deportivo Pereira,Deportivo Pereira,PER,17,"Primera A, Clausura",Colombia
+Boyacá Chicó FC,Boyacá Chicó,CHI,18,"Primera A, Clausura",Colombia
+Jaguares de Córdoba,Jaguares,JAG,19,"Primera A, Clausura",Colombia
+Envigado FC,Envigado,ENV,20,"Primera A, Clausura",Colombia
+CODM Meknès,CODM,COD,1,Botola Pro 2,Morocco
+Difaâ Hassani El-Jadidi,DHJ,HAS,2,Botola Pro 2,Morocco
+Kawkab Athletic Club Marrakech,KACM,KAM,3,Botola Pro 2,Morocco
+USM Oujda,USM Oujda,USM,4,Botola Pro 2,Morocco
+Raja Beni Mellal,Raja BM,RBM,5,Botola Pro 2,Morocco
+Stade Marocain,Stade Marocain,MAR,6,Botola Pro 2,Morocco
+Chabab Atlas Khénifra,Khénifra,CAK,7,Botola Pro 2,Morocco
+JS Massira,Massira,MAS,8,Botola Pro 2,Morocco
+Olympique Dcheira,Olympique Dcheira,ODC,9,Botola Pro 2,Morocco
+Olympique de Khouribga,OC Khouribga,KHO,10,Botola Pro 2,Morocco
+Rapide Oued Zem,RC Oued Zem,ROZ,11,Botola Pro 2,Morocco
+Club Jeunesse Ben Guerir,CJBG,CBG,12,Botola Pro 2,Morocco
+Racing Athletic Club,Racing Club,RAC,13,Botola Pro 2,Morocco
+Wydad de Fès,Wydad de Fès,WYD,14,Botola Pro 2,Morocco
+Ittifaq Marrakech,CIS Marrakech,ITT,15,Botola Pro 2,Morocco
+AS Salé,Salé,SAL,16,Botola Pro 2,Morocco
+Club América,América,AME,1,"Liga MX, Clausura",Mexico
+Cruz Azul,Cruz Azul,CRZ,2,"Liga MX, Clausura",Mexico
+Deportivo Toluca FC,Toluca,TOL,3,"Liga MX, Clausura",Mexico
+CF Monterrey,Monterrey,MTY,4,"Liga MX, Clausura",Mexico
+Tigres UANL,Tigres,UANL,5,"Liga MX, Clausura",Mexico
+CD Guadalajara,Guadalajara,GDL,6,"Liga MX, Clausura",Mexico
+CF Pachuca,Pachuca,PAC,7,"Liga MX, Clausura",Mexico
+Pumas UNAM,Pumas,UNAM,8,"Liga MX, Clausura",Mexico
+Club Necaxa,Necaxa,NEC,9,"Liga MX, Clausura",Mexico
+Querétaro FC,Querétaro,QRO,10,"Liga MX, Clausura",Mexico
+Club León,León,LEO,11,"Liga MX, Clausura",Mexico
+FC Juárez,Juárez,JUA,12,"Liga MX, Clausura",Mexico
+Atlético San Luis,San Luis,SNL,13,"Liga MX, Clausura",Mexico
+Mazatlán FC,Mazatlán ,MAZ,14,"Liga MX, Clausura",Mexico
+Santos Laguna,Santos,SLA,15,"Liga MX, Clausura",Mexico
+Club Tijuana,Tijuana,TIJ,16,"Liga MX, Clausura",Mexico
+Atlas FC,Atlas ,ATS,17,"Liga MX, Clausura",Mexico
+Club Puebla,Puebla,PUE,18,"Liga MX, Clausura",Mexico
+Juventud de Las Piedras,Juventud,JUV,1,Segunda División,Uruguay
+Montevideo City Torque,Torque,TOR,2,Segunda División,Uruguay
+Plaza Colonia,Plaza Colonia,PLA,3,Segunda División,Uruguay
+Sud América,Sud América,SUD,4,Segunda División,Uruguay
+Rentistas,Rentistas,REN,5,Segunda División,Uruguay
+Cerrito,Cerrito,CER,6,Segunda División,Uruguay
+Albion FC,Albion FC,ALB,7,Segunda División,Uruguay
+Oriental de La Paz,Oriental,COR,8,Segunda División,Uruguay
+Colón FC,Colón,COL,9,Segunda División,Uruguay
+CSyD Cooper,Cooper,CCO,10,Segunda División,Uruguay
+Atenas de San Carlos,Atenas,ASC,11,Segunda División,Uruguay
+Uruguay Montevideo FC,Uruguay Montevideo FC,URU,12,Segunda División,Uruguay
+Tacuarembó FC,Tacuarembó,TAC,13,Segunda División,Uruguay
+La Luz,La Luz,LUZ,14,Segunda División,Uruguay
+FC St. Pauli,St. Pauli,STP,1,2. Bundesliga,Germany
+Holstein Kiel,Kiel,HOK,2,2. Bundesliga,Germany
+Fortuna Düsseldorf,Fortuna,F95,3,2. Bundesliga,Germany
+Hamburger SV,HSV,HSV,4,2. Bundesliga,Germany
+Karlsruher SC,Karlsruhe,KSC,5,2. Bundesliga,Germany
+Hannover 96,Hannover,H96,6,2. Bundesliga,Germany
+SC Paderborn 07,Paderborn,PAD,7,2. Bundesliga,Germany
+SpVgg Greuther Fürth,Fürth,SGF,8,2. Bundesliga,Germany
+Hertha BSC,Hertha,BSC,9,2. Bundesliga,Germany
+FC Schalke 04,Schalke,S04,10,2. Bundesliga,Germany
+SV 07 Elversberg,Elversberg,ELV,11,2. Bundesliga,Germany
+1. FC Nürnberg,Nürnberg,FCN,12,2. Bundesliga,Germany
+1. FC Kaiserslautern,Kaiserslautern,FCK,13,2. Bundesliga,Germany
+1. FC Magdeburg,Magdeburg,FCM,14,2. Bundesliga,Germany
+Eintracht Braunschweig,Braunschweig,EBS,15,2. Bundesliga,Germany
+SV Wehen Wiesbaden,Wehen,WEH,16,2. Bundesliga,Germany
+F.C. Hansa Rostock,Rostock,HAN,17,2. Bundesliga,Germany
+VfL Osnabrück,Osnabrück,OSN,18,2. Bundesliga,Germany
+Shimizu S-Pulse,Shimizu,SHI,1,J2 League,Japan
+V-Varen Nagasaki,Nagasaki,VVN,2,J2 League,Japan
+Yokohama FC,Yokohama,YOK,3,J2 League,Japan
+Fagiano Okayama,Okayama,FAG,4,J2 League,Japan
+Vegalta Sendai,Sendai,VEG,5,J2 League,Japan
+Renofa Yamaguchi FC,Yamaguchi,REN,6,J2 League,Japan
+Iwaki FC,Iwaki,IWA,7,J2 League,Japan
+JEF United Chiba,Chiba,JEF,8,J2 League,Japan
+Blaublitz Akita,Blaublitz A,BLA,9,J2 League,Japan
+Oita Trinita,Oita,OIT,10,J2 League,Japan
+Ventforet Kofu,Ventforet Kofu,VEN,11,J2 League,Japan
+Ehime FC,Ehime,EHI,12,J2 League,Japan
+Fujieda MYFC,Fujieda,FJD,13,J2 League,Japan
+Montedio Yamagata,Yamagata,MON,14,J2 League,Japan
+Tokushima Vortis,Tokushima V,VOR,15,J2 League,Japan
+Mito Hollyhock,Mito Hollyhock,MIT,16,J2 League,Japan
+Roasso Kumamoto,Kumamoto,ROA,17,J2 League,Japan
+Kagoshima United,Kagoshima Utd,KAG,18,J2 League,Japan
+Tochigi SC,Tochigi,TOC,19,J2 League,Japan
+Thespa Gunma,Kusatsu G,THG,20,J2 League,Japan
+FC Sion,Sion,SIO,1,Challenge League,Switzerland
+FC Thun,Thun,THU,2,Challenge League,Switzerland
+FC Vaduz,Vaduz,VAD,3,Challenge League,Switzerland
+Neuchâtel Xamax,Xamax,NEX,4,Challenge League,Switzerland
+FC Wil 1900,FC Wil,WIL,5,Challenge League,Switzerland
+FC Aarau,Aarau,AAR,6,Challenge League,Switzerland
+Stade Nyonnais,Stade Nyonnais,SNY,7,Challenge League,Switzerland
+AC Bellinzona,Bellinzona,ACB,8,Challenge League,Switzerland
+Schaffhausen,Schaffhausen,SAF,9,Challenge League,Switzerland
+FC Baden,Baden,BAD,10,Challenge League,Switzerland
+Kheybar Khorramabad FC,Kheybar Khorramabad FC,KHE,1,Azadegan League,Iran
+Fajr Sepasi FC,Fajr Sepasi,FAJ,2,Azadegan League,Iran
+Chador Malu Yazd,Chador Malu Yazd,CHA,3,Azadegan League,Iran
+Naft Masjed Soleyman,Naft MIS,NMS,4,Azadegan League,Iran
+Saipa,Saipa,SAI,5,Azadegan League,Iran
+Sanat Mes Kerman,Mes Kerman,MKE,6,Azadegan League,Iran
+Pars Jonoubi Jam,Pars Jonoubi,JAM,7,Azadegan League,Iran
+FC Ario Eslamshahr,Ario Eslamshahr,ARI,8,Azadegan League,Iran
+Mes Sungun FC,Mes Sungun,MES,9,Azadegan League,Iran
+Naft Gachsaran,Naft Gachsaran,NAF,10,Azadegan League,Iran
+Mes Shahr Babak,Mes Shahr Babak,SHB,11,Azadegan League,Iran
+Esteghlal Mollasani,Esteghlal Mollasani,EST,12,Azadegan League,Iran
+Shahr Raz Shiraz,Shahr Raz,SHA,13,Azadegan League,Iran
+Shahrdari Astara,Shahrdari Astara,SHA,14,Azadegan League,Iran
+Caspian Babol,Caspian Babol,FCD,15,Azadegan League,Iran
+Damash Gilan FC,Damash,DAM,16,Azadegan League,Iran
+Shahin Bandar Ameri,Shahin Bandar Ameri,SBA,17,Azadegan League,Iran
+Khooshe Talaee,Khooshe Talaee,KTA,18,Azadegan League,Iran
+AaB,Aalborg,AAB,1,1st Division,Denmark
+SønderjyskE,SønderjyskE,SON,2,1st Division,Denmark
+Vendsyssel FF,Vendsyssel FF,VEN,3,1st Division,Denmark
+FC Fredericia,FC Fredericia,FRE,4,1st Division,Denmark
+Kolding IF,Kolding IF,KIF,5,1st Division,Denmark
+Hobro,Hobro,HOB,6,1st Division,Denmark
+Hillerød,Hillerød,HIL,7,1st Division,Denmark
+B 93 Kopenhagen,B 93,B93,8,1st Division,Denmark
+AC Horsens,Horsens,HOR,9,1st Division,Denmark
+HB Køge,HB Køge,KOG,10,1st Division,Denmark
+Næstved Boldklub,Næstved,NAE,11,1st Division,Denmark
+FC Helsingør,FC Helsingør,HEL,12,1st Division,Denmark
+FC Anyang,FC Anyang,ANY,1,K League 2,South Korea
+Seoul E-Land FC,Seoul E-Land FC,SEL,2,K League 2,South Korea
+Jeonnam Dragons,Jeonnam,JED,3,K League 2,South Korea
+Gimpo FC,Gimpo FC,GIM,4,K League 2,South Korea
+Cheongju FC,Cheongju,CHE,5,K League 2,South Korea
+Busan I Park,Busan,BUS,6,K League 2,South Korea
+Suwon Samsung Bluewings,Suwon Bluewings,SUW,7,K League 2,South Korea
+Chungnam Asan FC,Chungnam Asan,CHU,8,K League 2,South Korea
+Bucheon FC 1995,Bucheon,BUC,9,K League 2,South Korea
+Gyeongnam FC,Gyeongnam,GYE,10,K League 2,South Korea
+Cheonan City FC,Cheonan City,CHE,11,K League 2,South Korea
+Seongnam FC,Seongnam,SEO,12,K League 2,South Korea
+Ansan Greeners FC,Ansan Greeners FC,ANG,13,K League 2,South Korea
+Melbourne City,Melbourne City,MEL,1,A-League Women,Australia
+Sydney FC,Sydney FC,SYD,2,A-League Women,Australia
+Western United,Western United,WES,3,A-League Women,Australia
+Melbourne Victory,Melbourne Victory,MEL,4,A-League Women,Australia
+Central Coast Mariners,Central Coast,CCM,5,A-League Women,Australia
+Newcastle Jets,Newcastle Jets,NEW,6,A-League Women,Australia
+Western Sydney Wanderers,Western Sydney,WSY,7,A-League Women,Australia
+Wellington Phoenix,Wellington,WEL,8,A-League Women,Australia
+Brisbane Roar,Brisbane Roar,BRI,9,A-League Women,Australia
+Perth Glory,Perth Glory,PER,10,A-League Women,Australia
+Canberra United,Canberra United,CAN,11,A-League Women,Australia
+Adelaide United,Adelaide United,ADE,12,A-League Women,Australia
+Nyiregyháza Spartacus,Nyíregyháza,NYI,1,NB II,Hungary
+ETO FC Győr,Győr,GYO,2,NB II,Hungary
+Vasas,Vasas,VAS,3,NB II,Hungary
+Szeged-Csanád Grosics Akadémia,Szeged CSGA,SCG,4,NB II,Hungary
+Kozármisleny FC,Kozármisleny,KOZ,5,NB II,Hungary
+Gyirmót Győr,Gyirmót,GYI,6,NB II,Hungary
+Soroksár SC,Soroksár,SOR,7,NB II,Hungary
+Budapest Honvéd FC,Honvéd,HON,8,NB II,Hungary
+FC Ajka,Ajka,AJK,9,NB II,Hungary
+Kazincbarcikai SC,Kazincbarcika,KAZ,10,NB II,Hungary
+Aqvital FC Csákvár,Csákvár,CSA,11,NB II,Hungary
+Budafoki MTE,Budafoki MTE,MTE,12,NB II,Hungary
+Szombathelyi Haladás,Haladás,HAL,13,NB II,Hungary
+BVSC-Zugló,BVSC,BVS,14,NB II,Hungary
+Pécsi MFC,PMFC,PEC,15,NB II,Hungary
+Tiszakécskei LC,Tiszakécskei LC,TIS,16,NB II,Hungary
+BFC Siófok,Siófok,SIO,17,NB II,Hungary
+Mosonmagyaróvári TE,MTE,MOS,18,NB II,Hungary
+Landskrona BoIS,Landskrona,BOIS,1,Superettan,Sweden
+Östers IF,Öster,ÖIF,2,Superettan,Sweden
+Utsiktens BK,Utsikten,UBK,3,Superettan,Sweden
+Degerfors IF,Degerfors,DEG,4,Superettan,Sweden
+IK Brage,Brage,IKB,5,Superettan,Sweden
+Skövde AIK,Skövde,SAIK,6,Superettan,Sweden
+Trelleborgs FF,Trelleborg,TFF,7,Superettan,Sweden
+Sandvikens IF,Sandviken,SAN,8,Superettan,Sweden
+IK Oddevold,Oddevold,ODD,9,Superettan,Sweden
+Helsingborgs IF,Helsingborg,HIF,10,Superettan,Sweden
+Örebro SK,Örebro,ÖSK,11,Superettan,Sweden
+Gefle IF,Gefle,GEF,12,Superettan,Sweden
+Östersunds FK,Östersund,ÖFK,13,Superettan,Sweden
+GIF Sundsvall,Sundsvall,SUN,14,Superettan,Sweden
+Varbergs BoIS,Varberg,VBG,15,Superettan,Sweden
+Örgryte IS,Örgryte,ÖIS,16,Superettan,Sweden
+KS Lechia Gdańsk,Lechia,LEC,1,I Liga,Poland
+MZKS Arka Gdynia,Arka,ARK,2,I Liga,Poland
+GKS Katowice,GKS Katowice,KAT,3,I Liga,Poland
+Motor Lublin,Motor,MOT,4,I Liga,Poland
+Górnik Łęczna,Górnik Łęczna,GOR,5,I Liga,Poland
+Wisła Płock,Wisła Płock,PLO,6,I Liga,Poland
+GKS Tychy,GKS Tychy,TYC,7,I Liga,Poland
+Wisła Kraków,Wisła Kraków,WIS,8,I Liga,Poland
+OKS Odra Opole,Odra Opole,ODR,9,I Liga,Poland
+Miedź Legnica,Miedź,MIE,10,I Liga,Poland
+Stal Rzeszów,Stal Rzeszów,SRZ,11,I Liga,Poland
+Znicz Pruszków,Znicz,ZNI,12,I Liga,Poland
+Chrobry Głogów,Chrobry Głogów,GLO,13,I Liga,Poland
+Bruk-Bet Termalica Nieciecza,Bruk-Bet Termalica,NIE,14,I Liga,Poland
+Polonia Warszawa,Polonia Warszawa,KSP,15,I Liga,Poland
+Resovia Rzeszów,Resovia Rzeszów,RRZ,16,I Liga,Poland
+Podbeskidzie Bielsko-Biała,TS Podbeskidzie,PBB,17,I Liga,Poland
+Zagłębie Sosnowiec,Zagłębie S.,ZAG,18,I Liga,Poland
+Holywell Town,Holywell,HOL,1,Cymru North,Wales
+Flint Town United,Flint Town Utd,FTU,2,Cymru North,Wales
+Airbus UK Broughton,Airbus UK,AUK,3,Cymru North,Wales
+Mold Alex FC,Mold Alex,MAL,4,Cymru North,Wales
+Bangor 1876 FC,Bangor 1876 FC,BAN,5,Cymru North,Wales
+Denbigh Town,Denbigh Town,DEN,6,Cymru North,Wales
+Ruthin Town,Ruthin Town,RUT,7,Cymru North,Wales
+Guilsfield Athletic,Guilsfield,GUI,8,Cymru North,Wales
+Caersws FC,Caersws,CAE,9,Cymru North,Wales
+Gresford Athletic,Gresford Ath,GRA,10,Cymru North,Wales
+Buckley Town,Buckley Town,BUT,11,Cymru North,Wales
+Llandudno FC,Llandudno,LLA,12,Cymru North,Wales
+Prestatyn Town,Prestatyn,PRE,13,Cymru North,Wales
+CPD Porthmadog,Porthmadog,POR,14,Cymru North,Wales
+Chirk Aaa,Chirk Aaa,CHI,15,Cymru North,Wales
+Llanidloes Town,Llanidloes Town,LLT,16,Cymru North,Wales
+Cuniburo FC,Cuniburo FC,CUN,1,LigaPro Serie B,Ecuador
+Vargas Torres,Vargas Torres,VAR,2,LigaPro Serie B,Ecuador
+Chacaritas FC,Chacaritas,CHA,3,LigaPro Serie B,Ecuador
+Independiente Juniors,Independiente Juniors,IND,4,LigaPro Serie B,Ecuador
+Manta FC,Manta,MAN,5,LigaPro Serie B,Ecuador
+San Antonio FC,San Antonio,SAN,6,LigaPro Serie B,Ecuador
+Gualaceo SC,Gualaceo,GUA,7,LigaPro Serie B,Ecuador
+Guayaquil City,Guayaquil City,GUA,8,LigaPro Serie B,Ecuador
+Leones del Norte,Leones del Norte,LDN,9,LigaPro Serie B,Ecuador
+9 de Octubre,9 de Octubre,OCT,10,LigaPro Serie B,Ecuador
+Alianza Universidad,Alianza Universidad,HUA,1,Liga 2,Peru
+FC San Marcos,FC San Marcos,SAN,2,Liga 2,Peru
+Deportivo Llacuabamba,Deportivo Llacuabamba,LLA,3,Liga 2,Peru
+ADC Juan Pablo II,ADC Juan Pablo II,JUA,4,Liga 2,Peru
+Pirata FC,Pirata,PIR,5,Liga 2,Peru
+Club ADA Jaén,Club ADA Jaén,CLU,6,Liga 2,Peru
+FC Carlos Stein,FC Carlos Stein,CAS,7,Liga 2,Peru
+Juan Aurich,Juan Aurich,JAU,8,Liga 2,Peru
+Unión Huaral,Unión Huaral,UHU,9,Liga 2,Peru
+OFK Beograd,OFK Beograd,OFK,1,Mozzart Bet Prva Liga,Serbia
+FK Jedinstvo Ub,Jedinstvo,JED,2,Mozzart Bet Prva Liga,Serbia
+FK Inđija,Inđija,IND,3,Mozzart Bet Prva Liga,Serbia
+FK Tekstilac Odžaci,Odžaci,ODZ,4,Mozzart Bet Prva Liga,Serbia
+FK Smederevo 1924,Smederevo ,SME,5,Mozzart Bet Prva Liga,Serbia
+FK Mačva Šabac,Mačva,MAC,6,Mozzart Bet Prva Liga,Serbia
+Radnički Sremska Mitrovica,Mitrovica,RSM,7,Mozzart Bet Prva Liga,Serbia
+RFK Grafičar Beograd,Grafičar,GBE,8,Mozzart Bet Prva Liga,Serbia
+CSKA Moscow,CSKA,CSKA,1,Russian Cup,Russia
+Orenburg,Orenburg,ORE,2,Russian Cup,Russia
+FC Sochi,Sochi,SOC,3,Russian Cup,Russia
+Fakel Voronezh,Fakel,FAK,4,Russian Cup,Russia
+Dukla Praha,Dukla Praha,DUK,1,FNL,Czech Republic
+SK Sigma Olomouc B,Olomouc B,OLO,2,FNL,Czech Republic
+FC Silon Táborsko,Silon Táborsko,MAS,3,FNL,Czech Republic
+MFK Vyškov,Vyškov,MFK,4,FNL,Czech Republic
+MFK Chrudim,MFK Chrudim,CHR,5,FNL,Czech Republic
+Slezský FC Opava,Opava,OPA,6,FNL,Czech Republic
+FC Sellier & Bellot Vlašim,Sellier & Bellot Vlašim,VLA,7,FNL,Czech Republic
+SK Líšeň,Líšeň,SKL,8,FNL,Czech Republic
+FK Viktoria Žižkov,Viktoria Žižkov,ZIZ,10,FNL,Czech Republic
+FC Zbrojovka Brno,Zbrojovka Brno,BRN,10,FNL,Czech Republic
+Sparta Praha B U21,Sparta Praha B U21,SPA,11,FNL,Czech Republic
+1. SK Prostějov,1. SK Prostějov,1SK,12,FNL,Czech Republic
+1.FK Příbram,Příbram,PRI,13,FNL,Czech Republic
+FK Varnsdorf,Varnsdorf,FKV,14,FNL,Czech Republic
+Vysočina Jihlava,Vysočina Jihlava,JIH,15,FNL,Czech Republic
+SK Hanácká Slavia Kroměříž,Hanácká Slavia,HAN,16,FNL,Czech Republic
+Dundee United,Dundee Utd,DUU,1,Championship,Scotland
+Raith Rovers,Raith Rovers,RAI,2,Championship,Scotland
+Partick Thistle,Partick Thistle,PAR,3,Championship,Scotland
+Airdrieonians,Airdrieonians,AIR,4,Championship,Scotland
+Greenock Morton,Greenock Morton,MOR,5,Championship,Scotland
+Dunfermline Athletic,Dunfermline,DUN,6,Championship,Scotland
+Ayr United,Ayr,AYR,7,Championship,Scotland
+Queen's Park FC,Queen's Park,QUE,8,Championship,Scotland
+Inverness Caledonian Thistle,Caley Thistle,INV,9,Championship,Scotland
+Arbroath,Arbroath,ARB,10,Championship,Scotland
+Eyüpspor,Eyüpspor,EYU,1,Trendyol 1.Lig,Turkey
+Göztepe,Göztepe,GOZ,2,Trendyol 1.Lig,Turkey
+Sakaryaspor,Sakaryaspor,SAK,3,Trendyol 1.Lig,Turkey
+Bodrum,Bodrum,BBB,4,Trendyol 1.Lig,Turkey
+Çorum FK,Çorum FK,COR,5,Trendyol 1.Lig,Turkey
+Kocaelispor,Kocaelispor,KOC,6,Trendyol 1.Lig,Turkey
+Boluspor,Boluspor,BOL,7,Trendyol 1.Lig,Turkey
+Gençlerbirliği,Gençlerbirliği,GEN,8,Trendyol 1.Lig,Turkey
+Bandırmaspor,Bandırmaspor,BAS,9,Trendyol 1.Lig,Turkey
+Erzurumspor FK,Erzurumspor,ERZ,10,Trendyol 1.Lig,Turkey
+Ümraniyespor,Ümraniyespor,UMR,11,Trendyol 1.Lig,Turkey
+Manisa FK,Manisa,MAN,12,Trendyol 1.Lig,Turkey
+Keçiörengücü,Keçiörengücü,KEC,13,Trendyol 1.Lig,Turkey
+Adanaspor,Adanaspor,ADA,14,Trendyol 1.Lig,Turkey
+Şanlıurfaspor,Şanlıurfaspor,SAN,15,Trendyol 1.Lig,Turkey
+Tuzlaspor,Tuzlaspor,TUZ,16,Trendyol 1.Lig,Turkey
+Altay,Altay,ALT,17,Trendyol 1.Lig,Turkey
+Giresunspor,Giresunspor,GIR,18,Trendyol 1.Lig,Turkey
+Deportes La Serena,La Serena,DLS,1,Primera B,Chile
+Rangers de Talca,Rangers Talca,RAN,2,Primera B,Chile
+Deportes Limache,Deportes Limache,DEP,3,Primera B,Chile
+Deportes Magallanes,Magallanes,MAG,4,Primera B,Chile
+AC Barnechea,AC Barnechea,BAR,5,Primera B,Chile
+Antofagasta,Antofagasta,ANT,6,Primera B,Chile
+Deportes Santa Cruz,Santa Cruz,CRU,7,Primera B,Chile
+San Luis de Quillota,San Luis,SLQ,8,Primera B,Chile
+Santiago Morning,Santiago Morn.,SAM,9,Primera B,Chile
+San Marcos de Arica,Arica,SMA,10,Primera B,Chile
+Deportes Recoleta,Recoleta,REC,11,Primera B,Chile
+Universidad de Concepción,U. de Concepción,UCO,12,Primera B,Chile
+Santiago Wanderers,Wanderers,SW,13,Primera B,Chile
+Curicó Unido,Curicó Unido,CUR,14,Primera B,Chile
+Deportes Temuco,Temuco,DTM,15,Primera B,Chile
+Unión San Felipe,San Felipe,USF,16,Primera B,Chile
+Olympique Akbou,Olympique Akbou,OLY,1,Ligue 2,Algeria
+MSP Batna,Batna,MSP,2,Ligue 2,Algeria
+CA Batna,CA Batna,CAB,3,Ligue 2,Algeria
+JS Bordj Menaiel,JS Bordj Menaiel,BOR,4,Ligue 2,Algeria
+MO Constantine,Constantine,MOC,5,Ligue 2,Algeria
+IB Khémis El Khechna,IBKEK,KHE,6,Ligue 2,Algeria
+NRB Teleghma,NRB Teleghma,TEL,7,Ligue 2,Algeria
+IRB Ouargla,IRB Ouargla,IRB,8,Ligue 2,Algeria
+AS Khroub,Khroub,ASK,9,Ligue 2,Algeria
+Olympique Magrane,Olympique Magrane,OLY,10,Ligue 2,Algeria
+USM El-Harrach,USMH,UEH,11,Ligue 2,Algeria
+USM Annaba,USMAn,USA,12,Ligue 2,Algeria
+HB Chelghoum Laid,HB Chelghoum Laid,CHL,13,Ligue 2,Algeria
+AS Ain M'lila,ASAM,AAM,14,Ligue 2,Algeria
+ES El Ghozlane,ES El Ghozlane,EGH,15,Ligue 2,Algeria
+MC El Eulma,MCEE,MEE,16,Ligue 2,Algeria
+Tauro FC,Tauro,TAU,1,"Liga Panameña de Fútbol, Clausura",Panama
+Sporting San Miguelito,San Miguelito,SSM,2,"Liga Panameña de Fútbol, Clausura",Panama
+Alianza FC,Alianza,PAN,3,"Liga Panameña de Fútbol, Clausura",Panama
+Árabe Unido,Árabe Unido,AUN,4,"Liga Panameña de Fútbol, Clausura",Panama
+Plaza Amador,Plaza,PLA,5,"Liga Panameña de Fútbol, Clausura",Panama
+Costa del Este FC,Costa del Este,CDE,6,"Liga Panameña de Fútbol, Clausura",Panama
+CSM Reşiţa,CSM Reşiţa,RES,1,Liga II,Romania
+CSM Ceahlăul Piatra Neamţ,Ceahlăul Piatra Neamț,CEA,2,Liga II,Romania
+FC Argeş,FC Argeş,ARG,3,Liga II,Romania
+FC Metaloglobus București,Metaloglobus,MET,4,Liga II,Romania
+FC Unirea Dej,Unirea Dej,DEJ,5,Liga II,Romania
+CSC Dumbrăviţa,Dumbrăvița,DUM,6,Liga II,Romania
+CSM Alexandria,Alexandria,FCM,7,Liga II,Romania
+Kongsvinger,Kongsvinger,KIL,1,1st Division,Norway
+Sogndal IL,Sogndal,SIL,2,1st Division,Norway
+Egersund,Egersund,EIK,3,1st Division,Norway
+Bryne FK,Bryne FK,BRY,4,1st Division,Norway
+Lyn FK,Lyn,LYN,5,1st Division,Norway
+Vålerenga IF,Vålerenga,VIF,6,1st Division,Norway
+Moss FK,Moss FK,MFK,7,1st Division,Norway
+Stabæk Fotball,Stabæk,STA,8,1st Division,Norway
+Levanger,Levanger,LEV,9,1st Division,Norway
+Ranheim IL,Ranheim,RAN,10,1st Division,Norway
+Mjøndalen,Mjøndalen,MJO,11,1st Division,Norway
+Raufoss,Raufoss,RAU,12,1st Division,Norway
+Sandnes Ulf,Sandnes,SAN,13,1st Division,Norway
+Åsane,Åsane,ASA,14,1st Division,Norway
+IK Start,IK Start,STA,15,1st Division,Norway
+Aalesunds FK,Aalesund,AFK,16,1st Division,Norway
+PAOK B,PAOK B,PAO,1,Super League 2,Greece
+Iraklis 1908,Iraklis,TRI,2,Super League 2,Greece
+Kampaniakos,Kampaniakos,KPS,3,Super League 2,Greece
+Kozani,Kozani,KOZ,4,Super League 2,Greece
+Anagennisi Karditsas,Anagennisi Karditsas,ANK,5,Super League 2,Greece
+Aiolikos,Aiolikos,AIO,6,Super League 2,Greece
+Deportivo Saprissa,Saprissa,SAP,1,"Primera División, Clausura",Costa Rica
+Herediano,Herediano,HER,2,"Primera División, Clausura",Costa Rica
+LD Alajuelense,Alajuelense,ALA,3,"Primera División, Clausura",Costa Rica
+San Carlos,San Carlos,SCA,4,"Primera División, Clausura",Costa Rica
+Municipal Liberia,Liberia,LIB,5,"Primera División, Clausura",Costa Rica
+Sporting San José,Sporting San José,SPO,6,"Primera División, Clausura",Costa Rica
+AD Guanacasteca,AD Guanacasteca,GUA,7,"Primera División, Clausura",Costa Rica
+Municipal Pérez Zeledón,Pérez Zeledón,ZEL,8,"Primera División, Clausura",Costa Rica
+CS Cartaginés,Cartaginés,CAR,9,"Primera División, Clausura",Costa Rica
+Puntarenas FC,Puntarenas FC,PUN,10,"Primera División, Clausura",Costa Rica
+Municipal Grecia,Grecia,GRE,11,"Primera División, Clausura",Costa Rica
+Santos de Guápiles,Santos,SDG,12,"Primera División, Clausura",Costa Rica
+Al-Qadisiyah,Al-Qadisiyah,QAD,1,Division 1,Saudi Arabia
+Al Kholood,Al Kholood,AKH,2,Division 1,Saudi Arabia
+Al Orobah,Al Orobah,ALO,3,Division 1,Saudi Arabia
+Al-Adalah,Al-Adalah Club,ADA,4,Division 1,Saudi Arabia
+AL Arabi (SA),AL Arabi (SA),ARA,5,Division 1,Saudi Arabia
+Al-Faisaly,Al-Faisaly,FAI,6,Division 1,Saudi Arabia
+Al-Batin,Al-Batin,BAT,7,Division 1,Saudi Arabia
+Al-Jabalain,Al-Jabalain,JAB,8,Division 1,Saudi Arabia
+AL Najma,AL Najma,NAJ,9,Division 1,Saudi Arabia
+Al Safa FC,Al Safa,SAF,10,Division 1,Saudi Arabia
+Al Jandal,Al Jandal,JAN,11,Division 1,Saudi Arabia
+Al Ain,Al Ain,AIN,12,Division 1,Saudi Arabia
+Jeddah Club,Jeddah Club,JED,13,Division 1,Saudi Arabia
+Al-Bukiryah FC,Al-Bukiryah,BUK,14,Division 1,Saudi Arabia
+Ohod Club,Ohod,OHM,15,Division 1,Saudi Arabia
+Al Qaisumah FC,Al Qaisumah,QAI,16,Division 1,Saudi Arabia
+Hajer Club,Hajer,HAJ,17,Division 1,Saudi Arabia
+Al-Taraji Club,Al-Taraji Club,TAR,18,Division 1,Saudi Arabia
+Libertad,Libertad,LIB,1,"Primera División, Clausura",Paraguay
+Cerro Porteño,Cerro Porteño,CPO,2,"Primera División, Clausura",Paraguay
+Nacional Asunción,Nacional,NAC,3,"Primera División, Clausura",Paraguay
+Guaraní,Guaraní,GUA,4,"Primera División, Clausura",Paraguay
+Olimpia,Olimpia,OLI,5,"Primera División, Clausura",Paraguay
+Tacuary,Tacuary,TAC,6,"Primera División, Clausura",Paraguay
+Sportivo Trinidense,Trinidense,TRI,7,"Primera División, Clausura",Paraguay
+Sportivo Ameliano,Sportivo Ameliano,SPO,8,"Primera División, Clausura",Paraguay
+General Caballero,General Caballero,CAB,9,"Primera División, Clausura",Paraguay
+Sportivo Luqueño,Sportivo Luqueño,LUQ,10,"Primera División, Clausura",Paraguay
+Guaireña,Guaireña,GUA,11,"Primera División, Clausura",Paraguay
+Resistencia FC,Resistencia,RES,12,"Primera División, Clausura",Paraguay
+Magesi FC,Magesi,MAG,1,Motsepe Foundation Championship,South Africa
+University of Pretoria FC,Pretoria University,PRE,2,Motsepe Foundation Championship,South Africa
+Baroka FC,Baroka,BAR,3,Motsepe Foundation Championship,South Africa
+Maritzburg United,Maritzburg Utd,MU,4,Motsepe Foundation Championship,South Africa
+JDR Stars,JDR Stars,JDR,5,Motsepe Foundation Championship,South Africa
+Upington City FC,Upington City FC,UPI,6,Motsepe Foundation Championship,South Africa
+Casric Stars FC,Casric Stars FC,CAS,7,Motsepe Foundation Championship,South Africa
+Hungry Lions FC,Hungry Lions,HUN,8,Motsepe Foundation Championship,South Africa
+Orbit College Fc,Orbit College Fc,ORB,9,Motsepe Foundation Championship,South Africa
+Black Leopards,Black Leopards,LEO,10,Motsepe Foundation Championship,South Africa
+Marumo Gallants FC,Marumo Gallants FC,MGL,11,Motsepe Foundation Championship,South Africa
+Venda Football Academy,Venda Football Academy,VEN,12,Motsepe Foundation Championship,South Africa
+Milford FC,Milford FC,MIL,13,Motsepe Foundation Championship,South Africa
+Pretoria Callies,Pretoria Callies,PRE,14,Motsepe Foundation Championship,South Africa
+NB La Masia,NB La Masia,MAS,15,Motsepe Foundation Championship,South Africa
+Platinum City Rovers,Platinum City Rovers,PLA,16,Motsepe Foundation Championship,South Africa
+Cork City,Cork City,COR,1,First Division,Ireland
+University College Dublin,UC Dublin,DUB,2,First Division,Ireland
+Athlone Town,Athlone Town,ATH,3,First Division,Ireland
+Wexford FC,Wexford,WEX,4,First Division,Ireland
+Finn Harps,Finn Harps,FHA,5,First Division,Ireland
+Bray Wanderers,Bray Wanderers,BRA,6,First Division,Ireland
+Cobh Ramblers,Cobh Ramblers,COB,7,First Division,Ireland
+Treaty United FC,Treaty United FC,TRE,8,First Division,Ireland
+Kerry FC,Kerry FC,KER,9,First Division,Ireland
+Longford Town,Longford Town,LON,10,First Division,Ireland
+JIPPO Joensuu,JIPPO,JIP,1,Ykkösliiga,Finland
+KTP,KTP,KOT,2,Ykkösliiga,Finland
+FF Jaro,Jaro,JAR,3,Ykkösliiga,Finland
+TPS,TPS,TPS,4,Ykkösliiga,Finland
+JäPS,JäPS,JAP,5,Ykkösliiga,Finland
+SJK Akatemia,SJK Akatemia,AKA,6,Ykkösliiga,Finland
+SalPa,SalPa,SAL,7,Ykkösliiga,Finland
+KäPa,KäPa,KAP,8,Ykkösliiga,Finland
+PK-35,PK-35,35H,9,Ykkösliiga,Finland
+MP,MP,MIP,10,Ykkösliiga,Finland
+AF Elbasani,AF Elbasani,ELB,1,Kategoria e Pare,Albania
+KF Bylis,Bylis,BYB,2,Kategoria e Pare,Albania
+Flamurtari FC,Flamurtari,FLV,3,Kategoria e Pare,Albania
+KF Vora,Vora,FKV,4,Kategoria e Pare,Albania
+KF Apolonia Fier,Apolonia Fier,APF,5,Kategoria e Pare,Albania
+Korabi Peshkopi,Korabi,KOP,6,Kategoria e Pare,Albania
+KS Kastrioti,Kastrioti,KAK,7,Kategoria e Pare,Albania
+KS Burreli,Burreli,BUR,8,Kategoria e Pare,Albania
+Besa Kavajë,Besa,KAV,9,Kategoria e Pare,Albania
+Lushnja,Lushnja,LUS,10,Kategoria e Pare,Albania
+KF Luz i Vogël 2008,Luz i Vogël ,LUZ,11,Kategoria e Pare,Albania
+FK Tomori Berat,Tomori Berat,TFK,12,Kategoria e Pare,Albania
+Techiman Heroes SC,Techiman Heroes,THS,1,Access Bank Division One,Ghana
+Victory Club Warriors,Victory Club Warriors,VCW,2,Access Bank Division One,Ghana
+Tamale City FC,Tamale City,TAM,3,Access Bank Division One,Ghana
+Northern City FC,Northern City,NCF,4,Access Bank Division One,Ghana
+Wa Suntaa SC,Wa Suntaa,WSS,5,Access Bank Division One,Ghana
+Wa Power SC,Wa Power,WPS,6,Access Bank Division One,Ghana
+Tamale Steadfast FC,Tamale Steadfast,TSF,7,Access Bank Division One,Ghana
+Maana FC,Maana,MFC,8,Access Bank Division One,Ghana
+Al-Jazeera Jordan,Al-Jazeera,AJA,1,Jordan 1st Division,Jordan
+Al Sareeh,Al Sareeh,SAR,2,Jordan 1st Division,Jordan
+Sama Al Sarhan,Sama Al Sarhan,ASA,3,Jordan 1st Division,Jordan
+Al Arabi Jordan,Al-Arabi,AAR,4,Jordan 1st Division,Jordan
+Dar Al Dawa,Dar Al Dawa,AMM,5,Jordan 1st Division,Jordan
+Al-Yarmouk,Al-Yarmouk,AYA,6,Jordan 1st Division,Jordan
+Ittihad Al Ramtha,Ittihad Al Ramtha,IAR,7,Jordan 1st Division,Jordan
+Al-Baqa'a,Al-Baqa'a,ABA,8,Jordan 1st Division,Jordan
+OM AL Qutain,OM AL Qutain,QUT,9,Jordan 1st Division,Jordan
+Sama,Sama,SAM,10,Jordan 1st Division,Jordan
+Al Hashemeya,Al Hashemeya,HAS,11,Jordan 1st Division,Jordan
+Kfarsoum,Kfarsoum,KFA,12,Jordan 1st Division,Jordan
+Al Tora,Al Tora,TOR,13,Jordan 1st Division,Jordan
+EL Alia,EL Alia,ALI,14,Jordan 1st Division,Jordan
+Fjölnir Reykjavík,Fjölnir,FJO,1,1. deild,Iceland
+UMF Njarðvík,Njarðvík,UMF,2,1. deild,Iceland
+Grótta,Grótta,GRO,3,1. deild,Iceland
+Þór Akureyri,Þór A,THA,4,1. deild,Iceland
+ÍR Reykjavík,ÍR Reykjavík,IRR,5,1. deild,Iceland
+Dalvík Reynir,Dalvík R,DAL,6,1. deild,Iceland
+Keflavík IF,Keflavík,KEF,7,1. deild,Iceland
+ÍBV Vestmannaeyjar,Vestmannaeyjar,VES,8,1. deild,Iceland
+UMF Grindavík ,Grindavík ,GRI,9,1. deild,Iceland
+Leiknir Reykjavík,Leiknir R,LEI,10,1. deild,Iceland
+Afturelding,Afturelding,AFR,11,1. deild,Iceland
+Thróttur Reykjavík,Thróttur,THR,12,1. deild,Iceland
+Sioni Bolnisi,Sioni Bolnisi,BOL,1,Erovnuli Liga 2,Georgia
+FC Rustavi,FC Rustavi,RUS,2,Erovnuli Liga 2,Georgia
+Dinamo-2 Tbilisi,Dinamo-2,D2T,3,Erovnuli Liga 2,Georgia
+Gareji,Gareji,GAR,4,Erovnuli Liga 2,Georgia
+FC Aragvi Dusheti,FC Aragvi Dusheti,ADU,5,Erovnuli Liga 2,Georgia
+FC Spaeri,FC Spaeri,SPA,6,Erovnuli Liga 2,Georgia
+WIT Georgia,WIT Georgia,WIT,7,Erovnuli Liga 2,Georgia
+SFC Shturmi,SFC Shturmi,SSH,8,Erovnuli Liga 2,Georgia
+Lokomotivi Tbilisi,Lokomotivi,TBI,9,Erovnuli Liga 2,Georgia
+Kolkheti Khobi,Kolkheti,KOL,10,Erovnuli Liga 2,Georgia
+Hapoel Ironi Kiryat Shmona, Kiryat Shmona,IKS,1,National League,Israel
+Ironi Tiberias,I. Tiberias,ITI,2,National League,Israel
+Bnei Yehuda Tel Aviv,Bnei Yehuda,BYE,3,National League,Israel
+Hapoel Nof HaGalil,Hapoel Nof HaGalil,HNH,4,National League,Israel
+Maccabi Yafo Kabilyo,Maccabi Yafo,MKJ,5,National League,Israel
+Hapoel Nir Ramat HaSharon,Ramat HaSharon,NRH,6,National League,Israel
+Maccabi Herzliya,M. Herzliya,MHE,7,National League,Israel
+Hapoel Um El Fahem,Um El Fahem,HUF,8,National League,Israel
+Bahrain SC,Bahrain,BAH,1,2nd Division,Bahrain
+A'Ali FC,A'Ali FC,AAL,2,2nd Division,Bahrain
+Malkiya Club,Malkiya,MAL,3,2nd Division,Bahrain
+Al Ittihad Bahrain,Al Ittihad Bahrain,AIB,4,2nd Division,Bahrain
+Al-Budaiya,Al-Budaiya,BUD,5,2nd Division,Bahrain
+Al Ittifaq,Al Ittifaq,ITT,6,2nd Division,Bahrain
+Isa Town,Isa Town,ISA,7,2nd Division,Bahrain
+Bouri,Bouri,BOU,8,2nd Division,Bahrain
+Um Alhassam,Um Alhassam,ALH,9,2nd Division,Bahrain
+Qalali,Qalali,QAL,10,2nd Division,Bahrain
+Etehad al Reef,Etehad al Reef,ETE,11,2nd Division,Bahrain
+Al-Tadhmon,Al-Tadhmon,TAD,12,2nd Division,Bahrain
+Alianza FC,Alianza,ALI,1,"Primera División, Clausura",El Salvador
+C D Luis Ángel Firpo,L.A. Firpo,LAF,2,"Primera División, Clausura",El Salvador
+CD Municipal Limeño,Municipal Limeño,MLI,3,"Primera División, Clausura",El Salvador
+CD Águila,Águila,CDA,4,"Primera División, Clausura",El Salvador
+CD FAS,FAS,FAS,5,"Primera División, Clausura",El Salvador
+C.D. Platense Zacatecoluca,C.D. Platense,PLA,6,"Primera División, Clausura",El Salvador
+Isidro Metapan,Isidro,ISI,7,"Primera División, Clausura",El Salvador
+CD Once Deportivo,Once Deportivo,ODA,8,"Primera División, Clausura",El Salvador
+CD Dragon,Dragon,DGN,9,"Primera División, Clausura",El Salvador
+Santa Tecla FC,Santa Tecla,STF,10,"Primera División, Clausura",El Salvador
+Fuerte San Francisco,Fuerte San Francisco,SFM,11,"Primera División, Clausura",El Salvador
+Jocoro FC,Jocoro FC,JOC,12,"Primera División, Clausura",El Salvador
+CD Marathon,Marathon,CDM,1,"Liga Betcris de Honduras, Clausura",Honduras
+FC Motagua,Motagua,MOT,2,"Liga Betcris de Honduras, Clausura",Honduras
+CD Olimpia,Olimpia,OLI,3,"Liga Betcris de Honduras, Clausura",Honduras
+Olancho FC,Olancho FC,OLA,4,"Liga Betcris de Honduras, Clausura",Honduras
+CD Genesis,CD Genesis,GEN,5,"Liga Betcris de Honduras, Clausura",Honduras
+Real CD España,Real España,RES,6,"Liga Betcris de Honduras, Clausura",Honduras
+CD Real Sociedad,Sociedad,SOC,7,"Liga Betcris de Honduras, Clausura",Honduras
+CD Victoria,Victoria,VIC,8,"Liga Betcris de Honduras, Clausura",Honduras
+Lobos UPNFM,Lobos UPN,UPN,9,"Liga Betcris de Honduras, Clausura",Honduras
+CD Vida,Vida,VID,10,"Liga Betcris de Honduras, Clausura",Honduras
+FK Spartak Varna,Spartak Varna,VAR,1,Vtora Liga,Bulgaria
+FK Septemvri Sofia,Septemvri,SES,2,Vtora Liga,Bulgaria
+FC Marek 1915 Dupnitsa,Marek,DUP,3,Vtora Liga,Bulgaria
+PFK Montana 1921,Montana,MON,4,Vtora Liga,Bulgaria
+FK Strumska Slava Radomir,Strumska Slava,STR,5,Vtora Liga,Bulgaria
+FK Dobrudzha Dobrich,Dobrudzha,DOB,6,Vtora Liga,Bulgaria
+FK CSKA 1948 Sofia II,CSKA 1948 II,CSK,7,Vtora Liga,Bulgaria
+FK Yantra Gabrovo,Yantra Gabrovo,YAN,8,Vtora Liga,Bulgaria
+FK Dunav Ruse,Dunav,DR,9,Vtora Liga,Bulgaria
+OFK Spartak Pleven,Spartak (P),SPA,10,Vtora Liga,Bulgaria
+FK Litex Lovech,Litex,LIT,11,Vtora Liga,Bulgaria
+Ludogorets B,Ludogorets B,LRB,12,Vtora Liga,Bulgaria
+OFK Belasitsa Petrich,Belasitsa,BEL,13,Vtora Liga,Bulgaria
+FK Sportist Svoge,Sportist,SPO,14,Vtora Liga,Bulgaria
+FC Chernomorets 1919 Burgas,Chernomorets,CHE,15,Vtora Liga,Bulgaria
+FC Chernomorets Balchik,Chernomorets,CHE,16,Vtora Liga,Bulgaria
+FK Maritsa Plovdiv,Maritsa,MAR,17,Vtora Liga,Bulgaria
+OFC Bdin 1923 Vidin,Bdin ,BDI,18,Vtora Liga,Bulgaria
+Yunnan Yukun,Yunnan Yukun,YUN,1,CFA China League,China
+Dalian Young Boy FC,Dalian Young Boy,DAL,2,CFA China League,China
+Chongqing Tonglianglong FC,Chongqing Tonglianglong FC,CHO,3,CFA China League,China
+Shijiazhuang Gongfu,SJZ Gongfu,SHI,4,CFA China League,China
+Guangxi Pingguo Haliao,Guangxi,GUA,5,CFA China League,China
+Guangzhou FC,Guangzhou,GUA,6,CFA China League,China
+Yanbian Longding,Yanbian Longding,YAN,7,CFA China League,China
+Suzhou Dongwu,Suzhou,SUD,8,CFA China League,China
+Nanjing City,Nanjing,NAC,9,CFA China League,China
+Qingdao Red Lions,Red Lions,QIN,10,CFA China League,China
+Shanghai Jiading Huilong,Jiading,SJC,11,CFA China League,China
+Heilongjiang Ice City,Heilongjiang,HEI,12,CFA China League,China
+Liaoning Shenyang Urban,Liaoning,LIS,13,CFA China League,China
+Foshan Nanshi,Foshan,FOS,14,CFA China League,China
+Wuxi Wugou,Wugo,WUX,15,CFA China League,China
+Jiangxi Beidamen,Jiangxi,JIL,16,CFA China League,China
+Police FC,Police FC,POL,1,Big League,Uganda
+Mbale Heroes FC,Mbale Heroes,MHF,2,Big League,Uganda
+Lugazi Municipal FC,Lugazi Municipal FC,LMU,3,Big League,Uganda
+Kataka FC,Kataka FC,KAT,4,Big League,Uganda
+Booma,Booma,BOO,5,Big League,Uganda
+Blacks Power FC,Blacks Power,BLP,6,Big League,Uganda
+Kigezi Homeboyz FC,Kigezi Homeboyz FC,KHO,7,Big League,Uganda
+Onduparaka,Onduparaka,OND,8,Big League,Uganda
+Kiyinda Boys FC,Kiyinda Boys,KBF,9,Big League,Uganda
+Kaaro Karungi,Kaaro Karungi,KKA,10,Big League,Uganda
+Calvary FC,Calvary FC,CAL,11,Big League,Uganda
+Kyetume FC,Kyetume FC,KYE,12,Big League,Uganda
+Jinja North United FC,Jinja North United FC,JNF,13,Big League,Uganda
+Young Elephants,Young Elephants,YEL,14,Big League,Uganda
+Ndejje University,Ndejje University,NUN,15,Big League,Uganda
+Shabab Al-Dhahiriya,Shabab Al-Dhahiriya,SAD,1,West Bank League,Palestine
+Thaqafi Tulkarem,Thaqafi Tulkarem,THT,2,West Bank League,Palestine
+Markaz Balata,Markaz Balata,MSB,3,West Bank League,Palestine
+Shabab Al-Khalil,Shabab Al-Khalil,SAK,4,West Bank League,Palestine
+Jabal Al-Mukaber,Jabal Al-Mukaber,MOK,5,West Bank League,Palestine
+Hilal Al-Quds,Hilal Al-Quds,HAQ,6,West Bank League,Palestine
+Taraji Wadi Al-Nes,Taraji Wadi Al-Nes,WAN,6,West Bank League,Palestine
+Shabab Alobaideya,Shabab Alobaideya,ALO,8,West Bank League,Palestine
+Shabab Alsamu,Shabab Alsamu,ALS,9,West Bank League,Palestine
+Mosaset Al-Bireh,Mosaset Al-Bireh,MAB,10,West Bank League,Palestine
+Ahli Al-Khaleel, Ahli Al-Khaleel,KHA,11,West Bank League,Palestine
+AL Sawahreh,AL Sawahreh,SAW,12,West Bank League,Palestine
+FC Gandzasar,Gandzasar,GAN,1,First League,Armenia
+BKMA Yerevan II,BKMA II,BKMA,2,First League,Armenia
+FC Syunik,FC Syunik,SYU,3,First League,Armenia
+Lernayin Artsakh FC,Lernayin Artsakh ,LER,4,First League,Armenia
+Ararat-Armenia II,Ararat-Armenia II,ARA,5,First League,Armenia
+Urartu II,Urartu II,URA,6,First League,Armenia
+Andranik,Andranik,AND,7,First League,Armenia
+FC Alashkert II,Alashkert II,ALA,8,First League,Armenia
+Noah Yerevan 2,Noah Yerevan 2,NOA,9,First League,Armenia
+FC Ararat II,Ararat II,AY2,10,First League,Armenia
+Shirak Gyumri II,Shirak II,SG2,11,First League,Armenia
+Pyunik II,Pyunik II,PY2,12,First League,Armenia
+FC Mika,Mika,MIK,13,First League,Armenia
+Onor,Onor,ONO,14,First League,Armenia
+FC Nikarm,FC Nikarm,NIK,15,First League,Armenia
+Nakhon Ratchasima Mazda FC,Nakhon Ratchasima,NRA,1,Thai League 2,Thailand
+Nongbua Pitchaya,Nongbua Pitchaya,NOP,2,Thai League 2,Thailand
+Rayong FC,Rayong FC,RAY,3,Thai League 2,Thailand
+Chiangmai FC,Chiangmai FC,CHI,4,Thai League 2,Thailand
+Nakhon Si United, Nakhon Si United,NAU,5,Thai League 2,Thailand
+Ayutthaya United,Ayutthaya United,AYU,6,Thai League 2,Thailand
+Pattaya United,Pattaya United,PAD,7,Thai League 2,Thailand
+Lampang,Lampang,LAM,8,Thai League 2,Thailand
+Chiangmai United,Chiangmai Utd,CHI,9,Thai League 2,Thailand
+Suphanburi,Suphanburi,SUP,10,Thai League 2,Thailand
+Chanthaburi,Chanthaburi,CHA,11,Thai League 2,Thailand
+Phrae United,Phrae United,PHR,12,Thai League 2,Thailand
+Dragon Pathumwan Kanchanaburi,DP Kanchanaburi FC,DPK,13,Thai League 2,Thailand
+Chainat Hornbill,Chainat,CHA,14,Thai League 2,Thailand
+Samut Prakan City,Samut Prakan City,SPC,15,Thai League 2,Thailand
+Kasetsart FC,Kasetsart,KAS,16,Thai League 2,Thailand
+Customs United,Customs Utd,CLU,17,Thai League 2,Thailand
+Krabi FC,Krabi FC,KRA,18,Thai League 2,Thailand
+Caspiy Aktau,Caspiy,KAS,1,First Division,Kazakhstan
+Jetisay FC,Jetisay,JET,2,First Division,Kazakhstan
+Ulytau FC,Ulytau,ULY,3,First Division,Kazakhstan
+FK Ekibastuz,Ekibastuz,EKI,4,First Division,Kazakhstan
+FC Okzhetpes,Okzhetpes,OKZ,5,First Division,Kazakhstan
+Kairat-Zhastar,Kairat-Zhastar,KAI,7,First Division,Kazakhstan
+SD Family FC,SD Family FC,FAM,8,First Division,Kazakhstan
+FC Khan Tengri,Khan Tengri,KHA,9,First Division,Kazakhstan
+Taraz,Taraz,TAR,10,First Division,Kazakhstan
+FC Turkistan,FC Turkistan,TUR,10,First Division,Kazakhstan
+FK Arys,FK Arys,ARY,11,First Division,Kazakhstan
+FC Kaysar Reserve,FC Kaysar,KKR,12,First Division,Kazakhstan
+Akzhayik Uralsk,Akzhayik,AKU,13,First Division,Kazakhstan
+Altay VKO,Altay VKO,ALT,14,First Division,Kazakhstan
+Aktobe Reserve,Aktobe Reserve,AKT,15,First Division,Kazakhstan
+FK Kyran Shymkent,Kyran Sh.,KYS,16,First Division,Kazakhstan
+CSD Municipal,Municipal,MUN,1,"Liga Guate Banrural, Clausura",Guatemala
+Antigua GFC,Antigua,ATG,2,"Liga Guate Banrural, Clausura",Guatemala
+Deportivo Mixco,Deportivo Mixco,DEP,3,"Liga Guate Banrural, Clausura",Guatemala
+Cobán Imperial,Cobán Imperial,COI,4,"Liga Guate Banrural, Clausura",Guatemala
+Comunicaciones FC,Comunicaciones,COM,5,"Liga Guate Banrural, Clausura",Guatemala
+Deportivo Achuapa,Deportivo Achuapa,ACH,6,"Liga Guate Banrural, Clausura",Guatemala
+Xinabajul Huehue,Xinabajul,HUE,7,"Liga Guate Banrural, Clausura",Guatemala
+Deportivo Malacateco,Malacateco,MAL,8,"Liga Guate Banrural, Clausura",Guatemala
+CSD Xelajú MC,Xelajú MC,WEL,9,"Liga Guate Banrural, Clausura",Guatemala
+Deportivo Guastatoya,Dep. Guastatoya,GUA,10,"Liga Guate Banrural, Clausura",Guatemala
+CSD Zacapa,Zacapa,ZAC,11,"Liga Guate Banrural, Clausura",Guatemala
+Coatepeque FC,Coatepeque FC,DEC,12,"Liga Guate Banrural, Clausura",Guatemala
+Şamaxı FK,Şamaxı,SHA,1,Birinci Liqa,Azerbaijan
+Qaradağ Lökbatan FK,Qaradağ Lökbatan,LOK,2,Birinci Liqa,Azerbaijan
+MOIK Bakı,MOİK,MBA,3,Birinci Liqa,Azerbaijan
+İmişli FK,İmişli,IMI,4,Birinci Liqa,Azerbaijan
+FK Karvan Yevlax,Karvan,KEV,5,Birinci Liqa,Azerbaijan
+PFK Zaqatala,Zaqatala,ZAQ,6,Birinci Liqa,Azerbaijan
+Mingəçevir,Mingəçevir,EMI,7,Birinci Liqa,Azerbaijan
+İrəvan FK,İrəvan,IRE,8,Birinci Liqa,Azerbaijan
+Difai Ağsu,Difai Ağsu,DIF,9,Birinci Liqa,Azerbaijan
+Araz Saatlı,Araz Saatlı,ARA,10,Birinci Liqa,Azerbaijan
+Al Nahda Sabha,Al Nahda Sabha,ANS,1,First Division,Libya
+Al Hilal Sabha,Al Hilal Sabha,AHS,2,First Division,Libya
+Al Wadi Al Akhdar SC,Al Wadi Al Akhdar,AWA,3,First Division,Libya
+Al Mahdia,Al Mahdia,AMA,4,First Division,Libya
+Aljazeera Sabha,Aljazeera Sabha,ASA,5,First Division,Libya
+Al Sharara Sabha,Al Sharara ,ASS,6,First Division,Libya
+Al Qurdabia,Al Qurdabia,AQU,7,First Division,Libya
+Al Aml Awbari,Al Aml SC,AAA,8,First Division,Libya
+Kengold FC,Kengold FC,KFC,1,Championship,Tanzania
+Pamba SC,Pamba,PAM,2,Championship,Tanzania
+Biashara United,Biashara United,BUN,3,Championship,Tanzania
+Mbeya Kwanza FC,Mbeya Kwanza,MKF,4,Championship,Tanzania
+TMA Stars,TMA Stars,TST,5,Championship,Tanzania
+Mbuni FC,Mbuni,MBU,6,Championship,Tanzania
+Mbeya City FC,Mbeya City,MBE,7,Championship,Tanzania
+Polisi Tanzania FC,Polisi Tanzania FC,POL,8,Championship,Tanzania
+Cosmopolitan,Cosmopolitan,COS,9,Championship,Tanzania
+FGA Talents FC,FGA Talents,FGF,10,Championship,Tanzania
+Stand United FC,Stand United FC,SUN,11,Championship,Tanzania
+Green Warriors FC,Green Warriors,GWF,12,Championship,Tanzania
+Transit Camp FC,Transit Camp FC,TCF,13,Championship,Tanzania
+Copco Veteran,Copco,COP,14,Championship,Tanzania
+Pan African FC,Pan African FC,PAF,15,Championship,Tanzania
+Ruvu Shooting,Ruvu Shooting,RUV,16,Championship,Tanzania
+Mohammedan SC,Mohammedan,MHM,1,I-League,India
+Sreenidi Deccan FC,Sreenidi Deccan,SRE,2,I-League,India
+Gokulam Kerala FC,Gokulam,GOK,3,I-League,India
+Inter Kashi FC,Inter Kashi FC,INT,4,I-League,India
+Real Kashmir,Real Kashmir,REAL,5,I-League,India
+Delhi FC,Delhi FC,DEL,6,I-League,India
+Churchill Brothers SC,Churchill Brothers,CHB,7,I-League,India
+Shillong Lajong FC,Shillong,LAJ,8,I-League,India
+Namdhari Football Club,Namdhari FC,NAM,9,I-League,India
+Aizawl FC,Aizawl,AIZ,10,I-League,India
+Rajasthan United FC,Rajasthan United FC,RAJ,11,I-League,India
+Neroca FC,Neroca,NER,12,I-League,India
+TRAU FC,TRAU,TRAU,13,I-League,India
+Harju Jalgpallikool,Harju Jalgpallikool,HAR,1,Esiliiga,Estonia
+Tartu JK Welco,Welco,WEL,2,Esiliiga,Estonia
+Flora Tallinn U21,Flora U21,FLO,3,Esiliiga,Estonia
+FC Tallinn,FC Tallinn,TAL,4,Esiliiga,Estonia
+FCI Levadia Tallinn U21,Levadia U21,LEV,5,Esiliiga,Estonia
+Viimsi JK,VJK,VII,6,Esiliiga,Estonia
+FC Elva,Elva,ELV,7,Esiliiga,Estonia
+JK Tallinna Kalev U21,T. Kalev II U21,TAK,8,Esiliiga,Estonia
+Paide Linnameeskond U21,Paide Linnameeskond U21,PLI,9,Esiliiga,Estonia
+JK Tabasalu,JK Tabasalu,TAB,10,Esiliiga,Estonia
+Hart Academy FC,Hart Academy FC,HAF,1,GFF Second Division,Gambia
+BK Milan,BK Milan,MIL,2,GFF Second Division,Gambia
+Gambian Dutch Lions,Gambian Dutch Lions,GDL,3,GFF Second Division,Gambia
+Hawks FC,Hawks,HFC,4,GFF Second Division,Gambia
+Gambia Ports Authority,Gambia Ports Authority,GPA,5,GFF Second Division,Gambia
+RS Tallinding FC,RS Tallinding,RST,6,GFF Second Division,Gambia
+Serekunda United,Serekunda United,SKU,7,GFF Second Division,Gambia
+Elite United FC,Elite United,EUF,8,GFF Second Division,Gambia
+FC Gunjur United,Gunjur United,GUN,9,GFF Second Division,Gambia
+Kanifing East FC,Kanifing East ,KEF,10,GFF Second Division,Gambia
+Latrikunda United,Latrikunda United,LUN,11,GFF Second Division,Gambia
+Unique Global FC,Unique Global,UGL,12,GFF Second Division,Gambia
+Medina United FA,Medina United,MUN,13,GFF Second Division,Gambia
+Serekunda FC,Serekunda,SFC,14,GFF Second Division,Gambia
+Wagadu FC,Wagadu,WFC,15,GFF Second Division,Gambia
+Jam City FC,Jam City,JCI,16,GFF Second Division,Gambia
+Jarra West FC,Jarra West,JWE,17,GFF Second Division,Gambia
+Immigration FC,Immigration,IFC,18,GFF Second Division,Gambia
+B36 Tórshavn II,B36 II,B36,1,1. deild,Faroe Islands
+FC Suduroy,FC Suduroy,SUD,2,1. deild,Faroe Islands
+B71 Sandoy,B71 Sandoy,B71,3,1. deild,Faroe Islands
+Tvøroyrar Bóltfelag,TB Tvøroyri,TBT,4,1. deild,Faroe Islands
+NSÍ Runavík II,NSÍ Runavík,RUN,5,1. deild,Faroe Islands
+Argja Bóltfelag,AB Argir,ARG,6,1. deild,Faroe Islands
+Víkingur Gøta II,Víkingur II,GOT,7,1. deild,Faroe Islands
+Klaksvíkar Ítróttarfelag II,KÍ II,KIK,8,1. deild,Faroe Islands
+Havnar Bóltfelag II,HB II,HBT,9,1. deild,Faroe Islands
+FC Hoyvi­k,FC Hoyvi­k,HOY,10,1. deild,Faroe Islands
+FK Riteriai,Riteriai,RIT,1,Pirma Lyga,Lithuania
+FC Neptūnas Klaipėda,FC Neptūnas Klaipėda,NEP,2,Pirma Lyga,Lithuania
+BE1 NFA,BE1 NFA,BE1,3,Pirma Lyga,Lithuania
+FK Babrungas Plungė,FK Babrungas Plungė,BAB,4,Pirma Lyga,Lithuania
+Baltijos Futbolo Akademija,Baltijos Futbolo Akademija,BAL,5,Pirma Lyga,Lithuania
+FK Nevėžis Kėdainiai,Nevėžis,NEV,6,Pirma Lyga,Lithuania
+FK Kauno Zalgiris B,FK Kauno Zalgiris B,KAU,7,Pirma Lyga,Lithuania
+Ekranas Panevezys,Ekranas,EKR,8,Pirma Lyga,Lithuania
+Atmosfera Mažeikiai,Atmosfera Mažeikiai,ATM,9,Pirma Lyga,Lithuania
+FK Panevezys B,FK Panevezys B,PAN,10,Pirma Lyga,Lithuania
+FK Tauras,Tauras,TAU,11,Pirma Lyga,Lithuania
+Minija Fc Kretinga,Minija Fc Kretinga,MIN,12,Pirma Lyga,Lithuania
+Hegelmann Litauen B,Hegelmann Litauen B,HEG,13,Pirma Lyga,Lithuania
+FK Garliava,FK Garliava,GAR,14,Pirma Lyga,Lithuania
+FA Siauliai B,FA Siauliai B,SIA,15,Pirma Lyga,Lithuania
+Banga Gargzdai B,Banga Gargzdai B,BAN,16,Pirma Lyga,Lithuania
+LLB Amasipiri,LLB Amasipiri,LAM,1,Ligue B Nationale,Burundi
+Telaviv FC,Telaviv FC,TEL,2,Ligue B Nationale,Burundi
+Flambeau de l'Est FC,Flambeau de l'Est FC,FDE,3,Ligue B Nationale,Burundi
+Academie Deira,Academie Deira ,ADE,4,Ligue B Nationale,Burundi
+Les Lierres,Les Lierres,LLI,5,Ligue B Nationale,Burundi
+Les Jeunes Athlétiques Fc,Les Jeunes Athlétiques,LJA,6,Ligue B Nationale,Burundi
+Muzinga FC,Muzinga FC,MUZ,7,Ligue B Nationale,Burundi
+Tara Star,Tara Star,TST,8,Ligue B Nationale,Burundi
+Security Forces United,Security Forces,SFU,1,Division 1,Saint Kitts and Nevis
+Sandy Point FC,Sandy Point,SPO,2,Division 1,Saint Kitts and Nevis
+Dieppe Bay Eagles FC,Dieppe Bay ,DBE,3,Division 1,Saint Kitts and Nevis
+Mantab United,Mantab United,MUN,4,Division 1,Saint Kitts and Nevis
+Molineaux F.C.,Molineaux,MFC,5,Division 1,Saint Kitts and Nevis
+Saddlers United FC,Saddlers United,SUN,6,Division 1,Saint Kitts and Nevis
+Conaree Fireball International FC,Conaree Fireball,CFI,7,Division 1,Saint Kitts and Nevis
+KFC Trinity/Challengers United FC,Challengers ,KTC,8,Division 1,Saint Kitts and Nevis
+Rivers of Living Water FC,Rivers of Living Water,ROL,9,Division 1,Saint Kitts and Nevis
+Lodge Patriots FC,Lodge Patriots ,LOD,10,Division 1,Saint Kitts and Nevis
+Kowloon City,Kowloon City,KOW,1,Division 1,Hong Kong
+Central & Western,Central & Western,CEN,2,Division 1,Hong Kong
+South China,South China,SCH,3,Division 1,Hong Kong
+3 Sing FC,3 Sing FC,SIN,4,Division 1,Hong Kong
+Shatin,Shatin,SHA,5,Division 1,Hong Kong
+Yuen Long District SA,Yuen Long,YLO,6,Division 1,Hong Kong
+Citizen AA,Citizen,CAA,7,Division 1,Hong Kong
+Wing Yee,Wing Yee,WIY,8,Division 1,Hong Kong
+Eastern District,Eastern District,EAD,9,Division 1,Hong Kong
+Hoi King,Hoi King,HKI,10,Division 1,Hong Kong
+Sai Kung Dsa,Sai Kung Dsa,SAI,11,Division 1,Hong Kong
+Wong Tai Sin,Wong Tai Sin,WTS,12,Division 1,Hong Kong
+Zabbar Saint Patrick FC,St. Patrick,PAT,1,Challenge League,Malta
+Melita FC,Melita,MEL,2,Challenge League,Malta
+Senglea Athletic,Senglea,SEN,3,Challenge League,Malta
+Marsa FC,Marsa,MAR,4,Challenge League,Malta
+Pietà Hotspurs FC,Pietà H,PIE,5,Challenge League,Malta
+Zurrieq,Zurrieq,ZUR,6,Challenge League,Malta
+Fgura United FC,Fgura Utd,FGU,7,Challenge League,Malta
+Lija Athletic,Lija A,LIJ,8,Challenge League,Malta
+Swieqi United FC,Swieqi,SWI,9,Challenge League,Malta
+Tarxien Rainbows FC,Tarxien R,TAR,10,Challenge League,Malta
+Zejtun Corinthians FC,Z. Corinthians,ZEJ,11,Challenge League,Malta
+Luqa Sa,Luqa Sa,LUQ,12,Challenge League,Malta
+St. Andrews FC,St Andrews,STA,13,Challenge League,Malta
+Zebbug Rangers FC,Zebbug,ZEB,14,Challenge League,Malta
+Attard FC,Attard,ATT,15,Challenge League,Malta
+Msida St. Joseph FC,Msida SJ,MSJ,16,Challenge League,Malta
+Brothers Union,Brothers Union,BUN,1,Championship League,Bangladesh
+BFF Elite Academy,BFF ,BEA,2,Championship League,Bangladesh
+Gopalgonj Sporting Club,Gopalgonj SC,GSC,3,Championship League,Bangladesh
+Fakirerpool Young Men,Fakirerpool Young Men,FYM,4,Championship League,Bangladesh
+NoFeL SC,NoFeL ,NSC,5,Championship League,Bangladesh
+Wari Club,Wari Club,WCL,6,Championship League,Bangladesh
+Dhaka Wanderers Club,Dhaka WC,DWC,7,Championship League,Bangladesh
+Fortis FC Academy,Fortis FC Academy,FFA,8,Championship League,Bangladesh
+Uttara FC,Uttara,UFC,9,Championship League,Bangladesh
+Swadhinata KS,Swadhinata ,SKS,10,Championship League,Bangladesh
+Little Friends Club,Little Friends Club,LFC,11,Championship League,Bangladesh
